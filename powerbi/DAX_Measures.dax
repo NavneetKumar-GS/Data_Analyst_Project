@@ -1,0 +1,204 @@
+// =============================================================================
+// Enterprise DAX Measures Repository
+// Project: Credit Card Transaction and Fraud Pattern Analysis
+// Semantic Model: Power BI Desktop & Service
+// =============================================================================
+
+// -----------------------------------------------------------------------------
+// 1. Core Transaction Volume & Spend Measures
+// -----------------------------------------------------------------------------
+
+Total Transactions = 
+COUNTROWS('fact_transactions')
+
+Total Spend Volume = 
+SUM('fact_transactions'[amount])
+
+Average Transaction Amount = 
+AVERAGE('fact_transactions'[amount])
+
+
+// -----------------------------------------------------------------------------
+// 2. Fraud Ground Truth & Loss Measures
+// -----------------------------------------------------------------------------
+
+Actual Fraud Transactions = 
+CALCULATE(
+    COUNTROWS('fact_transactions'),
+    'fact_transactions'[is_fraud] = 1
+)
+
+Actual Fraud Loss ($) = 
+CALCULATE(
+    SUM('fact_transactions'[amount]),
+    'fact_transactions'[is_fraud] = 1
+)
+
+Fraud Incident Rate (%) = 
+DIVIDE(
+    [Actual Fraud Transactions],
+    [Total Transactions],
+    0
+)
+
+Fraud Dollar Loss Ratio (%) = 
+DIVIDE(
+    [Actual Fraud Loss ($)],
+    [Total Spend Volume],
+    0
+)
+
+
+// -----------------------------------------------------------------------------
+// 3. Multi-Rule Detection & Flagging Measures
+// -----------------------------------------------------------------------------
+
+Total Flagged Transactions = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[is_flagged] = 1
+)
+
+Total Flagged Volume ($) = 
+CALCULATE(
+    SUM('fact_flagged_transactions'[amount]),
+    'fact_flagged_transactions'[is_flagged] = 1
+)
+
+Flagged Rate (%) = 
+DIVIDE(
+    [Total Flagged Transactions],
+    [Total Transactions],
+    0
+)
+
+Velocity Burst Triggers = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[rule_velocity_burst] = 1
+)
+
+Probe and Drain Triggers = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[rule_probe_drain] = 1
+)
+
+Midnight High Risk Triggers = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[rule_midnight_high_risk] = 1
+)
+
+Credit Limit Outlier Triggers = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[rule_credit_outlier] = 1
+)
+
+
+// -----------------------------------------------------------------------------
+// 4. Model Classification Performance & Accuracy Metrics
+// -----------------------------------------------------------------------------
+
+True Positives (TP) = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[detection_result] = "TRUE_POSITIVE"
+)
+
+False Positives (FP) = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[detection_result] = "FALSE_POSITIVE"
+)
+
+False Negatives (FN) = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[detection_result] = "FALSE_NEGATIVE"
+)
+
+True Negatives (TN) = 
+CALCULATE(
+    COUNTROWS('fact_flagged_transactions'),
+    'fact_flagged_transactions'[detection_result] = "TRUE_NEGATIVE"
+)
+
+Detection Precision (%) = 
+DIVIDE(
+    [True Positives (TP)],
+    [Total Flagged Transactions],
+    0
+)
+
+Detection Recall (%) = 
+DIVIDE(
+    [True Positives (TP)],
+    [Actual Fraud Transactions],
+    0
+)
+
+Ensemble F1 Score (%) = 
+VAR P = [Detection Precision (%)]
+VAR R = [Detection Recall (%)]
+RETURN
+DIVIDE(
+    2 * P * R,
+    P + R,
+    0
+)
+
+False Positive Rate (%) = 
+DIVIDE(
+    [False Positives (FP)],
+    [True Negatives (TN)] + [False Positives (FP)],
+    0
+)
+
+
+// -----------------------------------------------------------------------------
+// 5. Financial Protection & Loss Prevention ROI
+// -----------------------------------------------------------------------------
+
+Prevented Fraud Dollars ($) = 
+CALCULATE(
+    SUM('fact_flagged_transactions'[amount]),
+    'fact_flagged_transactions'[detection_result] = "TRUE_POSITIVE"
+)
+
+Loss Prevention Coverage (%) = 
+DIVIDE(
+    [Prevented Fraud Dollars ($)],
+    [Actual Fraud Loss ($)],
+    0
+)
+
+False Positive Exposure ($) = 
+CALCULATE(
+    SUM('fact_flagged_transactions'[amount]),
+    'fact_flagged_transactions'[detection_result] = "FALSE_POSITIVE"
+)
+
+
+// -----------------------------------------------------------------------------
+// 6. Time Intelligence & Moving Average Calculations
+// -----------------------------------------------------------------------------
+
+Rolling 7-Day Fraud Loss ($) = 
+CALCULATE(
+    [Actual Fraud Loss ($)],
+    DATESINPERIOD(
+        'dim_dates'[full_date],
+        LASTDATE('dim_dates'[full_date]),
+        -7,
+        DAY
+    )
+)
+
+Rolling 7-Day Avg Daily Fraud = 
+DIVIDE(
+    [Rolling 7-Day Fraud Loss ($)],
+    7,
+    0
+)

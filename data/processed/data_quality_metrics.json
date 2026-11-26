@@ -1,0 +1,14 @@
+{
+  "raw_transaction_count": 14763,
+  "raw_dollar_volume": 3879397.45,
+  "duplicate_rows_detected": 13,
+  "negative_refund_rows_filtered": 15,
+  "corrupted_timestamp_rows_dropped": 10,
+  "orphan_card_records": 0,
+  "orphan_merchant_records": 0,
+  "cleaned_transaction_count": 14725,
+  "cleaned_dollar_volume": 3874599.66,
+  "fraud_transaction_count": 313,
+  "legitimate_transaction_count": 14412,
+  "fraud_rate_pct": 2.13
+}

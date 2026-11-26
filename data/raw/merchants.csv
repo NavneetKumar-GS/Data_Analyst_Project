@@ -1,0 +1,401 @@
+merchant_id,merchant_name,category,city,state,zip_code,merchant_lat,merchant_long,base_risk_weight
+MERCH_00001,Byte Haven #1,electronics,San Antonio,TX,78201,29.567999999999998,-98.6393,0.065
+MERCH_00002,PrimeCart Global #2,online_retail,Los Angeles,CA,90001,34.1528,-118.3224,0.038
+MERCH_00003,Highway Oasis Petrol #3,gas_transport,Austin,TX,73301,30.1207,-97.74889999999999,0.012
+MERCH_00004,Metro Fuel Stop #4,gas_transport,San Antonio,TX,78201,29.462699999999998,-98.3985,0.012
+MERCH_00005,Blue Horizon Cruises #5,travel,San Francisco,CA,94101,37.7605,-122.50489999999999,0.045
+MERCH_00006,TrendAvenue Online #6,online_retail,Dallas,TX,75201,32.7905,-96.9117,0.038
+MERCH_00007,FreshMarket Co #7,grocery,Denver,CO,80201,39.8664,-105.0391,0.005
+MERCH_00008,Royal Palace Casino #8,gaming_gambling,Dallas,TX,75201,32.729,-96.6854,0.095
+MERCH_00009,Grand Vista Resorts #9,travel,Indianapolis,IN,46201,39.8174,-86.10770000000001,0.045
+MERCH_00010,Corner Mart #10,grocery,Denver,CO,80201,39.668099999999995,-104.90570000000001,0.005
+MERCH_00011,Bistro Roma #11,dining,New York,NY,10001,40.8522,-74.1181,0.015
+MERCH_00012,BetLine Direct #12,gaming_gambling,Indianapolis,IN,46201,39.867399999999996,-86.272,0.095
+MERCH_00013,Vitality Health Clinic #13,health_wellness,San Jose,CA,95101,37.2261,-121.932,0.008
+MERCH_00014,Harbor Seafood Grill #14,dining,Columbus,OH,43201,39.977199999999996,-82.8669,0.015
+MERCH_00015,Corner Bakery Cafe #15,dining,Philadelphia,PA,19101,39.921899999999994,-75.0328,0.015
+MERCH_00016,Corner Bakery Cafe #16,dining,San Antonio,TX,78201,29.316599999999998,-98.4394,0.015
+MERCH_00017,Volt Tech Mart #17,electronics,San Antonio,TX,78201,29.4941,-98.5374,0.065
+MERCH_00018,Urban Express Inn #18,travel,Phoenix,AZ,85001,33.4673,-112.06479999999999,0.045
+MERCH_00019,Byte Haven #19,electronics,Boston,MA,02101,42.3189,-71.1398,0.065
+MERCH_00020,Skyline Airways #20,travel,Philadelphia,PA,19101,39.914899999999996,-75.2852,0.045
+MERCH_00021,KryptoKiosk #21,crypto_exchange,Atlanta,GA,30301,33.666900000000005,-84.25880000000001,0.12
+MERCH_00022,Vitality Health Clinic #22,health_wellness,Phoenix,AZ,85001,33.4606,-111.9375,0.008
+MERCH_00023,Bistro Roma #23,dining,San Antonio,TX,78201,29.357599999999998,-98.3559,0.015
+MERCH_00024,Highway Oasis Petrol #24,gas_transport,San Jose,CA,95101,37.3051,-121.8798,0.012
+MERCH_00025,Swift Mobility Gas #25,gas_transport,Seattle,WA,98101,47.5966,-122.4413,0.012
+MERCH_00026,City Harvest Grocers #26,grocery,New York,NY,10001,40.585300000000004,-73.9435,0.005
+MERCH_00027,Nexus Goods #27,online_retail,San Jose,CA,95101,37.2508,-121.81630000000001,0.038
+MERCH_00028,Urban Express Inn #28,travel,Chicago,IL,60601,41.745900000000006,-87.6567,0.045
+MERCH_00029,BlockTrade Pay #29,crypto_exchange,Seattle,WA,98101,47.7029,-122.25269999999999,0.12
+MERCH_00030,Golden Odds Wagering #30,gaming_gambling,San Francisco,CA,94101,37.860800000000005,-122.37559999999999,0.095
+MERCH_00031,Highway Oasis Petrol #31,gas_transport,Miami,FL,33101,25.669700000000002,-80.0915,0.012
+MERCH_00032,Silico Goods #32,electronics,San Diego,CA,92101,32.8547,-117.2282,0.065
+MERCH_00033,Highway Oasis Petrol #33,gas_transport,Houston,TX,77001,29.8282,-95.344,0.012
+MERCH_00034,Everyday Outlet #34,online_retail,Phoenix,AZ,85001,33.3601,-112.1813,0.038
+MERCH_00035,FreshMarket Co #35,grocery,Austin,TX,73301,30.1204,-97.8579,0.005
+MERCH_00036,City Harvest Grocers #36,grocery,Denver,CO,80201,39.62,-104.9517,0.005
+MERCH_00037,Golden Dragon Wok #37,dining,San Diego,CA,92101,32.763799999999996,-117.2215,0.015
+MERCH_00038,BitVault Direct #38,crypto_exchange,Boston,MA,02101,42.433,-71.0726,0.12
+MERCH_00039,Silico Goods #39,electronics,Austin,TX,73301,30.3798,-97.6083,0.065
+MERCH_00040,Omni Digital Store #40,electronics,San Francisco,CA,94101,37.8763,-122.4928,0.065
+MERCH_00041,PrimeCart Global #41,online_retail,Indianapolis,IN,46201,39.7462,-86.25760000000001,0.038
+MERCH_00042,Vitality Health Clinic #42,health_wellness,Seattle,WA,98101,47.6837,-122.4147,0.008
+MERCH_00043,CoinRush Global #43,crypto_exchange,Chicago,IL,60601,42.0274,-87.5988,0.12
+MERCH_00044,Urban Express Inn #44,travel,Jacksonville,FL,32099,30.2546,-81.55069999999999,0.045
+MERCH_00045,Bluefin Sushi House #45,dining,Columbus,OH,43201,39.9377,-82.9574,0.015
+MERCH_00046,FreshMarket Co #46,grocery,Dallas,TX,75201,32.8981,-96.75489999999999,0.005
+MERCH_00047,Corner Mart #47,grocery,Columbus,OH,43201,40.0113,-83.0734,0.005
+MERCH_00048,Metro Fuel Stop #48,gas_transport,Chicago,IL,60601,41.732000000000006,-87.5659,0.012
+MERCH_00049,Bluefin Sushi House #49,dining,San Diego,CA,92101,32.7414,-117.24470000000001,0.015
+MERCH_00050,Bistro Roma #50,dining,Dallas,TX,75201,32.6579,-96.7127,0.015
+MERCH_00051,Vitality Health Clinic #51,health_wellness,Seattle,WA,98101,47.6244,-122.23089999999999,0.008
+MERCH_00052,Rapid Transit Fuel #52,gas_transport,Atlanta,GA,30301,33.7547,-84.2604,0.012
+MERCH_00053,Rapid Transit Fuel #53,gas_transport,Los Angeles,CA,90001,34.0827,-118.2166,0.012
+MERCH_00054,ShopSphere Direct #54,online_retail,Houston,TX,77001,29.7831,-95.4846,0.038
+MERCH_00055,Wellspring Med Spa #55,health_wellness,San Diego,CA,92101,32.673899999999996,-117.1093,0.008
+MERCH_00056,Urban Express Inn #56,travel,Columbus,OH,43201,40.0558,-82.9333,0.045
+MERCH_00057,Omni Digital Store #57,electronics,Jacksonville,FL,32099,30.3763,-81.6736,0.065
+MERCH_00058,The Rustic Table #58,dining,Miami,FL,33101,25.870700000000003,-80.3306,0.015
+MERCH_00059,Highway Oasis Petrol #59,gas_transport,Columbus,OH,43201,40.0119,-83.14110000000001,0.012
+MERCH_00060,Blue Horizon Cruises #60,travel,Philadelphia,PA,19101,39.809799999999996,-75.0314,0.045
+MERCH_00061,CoinRush Global #61,crypto_exchange,San Jose,CA,95101,37.4644,-121.79570000000001,0.12
+MERCH_00062,PureCare Pharmacy #62,health_wellness,Indianapolis,IN,46201,39.8732,-86.232,0.008
+MERCH_00063,Everyday Outlet #63,online_retail,Jacksonville,FL,32099,30.2879,-81.51599999999999,0.038
+MERCH_00064,FreshMarket Co #64,grocery,Indianapolis,IN,46201,39.8535,-86.2107,0.005
+MERCH_00065,Urban Lifestyle Shop #65,online_retail,Dallas,TX,75201,32.857299999999995,-96.8988,0.038
+MERCH_00066,Grand Vista Resorts #66,travel,Boston,MA,02101,42.4046,-70.9867,0.045
+MERCH_00067,Wellspring Med Spa #67,health_wellness,Jacksonville,FL,32099,30.4165,-81.7541,0.008
+MERCH_00068,Bluefin Sushi House #68,dining,Chicago,IL,60601,41.8282,-87.59490000000001,0.015
+MERCH_00069,Summit Fitness Studio #69,health_wellness,San Diego,CA,92101,32.6607,-117.2193,0.008
+MERCH_00070,PureCare Pharmacy #70,health_wellness,Chicago,IL,60601,41.919900000000005,-87.6859,0.008
+MERCH_00071,Bluefin Sushi House #71,dining,Philadelphia,PA,19101,40.029599999999995,-75.2546,0.015
+MERCH_00072,Vitality Health Clinic #72,health_wellness,Seattle,WA,98101,47.5614,-122.24029999999999,0.008
+MERCH_00073,Express Gas & Go #73,gas_transport,Philadelphia,PA,19101,40.090399999999995,-75.2184,0.012
+MERCH_00074,BitVault Direct #74,crypto_exchange,San Antonio,TX,78201,29.4487,-98.371,0.12
+MERCH_00075,Urban Lifestyle Shop #75,online_retail,Boston,MA,02101,42.299,-71.0409,0.038
+MERCH_00076,Royal Palace Casino #76,gaming_gambling,San Francisco,CA,94101,37.8104,-122.5466,0.095
+MERCH_00077,Pixel Pulse #77,electronics,Chicago,IL,60601,41.9416,-87.50540000000001,0.065
+MERCH_00078,Nexus Goods #78,online_retail,San Francisco,CA,94101,37.8806,-122.5257,0.038
+MERCH_00079,Corner Mart #79,grocery,Boston,MA,02101,42.3162,-71.169,0.005
+MERCH_00080,Rapid Transit Fuel #80,gas_transport,Houston,TX,77001,29.8639,-95.2989,0.012
+MERCH_00081,Valley Foods #81,grocery,Atlanta,GA,30301,33.77,-84.5133,0.005
+MERCH_00082,BetLine Direct #82,gaming_gambling,Indianapolis,IN,46201,39.8662,-86.2343,0.095
+MERCH_00083,BlockTrade Pay #83,crypto_exchange,Dallas,TX,75201,32.6346,-96.8797,0.12
+MERCH_00084,Urban Lifestyle Shop #84,online_retail,San Diego,CA,92101,32.6393,-117.24340000000001,0.038
+MERCH_00085,ShopSphere Direct #85,online_retail,San Antonio,TX,78201,29.3177,-98.55460000000001,0.038
+MERCH_00086,Volt Tech Mart #86,electronics,Atlanta,GA,30301,33.744,-84.4063,0.065
+MERCH_00087,Grand Vista Resorts #87,travel,Boston,MA,02101,42.509600000000006,-71.15119999999999,0.045
+MERCH_00088,Royal Palace Casino #88,gaming_gambling,Denver,CO,80201,39.76349999999999,-104.9521,0.095
+MERCH_00089,Rapid Transit Fuel #89,gas_transport,Dallas,TX,75201,32.838699999999996,-96.6524,0.012
+MERCH_00090,Whole Leaf Organics #90,grocery,Columbus,OH,43201,39.9223,-82.8788,0.005
+MERCH_00091,Golden Odds Wagering #91,gaming_gambling,Austin,TX,73301,30.2793,-97.87,0.095
+MERCH_00092,Urban Lifestyle Shop #92,online_retail,Phoenix,AZ,85001,33.3949,-111.97579999999999,0.038
+MERCH_00093,Urban Lifestyle Shop #93,online_retail,San Diego,CA,92101,32.8044,-117.1374,0.038
+MERCH_00094,CoinRush Global #94,crypto_exchange,Denver,CO,80201,39.8017,-104.97970000000001,0.12
+MERCH_00095,CoinRush Global #95,crypto_exchange,Atlanta,GA,30301,33.667300000000004,-84.43350000000001,0.12
+MERCH_00096,Urban Lifestyle Shop #96,online_retail,Boston,MA,02101,42.4564,-71.1417,0.038
+MERCH_00097,FreshMarket Co #97,grocery,Miami,FL,33101,25.8627,-80.2037,0.005
+MERCH_00098,Harbor Seafood Grill #98,dining,Seattle,WA,98101,47.6335,-122.4627,0.015
+MERCH_00099,KryptoKiosk #99,crypto_exchange,New York,NY,10001,40.7308,-73.9883,0.12
+MERCH_00100,Byte Haven #100,electronics,Jacksonville,FL,32099,30.3252,-81.5938,0.065
+MERCH_00101,Silico Goods #101,electronics,Jacksonville,FL,32099,30.2018,-81.58999999999999,0.065
+MERCH_00102,Blue Horizon Cruises #102,travel,Dallas,TX,75201,32.9109,-96.7287,0.045
+MERCH_00103,Vitality Health Clinic #103,health_wellness,Atlanta,GA,30301,33.7462,-84.3267,0.008
+MERCH_00104,Apex Crypto Net #104,crypto_exchange,San Francisco,CA,94101,37.6895,-122.43379999999999,0.12
+MERCH_00105,Pacific Coast Rail #105,travel,San Jose,CA,95101,37.2874,-121.8653,0.045
+MERCH_00106,Corner Bakery Cafe #106,dining,Columbus,OH,43201,39.8545,-82.9869,0.015
+MERCH_00107,Everyday Outlet #107,online_retail,Miami,FL,33101,25.706,-80.3398,0.038
+MERCH_00108,TrendAvenue Online #108,online_retail,Los Angeles,CA,90001,34.1158,-118.28620000000001,0.038
+MERCH_00109,BitVault Direct #109,crypto_exchange,Chicago,IL,60601,41.9123,-87.6209,0.12
+MERCH_00110,PureCare Pharmacy #110,health_wellness,Philadelphia,PA,19101,40.0224,-75.2406,0.008
+MERCH_00111,Urban Express Inn #111,travel,Philadelphia,PA,19101,40.0533,-75.3064,0.045
+MERCH_00112,Bluefin Sushi House #112,dining,Houston,TX,77001,29.7099,-95.49159999999999,0.015
+MERCH_00113,Highway Oasis Petrol #113,gas_transport,Miami,FL,33101,25.822000000000003,-80.1362,0.012
+MERCH_00114,Swift Mobility Gas #114,gas_transport,San Francisco,CA,94101,37.833800000000004,-122.5278,0.012
+MERCH_00115,Corner Mart #115,grocery,Philadelphia,PA,19101,39.831399999999995,-75.2087,0.005
+MERCH_00116,Vitality Health Clinic #116,health_wellness,Columbus,OH,43201,40.0749,-82.9989,0.008
+MERCH_00117,Royal Palace Casino #117,gaming_gambling,Dallas,TX,75201,32.747099999999996,-96.87899999999999,0.095
+MERCH_00118,ShopSphere Direct #118,online_retail,Chicago,IL,60601,41.830000000000005,-87.5543,0.038
+MERCH_00119,Skyline Airways #119,travel,Dallas,TX,75201,32.632799999999996,-96.7652,0.045
+MERCH_00120,Grand Vista Resorts #120,travel,Los Angeles,CA,90001,34.107,-118.3651,0.045
+MERCH_00121,Apex Electronics #121,electronics,Denver,CO,80201,39.592999999999996,-105.04220000000001,0.065
+MERCH_00122,City Harvest Grocers #122,grocery,New York,NY,10001,40.802800000000005,-73.9856,0.005
+MERCH_00123,Express Gas & Go #123,gas_transport,Chicago,IL,60601,42.0148,-87.72330000000001,0.012
+MERCH_00124,TrendAvenue Online #124,online_retail,Seattle,WA,98101,47.5107,-122.4166,0.038
+MERCH_00125,Metro Fuel Stop #125,gas_transport,Houston,TX,77001,29.872,-95.246,0.012
+MERCH_00126,Urban Express Inn #126,travel,Jacksonville,FL,32099,30.354400000000002,-81.53829999999999,0.045
+MERCH_00127,Vitality Health Clinic #127,health_wellness,Philadelphia,PA,19101,39.9548,-75.0709,0.008
+MERCH_00128,Harbor Seafood Grill #128,dining,New York,NY,10001,40.7494,-73.8754,0.015
+MERCH_00129,BitVault Direct #129,crypto_exchange,San Jose,CA,95101,37.4687,-122.004,0.12
+MERCH_00130,Everyday Outlet #130,online_retail,Philadelphia,PA,19101,39.9796,-75.265,0.038
+MERCH_00131,CoinRush Global #131,crypto_exchange,Seattle,WA,98101,47.5141,-122.43549999999999,0.12
+MERCH_00132,TrendAvenue Online #132,online_retail,Austin,TX,73301,30.3985,-97.61449999999999,0.038
+MERCH_00133,Grand Vista Resorts #133,travel,San Francisco,CA,94101,37.8601,-122.2862,0.045
+MERCH_00134,Nexus Goods #134,online_retail,Boston,MA,02101,42.2297,-71.13499999999999,0.038
+MERCH_00135,BlockTrade Pay #135,crypto_exchange,San Diego,CA,92101,32.8538,-117.1639,0.12
+MERCH_00136,Highway Oasis Petrol #136,gas_transport,Los Angeles,CA,90001,34.0097,-118.1187,0.012
+MERCH_00137,Golden Dragon Wok #137,dining,Miami,FL,33101,25.6413,-80.1858,0.015
+MERCH_00138,Nexus Goods #138,online_retail,Austin,TX,73301,30.3908,-97.7242,0.038
+MERCH_00139,Urban Lifestyle Shop #139,online_retail,Boston,MA,02101,42.366600000000005,-70.98179999999999,0.038
+MERCH_00140,ShopSphere Direct #140,online_retail,San Antonio,TX,78201,29.3589,-98.603,0.038
+MERCH_00141,Wellspring Med Spa #141,health_wellness,San Antonio,TX,78201,29.362,-98.45570000000001,0.008
+MERCH_00142,Highway Oasis Petrol #142,gas_transport,Columbus,OH,43201,39.924299999999995,-83.0017,0.012
+MERCH_00143,Bluefin Sushi House #143,dining,Houston,TX,77001,29.7069,-95.3746,0.015
+MERCH_00144,Rapid Transit Fuel #144,gas_transport,San Jose,CA,95101,37.3375,-121.80040000000001,0.012
+MERCH_00145,Valley Foods #145,grocery,Los Angeles,CA,90001,34.0605,-118.3812,0.005
+MERCH_00146,Pixel Pulse #146,electronics,San Jose,CA,95101,37.4558,-121.81190000000001,0.065
+MERCH_00147,Blue Horizon Cruises #147,travel,Boston,MA,02101,42.262100000000004,-71.11479999999999,0.045
+MERCH_00148,Byte Haven #148,electronics,Boston,MA,02101,42.218500000000006,-70.9189,0.065
+MERCH_00149,Rapid Transit Fuel #149,gas_transport,San Antonio,TX,78201,29.3796,-98.4823,0.012
+MERCH_00150,Everyday Outlet #150,online_retail,Columbus,OH,43201,40.032799999999995,-82.9916,0.038
+MERCH_00151,Royal Palace Casino #151,gaming_gambling,Denver,CO,80201,39.700399999999995,-104.93050000000001,0.095
+MERCH_00152,JackpotHub Digital #152,gaming_gambling,Houston,TX,77001,29.747600000000002,-95.4641,0.095
+MERCH_00153,BetLine Direct #153,gaming_gambling,Austin,TX,73301,30.1391,-97.832,0.095
+MERCH_00154,JackpotHub Digital #154,gaming_gambling,Miami,FL,33101,25.803800000000003,-80.3371,0.095
+MERCH_00155,Rapid Transit Fuel #155,gas_transport,San Antonio,TX,78201,29.5442,-98.6087,0.012
+MERCH_00156,Valley Foods #156,grocery,New York,NY,10001,40.8341,-73.9581,0.005
+MERCH_00157,Corner Mart #157,grocery,Philadelphia,PA,19101,40.098699999999994,-75.0672,0.005
+MERCH_00158,Express Gas & Go #158,gas_transport,San Francisco,CA,94101,37.6383,-122.5269,0.012
+MERCH_00159,Golden Odds Wagering #159,gaming_gambling,Atlanta,GA,30301,33.799600000000005,-84.27340000000001,0.095
+MERCH_00160,Bistro Roma #160,dining,Miami,FL,33101,25.8248,-80.0712,0.015
+MERCH_00161,City Harvest Grocers #161,grocery,San Antonio,TX,78201,29.5562,-98.4476,0.005
+MERCH_00162,FreshMarket Co #162,grocery,Columbus,OH,43201,40.018299999999996,-83.024,0.005
+MERCH_00163,Swift Mobility Gas #163,gas_transport,San Francisco,CA,94101,37.7083,-122.2991,0.012
+MERCH_00164,Bluefin Sushi House #164,dining,Dallas,TX,75201,32.8067,-96.759,0.015
+MERCH_00165,Highway Oasis Petrol #165,gas_transport,Los Angeles,CA,90001,34.111,-118.259,0.012
+MERCH_00166,Nexus Goods #166,online_retail,San Diego,CA,92101,32.5869,-117.27680000000001,0.038
+MERCH_00167,KryptoKiosk #167,crypto_exchange,Seattle,WA,98101,47.4762,-122.321,0.12
+MERCH_00168,KryptoKiosk #168,crypto_exchange,Dallas,TX,75201,32.9133,-96.7325,0.12
+MERCH_00169,Urban Lifestyle Shop #169,online_retail,San Francisco,CA,94101,37.710300000000004,-122.48349999999999,0.038
+MERCH_00170,Blue Horizon Cruises #170,travel,Dallas,TX,75201,32.6592,-96.9112,0.045
+MERCH_00171,SpinCity Online #171,gaming_gambling,Chicago,IL,60601,41.8945,-87.63040000000001,0.095
+MERCH_00172,Apex Crypto Net #172,crypto_exchange,Denver,CO,80201,39.887899999999995,-104.9996,0.12
+MERCH_00173,CoinRush Global #173,crypto_exchange,Houston,TX,77001,29.679000000000002,-95.26989999999999,0.12
+MERCH_00174,Royal Palace Casino #174,gaming_gambling,Chicago,IL,60601,41.956900000000005,-87.53790000000001,0.095
+MERCH_00175,Golden Odds Wagering #175,gaming_gambling,Columbus,OH,43201,39.995799999999996,-83.01740000000001,0.095
+MERCH_00176,BlockTrade Pay #176,crypto_exchange,Indianapolis,IN,46201,39.7975,-86.2958,0.12
+MERCH_00177,Corner Bakery Cafe #177,dining,San Antonio,TX,78201,29.5047,-98.4261,0.015
+MERCH_00178,Omni Digital Store #178,electronics,Miami,FL,33101,25.616,-80.296,0.065
+MERCH_00179,Whole Leaf Organics #179,grocery,Philadelphia,PA,19101,39.907599999999995,-75.255,0.005
+MERCH_00180,ShopSphere Direct #180,online_retail,Los Angeles,CA,90001,34.0196,-118.3478,0.038
+MERCH_00181,Valley Foods #181,grocery,Denver,CO,80201,39.6083,-105.08510000000001,0.005
+MERCH_00182,SpinCity Online #182,gaming_gambling,Austin,TX,73301,30.3146,-97.7614,0.095
+MERCH_00183,Harbor Seafood Grill #183,dining,Chicago,IL,60601,41.981100000000005,-87.5993,0.015
+MERCH_00184,Valley Foods #184,grocery,Boston,MA,02101,42.2584,-71.0448,0.005
+MERCH_00185,GreenBasket Supermarket #185,grocery,Los Angeles,CA,90001,33.9356,-118.3742,0.005
+MERCH_00186,Skyline Airways #186,travel,Boston,MA,02101,42.215300000000006,-70.99279999999999,0.045
+MERCH_00187,PureCare Pharmacy #187,health_wellness,Austin,TX,73301,30.228299999999997,-97.8501,0.008
+MERCH_00188,CoinRush Global #188,crypto_exchange,San Diego,CA,92101,32.567499999999995,-117.3101,0.12
+MERCH_00189,Byte Haven #189,electronics,San Francisco,CA,94101,37.8555,-122.53349999999999,0.065
+MERCH_00190,BetLine Direct #190,gaming_gambling,Los Angeles,CA,90001,34.0713,-118.3715,0.095
+MERCH_00191,ShopSphere Direct #191,online_retail,Seattle,WA,98101,47.7374,-122.28869999999999,0.038
+MERCH_00192,Valley Foods #192,grocery,Atlanta,GA,30301,33.715,-84.26490000000001,0.005
+MERCH_00193,Golden Odds Wagering #193,gaming_gambling,Seattle,WA,98101,47.64,-122.37859999999999,0.095
+MERCH_00194,PrimeCart Global #194,online_retail,Indianapolis,IN,46201,39.7621,-86.0385,0.038
+MERCH_00195,The Rustic Table #195,dining,Boston,MA,02101,42.4739,-71.1417,0.015
+MERCH_00196,Valley Foods #196,grocery,Philadelphia,PA,19101,40.091499999999996,-75.1987,0.005
+MERCH_00197,Whole Leaf Organics #197,grocery,Philadelphia,PA,19101,39.913,-75.3089,0.005
+MERCH_00198,City Harvest Grocers #198,grocery,Phoenix,AZ,85001,33.3112,-112.1009,0.005
+MERCH_00199,Pacific Coast Rail #199,travel,San Diego,CA,92101,32.8619,-117.2736,0.045
+MERCH_00200,PrimeCart Global #200,online_retail,Jacksonville,FL,32099,30.244600000000002,-81.684,0.038
+MERCH_00201,Swift Mobility Gas #201,gas_transport,Indianapolis,IN,46201,39.8384,-86.17490000000001,0.012
+MERCH_00202,Rapid Transit Fuel #202,gas_transport,Indianapolis,IN,46201,39.7275,-86.2103,0.012
+MERCH_00203,Highway Oasis Petrol #203,gas_transport,Phoenix,AZ,85001,33.5154,-112.1622,0.012
+MERCH_00204,JackpotHub Digital #204,gaming_gambling,San Antonio,TX,78201,29.444599999999998,-98.3592,0.095
+MERCH_00205,PureCare Pharmacy #205,health_wellness,Atlanta,GA,30301,33.708000000000006,-84.399,0.008
+MERCH_00206,Wellspring Med Spa #206,health_wellness,Columbus,OH,43201,39.9236,-83.0567,0.008
+MERCH_00207,Highway Oasis Petrol #207,gas_transport,Phoenix,AZ,85001,33.4395,-112.0612,0.012
+MERCH_00208,Harbor Seafood Grill #208,dining,San Jose,CA,95101,37.4596,-121.7496,0.015
+MERCH_00209,TrendAvenue Online #209,online_retail,Columbus,OH,43201,39.826499999999996,-83.0836,0.038
+MERCH_00210,Grand Vista Resorts #210,travel,Philadelphia,PA,19101,40.000499999999995,-75.0341,0.045
+MERCH_00211,Bistro Roma #211,dining,Philadelphia,PA,19101,40.0856,-75.30799999999999,0.015
+MERCH_00212,JackpotHub Digital #212,gaming_gambling,San Francisco,CA,94101,37.795100000000005,-122.51769999999999,0.095
+MERCH_00213,Summit Fitness Studio #213,health_wellness,Miami,FL,33101,25.8425,-80.1494,0.008
+MERCH_00214,Blue Horizon Cruises #214,travel,San Antonio,TX,78201,29.3193,-98.5487,0.045
+MERCH_00215,Golden Odds Wagering #215,gaming_gambling,Phoenix,AZ,85001,33.5272,-112.078,0.095
+MERCH_00216,TrendAvenue Online #216,online_retail,Atlanta,GA,30301,33.7582,-84.34960000000001,0.038
+MERCH_00217,Omni Digital Store #217,electronics,Houston,TX,77001,29.8465,-95.4941,0.065
+MERCH_00218,Apex Electronics #218,electronics,Los Angeles,CA,90001,34.0017,-118.36670000000001,0.065
+MERCH_00219,Metro Fuel Stop #219,gas_transport,San Antonio,TX,78201,29.4972,-98.3562,0.012
+MERCH_00220,City Harvest Grocers #220,grocery,Chicago,IL,60601,41.837,-87.507,0.005
+MERCH_00221,Global Jetways #221,travel,Indianapolis,IN,46201,39.7609,-86.09700000000001,0.045
+MERCH_00222,Valley Foods #222,grocery,San Jose,CA,95101,37.2186,-121.8677,0.005
+MERCH_00223,BlockTrade Pay #223,crypto_exchange,Philadelphia,PA,19101,39.9272,-75.1555,0.12
+MERCH_00224,TrendAvenue Online #224,online_retail,Columbus,OH,43201,39.8587,-82.98310000000001,0.038
+MERCH_00225,Golden Dragon Wok #225,dining,Dallas,TX,75201,32.8337,-96.6759,0.015
+MERCH_00226,BitVault Direct #226,crypto_exchange,Phoenix,AZ,85001,33.5712,-112.1949,0.12
+MERCH_00227,Omni Digital Store #227,electronics,Phoenix,AZ,85001,33.5625,-112.0822,0.065
+MERCH_00228,Golden Dragon Wok #228,dining,Philadelphia,PA,19101,40.0327,-75.1393,0.015
+MERCH_00229,Express Gas & Go #229,gas_transport,Indianapolis,IN,46201,39.7939,-86.2535,0.012
+MERCH_00230,Volt Tech Mart #230,electronics,Seattle,WA,98101,47.7402,-122.3121,0.065
+MERCH_00231,Corner Mart #231,grocery,Chicago,IL,60601,41.99400000000001,-87.7591,0.005
+MERCH_00232,Apex Crypto Net #232,crypto_exchange,Atlanta,GA,30301,33.689,-84.4199,0.12
+MERCH_00233,BlockTrade Pay #233,crypto_exchange,Houston,TX,77001,29.9083,-95.2825,0.12
+MERCH_00234,Nexus Goods #234,online_retail,San Antonio,TX,78201,29.5626,-98.5474,0.038
+MERCH_00235,Vitality Health Clinic #235,health_wellness,Chicago,IL,60601,41.834500000000006,-87.4847,0.008
+MERCH_00236,Bluefin Sushi House #236,dining,New York,NY,10001,40.7494,-73.9789,0.015
+MERCH_00237,KryptoKiosk #237,crypto_exchange,Jacksonville,FL,32099,30.4376,-81.7481,0.12
+MERCH_00238,FreshMarket Co #238,grocery,Denver,CO,80201,39.860499999999995,-105.1333,0.005
+MERCH_00239,GreenBasket Supermarket #239,grocery,Philadelphia,PA,19101,39.8182,-75.2436,0.005
+MERCH_00240,City Harvest Grocers #240,grocery,Dallas,TX,75201,32.761399999999995,-96.8171,0.005
+MERCH_00241,Omni Digital Store #241,electronics,Dallas,TX,75201,32.8517,-96.7191,0.065
+MERCH_00242,The Rustic Table #242,dining,Chicago,IL,60601,41.828,-87.77040000000001,0.015
+MERCH_00243,TrendAvenue Online #243,online_retail,New York,NY,10001,40.7832,-74.1502,0.038
+MERCH_00244,Rapid Transit Fuel #244,gas_transport,San Antonio,TX,78201,29.5455,-98.5296,0.012
+MERCH_00245,Omni Digital Store #245,electronics,Dallas,TX,75201,32.8358,-96.8463,0.065
+MERCH_00246,Corner Bakery Cafe #246,dining,Columbus,OH,43201,39.9334,-83.0462,0.015
+MERCH_00247,Metro Fuel Stop #247,gas_transport,Dallas,TX,75201,32.7924,-96.8004,0.012
+MERCH_00248,FreshMarket Co #248,grocery,Chicago,IL,60601,42.002100000000006,-87.5042,0.005
+MERCH_00249,Pixel Pulse #249,electronics,Austin,TX,73301,30.3756,-97.6244,0.065
+MERCH_00250,Volt Tech Mart #250,electronics,Phoenix,AZ,85001,33.5403,-112.1919,0.065
+MERCH_00251,Silico Goods #251,electronics,Philadelphia,PA,19101,39.9146,-75.269,0.065
+MERCH_00252,Golden Odds Wagering #252,gaming_gambling,Chicago,IL,60601,41.9872,-87.7769,0.095
+MERCH_00253,Apex Electronics #253,electronics,Austin,TX,73301,30.3782,-97.7079,0.065
+MERCH_00254,BlockTrade Pay #254,crypto_exchange,Miami,FL,33101,25.799500000000002,-80.0804,0.12
+MERCH_00255,The Rustic Table #255,dining,Austin,TX,73301,30.352999999999998,-97.8614,0.015
+MERCH_00256,BitVault Direct #256,crypto_exchange,Los Angeles,CA,90001,34.1134,-118.33380000000001,0.12
+MERCH_00257,Summit Fitness Studio #257,health_wellness,Chicago,IL,60601,41.78380000000001,-87.5643,0.008
+MERCH_00258,Pixel Pulse #258,electronics,New York,NY,10001,40.6927,-73.9503,0.065
+MERCH_00259,JackpotHub Digital #259,gaming_gambling,Los Angeles,CA,90001,34.1173,-118.2776,0.095
+MERCH_00260,PrimeCart Global #260,online_retail,Denver,CO,80201,39.647,-104.89500000000001,0.038
+MERCH_00261,Vitality Health Clinic #261,health_wellness,Seattle,WA,98101,47.6378,-122.4263,0.008
+MERCH_00262,Valley Foods #262,grocery,Miami,FL,33101,25.8712,-80.3234,0.005
+MERCH_00263,Royal Palace Casino #263,gaming_gambling,Denver,CO,80201,39.5911,-105.0875,0.095
+MERCH_00264,SpinCity Online #264,gaming_gambling,Dallas,TX,75201,32.6699,-96.78439999999999,0.095
+MERCH_00265,SpinCity Online #265,gaming_gambling,Houston,TX,77001,29.8213,-95.4971,0.095
+MERCH_00266,Royal Palace Casino #266,gaming_gambling,Austin,TX,73301,30.344099999999997,-97.8248,0.095
+MERCH_00267,Highway Oasis Petrol #267,gas_transport,Miami,FL,33101,25.7007,-80.2181,0.012
+MERCH_00268,PrimeCart Global #268,online_retail,San Jose,CA,95101,37.2537,-121.96100000000001,0.038
+MERCH_00269,Metro Fuel Stop #269,gas_transport,San Diego,CA,92101,32.7249,-117.11460000000001,0.012
+MERCH_00270,Everyday Outlet #270,online_retail,Dallas,TX,75201,32.711099999999995,-96.8986,0.038
+MERCH_00271,Byte Haven #271,electronics,Chicago,IL,60601,41.8763,-87.509,0.065
+MERCH_00272,Byte Haven #272,electronics,Atlanta,GA,30301,33.825700000000005,-84.409,0.065
+MERCH_00273,Everyday Outlet #273,online_retail,Indianapolis,IN,46201,39.622,-86.0848,0.038
+MERCH_00274,Pixel Pulse #274,electronics,Austin,TX,73301,30.293599999999998,-97.6182,0.065
+MERCH_00275,Express Gas & Go #275,gas_transport,Atlanta,GA,30301,33.8025,-84.51820000000001,0.012
+MERCH_00276,Whole Leaf Organics #276,grocery,Austin,TX,73301,30.252399999999998,-97.6704,0.005
+MERCH_00277,Golden Dragon Wok #277,dining,Jacksonville,FL,32099,30.3321,-81.5767,0.015
+MERCH_00278,GreenBasket Supermarket #278,grocery,Boston,MA,02101,42.509800000000006,-71.1518,0.005
+MERCH_00279,Global Jetways #279,travel,Philadelphia,PA,19101,39.8154,-75.2093,0.045
+MERCH_00280,The Rustic Table #280,dining,Indianapolis,IN,46201,39.7157,-86.06920000000001,0.015
+MERCH_00281,Highway Oasis Petrol #281,gas_transport,Indianapolis,IN,46201,39.879,-86.1688,0.012
+MERCH_00282,BlockTrade Pay #282,crypto_exchange,Phoenix,AZ,85001,33.5198,-112.1083,0.12
+MERCH_00283,Volt Tech Mart #283,electronics,Phoenix,AZ,85001,33.5349,-112.1096,0.065
+MERCH_00284,PrimeCart Global #284,online_retail,Phoenix,AZ,85001,33.4182,-112.21979999999999,0.038
+MERCH_00285,Nexus Goods #285,online_retail,Philadelphia,PA,19101,39.847899999999996,-75.0314,0.038
+MERCH_00286,JackpotHub Digital #286,gaming_gambling,Houston,TX,77001,29.6153,-95.3781,0.095
+MERCH_00287,FreshMarket Co #287,grocery,Austin,TX,73301,30.176499999999997,-97.7439,0.005
+MERCH_00288,KryptoKiosk #288,crypto_exchange,San Jose,CA,95101,37.4371,-121.78020000000001,0.12
+MERCH_00289,FreshMarket Co #289,grocery,San Diego,CA,92101,32.622699999999995,-117.12910000000001,0.005
+MERCH_00290,Bluefin Sushi House #290,dining,Columbus,OH,43201,39.9417,-82.8933,0.015
+MERCH_00291,Bluefin Sushi House #291,dining,Los Angeles,CA,90001,34.0082,-118.3619,0.015
+MERCH_00292,GreenBasket Supermarket #292,grocery,Seattle,WA,98101,47.6385,-122.4397,0.005
+MERCH_00293,Skyline Airways #293,travel,Seattle,WA,98101,47.6973,-122.35719999999999,0.045
+MERCH_00294,Apex Electronics #294,electronics,San Jose,CA,95101,37.3777,-121.9347,0.065
+MERCH_00295,City Harvest Grocers #295,grocery,Atlanta,GA,30301,33.727700000000006,-84.5014,0.005
+MERCH_00296,Apex Crypto Net #296,crypto_exchange,Denver,CO,80201,39.6738,-104.9229,0.12
+MERCH_00297,Urban Lifestyle Shop #297,online_retail,Phoenix,AZ,85001,33.4093,-111.9329,0.038
+MERCH_00298,Silico Goods #298,electronics,New York,NY,10001,40.6969,-74.0309,0.065
+MERCH_00299,JackpotHub Digital #299,gaming_gambling,Austin,TX,73301,30.3237,-97.6201,0.095
+MERCH_00300,GreenBasket Supermarket #300,grocery,Seattle,WA,98101,47.6922,-122.3156,0.005
+MERCH_00301,Blue Horizon Cruises #301,travel,Austin,TX,73301,30.3267,-97.6225,0.045
+MERCH_00302,GreenBasket Supermarket #302,grocery,Miami,FL,33101,25.903000000000002,-80.2731,0.005
+MERCH_00303,Global Jetways #303,travel,Atlanta,GA,30301,33.670100000000005,-84.2921,0.045
+MERCH_00304,Bluefin Sushi House #304,dining,Miami,FL,33101,25.7526,-80.336,0.015
+MERCH_00305,Corner Bakery Cafe #305,dining,Houston,TX,77001,29.7256,-95.4753,0.015
+MERCH_00306,GreenBasket Supermarket #306,grocery,Chicago,IL,60601,41.886900000000004,-87.641,0.005
+MERCH_00307,PureCare Pharmacy #307,health_wellness,Dallas,TX,75201,32.6468,-96.8301,0.008
+MERCH_00308,SpinCity Online #308,gaming_gambling,Dallas,TX,75201,32.8403,-96.83789999999999,0.095
+MERCH_00309,Byte Haven #309,electronics,Seattle,WA,98101,47.5302,-122.2922,0.065
+MERCH_00310,GreenBasket Supermarket #310,grocery,Jacksonville,FL,32099,30.4297,-81.6609,0.005
+MERCH_00311,BlockTrade Pay #311,crypto_exchange,Dallas,TX,75201,32.9137,-96.8016,0.12
+MERCH_00312,GreenBasket Supermarket #312,grocery,Atlanta,GA,30301,33.864000000000004,-84.47800000000001,0.005
+MERCH_00313,ShopSphere Direct #313,online_retail,San Antonio,TX,78201,29.5614,-98.4643,0.038
+MERCH_00314,BitVault Direct #314,crypto_exchange,San Jose,CA,95101,37.4082,-121.8157,0.12
+MERCH_00315,SpinCity Online #315,gaming_gambling,Denver,CO,80201,39.8289,-105.0556,0.095
+MERCH_00316,Rapid Transit Fuel #316,gas_transport,Columbus,OH,43201,40.0214,-82.893,0.012
+MERCH_00317,City Harvest Grocers #317,grocery,Dallas,TX,75201,32.687999999999995,-96.8582,0.005
+MERCH_00318,Volt Tech Mart #318,electronics,Columbus,OH,43201,39.8348,-83.0093,0.065
+MERCH_00319,BlockTrade Pay #319,crypto_exchange,Indianapolis,IN,46201,39.8062,-86.14150000000001,0.12
+MERCH_00320,Urban Express Inn #320,travel,Indianapolis,IN,46201,39.8459,-86.2758,0.045
+MERCH_00321,FreshMarket Co #321,grocery,Indianapolis,IN,46201,39.7012,-86.09620000000001,0.005
+MERCH_00322,The Rustic Table #322,dining,San Jose,CA,95101,37.2371,-121.99770000000001,0.015
+MERCH_00323,Volt Tech Mart #323,electronics,Houston,TX,77001,29.6261,-95.4218,0.065
+MERCH_00324,Golden Dragon Wok #324,dining,Jacksonville,FL,32099,30.2247,-81.55619999999999,0.015
+MERCH_00325,Rapid Transit Fuel #325,gas_transport,Boston,MA,02101,42.2177,-71.0786,0.012
+MERCH_00326,GreenBasket Supermarket #326,grocery,San Francisco,CA,94101,37.6783,-122.3855,0.005
+MERCH_00327,Wellspring Med Spa #327,health_wellness,Los Angeles,CA,90001,34.0953,-118.29650000000001,0.008
+MERCH_00328,Wellspring Med Spa #328,health_wellness,Miami,FL,33101,25.6235,-80.1883,0.008
+MERCH_00329,PureCare Pharmacy #329,health_wellness,Phoenix,AZ,85001,33.4474,-111.9459,0.008
+MERCH_00330,Apex Crypto Net #330,crypto_exchange,Phoenix,AZ,85001,33.3291,-112.175,0.12
+MERCH_00331,Vitality Health Clinic #331,health_wellness,San Diego,CA,92101,32.5933,-117.203,0.008
+MERCH_00332,Metro Fuel Stop #332,gas_transport,Austin,TX,73301,30.1415,-97.78999999999999,0.012
+MERCH_00333,Silico Goods #333,electronics,Seattle,WA,98101,47.5764,-122.4635,0.065
+MERCH_00334,Swift Mobility Gas #334,gas_transport,San Francisco,CA,94101,37.8333,-122.405,0.012
+MERCH_00335,Pixel Pulse #335,electronics,San Antonio,TX,78201,29.4086,-98.609,0.065
+MERCH_00336,Whole Leaf Organics #336,grocery,San Diego,CA,92101,32.637499999999996,-117.1177,0.005
+MERCH_00337,Grand Vista Resorts #337,travel,New York,NY,10001,40.5785,-73.9031,0.045
+MERCH_00338,BetLine Direct #338,gaming_gambling,Seattle,WA,98101,47.4689,-122.4164,0.095
+MERCH_00339,BetLine Direct #339,gaming_gambling,Phoenix,AZ,85001,33.5847,-112.1827,0.095
+MERCH_00340,GreenBasket Supermarket #340,grocery,Austin,TX,73301,30.2335,-97.7028,0.005
+MERCH_00341,Highway Oasis Petrol #341,gas_transport,New York,NY,10001,40.715900000000005,-74.0691,0.012
+MERCH_00342,Volt Tech Mart #342,electronics,Columbus,OH,43201,39.9762,-83.13680000000001,0.065
+MERCH_00343,Global Jetways #343,travel,Los Angeles,CA,90001,33.9649,-118.2189,0.045
+MERCH_00344,Apex Electronics #344,electronics,Jacksonville,FL,32099,30.3927,-81.63119999999999,0.065
+MERCH_00345,Express Gas & Go #345,gas_transport,Denver,CO,80201,39.858799999999995,-105.09100000000001,0.012
+MERCH_00346,JackpotHub Digital #346,gaming_gambling,Phoenix,AZ,85001,33.4593,-111.9494,0.095
+MERCH_00347,Summit Fitness Studio #347,health_wellness,Atlanta,GA,30301,33.6834,-84.3711,0.008
+MERCH_00348,Corner Bakery Cafe #348,dining,San Francisco,CA,94101,37.672900000000006,-122.5089,0.015
+MERCH_00349,Urban Express Inn #349,travel,Dallas,TX,75201,32.727,-96.8489,0.045
+MERCH_00350,Whole Leaf Organics #350,grocery,San Francisco,CA,94101,37.660700000000006,-122.4838,0.005
+MERCH_00351,Volt Tech Mart #351,electronics,Indianapolis,IN,46201,39.7994,-86.1127,0.065
+MERCH_00352,Corner Bakery Cafe #352,dining,San Francisco,CA,94101,37.6863,-122.5356,0.015
+MERCH_00353,Rapid Transit Fuel #353,gas_transport,Houston,TX,77001,29.8332,-95.2575,0.012
+MERCH_00354,SpinCity Online #354,gaming_gambling,Miami,FL,33101,25.8324,-80.2522,0.095
+MERCH_00355,Urban Lifestyle Shop #355,online_retail,San Antonio,TX,78201,29.5401,-98.3982,0.038
+MERCH_00356,Express Gas & Go #356,gas_transport,Indianapolis,IN,46201,39.6347,-86.1203,0.012
+MERCH_00357,Blue Horizon Cruises #357,travel,Dallas,TX,75201,32.6917,-96.9399,0.045
+MERCH_00358,Apex Electronics #358,electronics,San Antonio,TX,78201,29.523,-98.38550000000001,0.065
+MERCH_00359,JackpotHub Digital #359,gaming_gambling,Seattle,WA,98101,47.7402,-122.3655,0.095
+MERCH_00360,GreenBasket Supermarket #360,grocery,Indianapolis,IN,46201,39.9137,-86.1276,0.005
+MERCH_00361,KryptoKiosk #361,crypto_exchange,Seattle,WA,98101,47.600300000000004,-122.3031,0.12
+MERCH_00362,Nexus Goods #362,online_retail,San Diego,CA,92101,32.589,-117.27890000000001,0.038
+MERCH_00363,Apex Electronics #363,electronics,New York,NY,10001,40.7486,-73.8989,0.065
+MERCH_00364,FreshMarket Co #364,grocery,New York,NY,10001,40.653800000000004,-74.0416,0.005
+MERCH_00365,Blue Horizon Cruises #365,travel,Philadelphia,PA,19101,39.831799999999994,-75.20479999999999,0.045
+MERCH_00366,ShopSphere Direct #366,online_retail,San Antonio,TX,78201,29.5654,-98.421,0.038
+MERCH_00367,Express Gas & Go #367,gas_transport,Chicago,IL,60601,41.8121,-87.58370000000001,0.012
+MERCH_00368,City Harvest Grocers #368,grocery,Los Angeles,CA,90001,34.1718,-118.3031,0.005
+MERCH_00369,Whole Leaf Organics #369,grocery,Indianapolis,IN,46201,39.8974,-86.0419,0.005
+MERCH_00370,JackpotHub Digital #370,gaming_gambling,Houston,TX,77001,29.886200000000002,-95.2965,0.095
+MERCH_00371,Everyday Outlet #371,online_retail,New York,NY,10001,40.8269,-73.8764,0.038
+MERCH_00372,Royal Palace Casino #372,gaming_gambling,New York,NY,10001,40.5966,-73.9386,0.095
+MERCH_00373,The Rustic Table #373,dining,Miami,FL,33101,25.8202,-80.2599,0.015
+MERCH_00374,Volt Tech Mart #374,electronics,Miami,FL,33101,25.7556,-80.1224,0.065
+MERCH_00375,BlockTrade Pay #375,crypto_exchange,San Antonio,TX,78201,29.293599999999998,-98.4402,0.12
+MERCH_00376,Volt Tech Mart #376,electronics,Los Angeles,CA,90001,34.0514,-118.1446,0.065
+MERCH_00377,Swift Mobility Gas #377,gas_transport,Philadelphia,PA,19101,40.0945,-75.1422,0.012
+MERCH_00378,Omni Digital Store #378,electronics,Chicago,IL,60601,42.0159,-87.5169,0.065
+MERCH_00379,Vitality Health Clinic #379,health_wellness,San Jose,CA,95101,37.4039,-121.97550000000001,0.008
+MERCH_00380,FreshMarket Co #380,grocery,New York,NY,10001,40.7642,-73.867,0.005
+MERCH_00381,SpinCity Online #381,gaming_gambling,San Diego,CA,92101,32.7726,-117.068,0.095
+MERCH_00382,ShopSphere Direct #382,online_retail,Los Angeles,CA,90001,34.1643,-118.1431,0.038
+MERCH_00383,Bistro Roma #383,dining,Boston,MA,02101,42.4957,-71.0623,0.015
+MERCH_00384,BetLine Direct #384,gaming_gambling,Los Angeles,CA,90001,33.9882,-118.36720000000001,0.095
+MERCH_00385,Express Gas & Go #385,gas_transport,Indianapolis,IN,46201,39.8646,-86.1447,0.012
+MERCH_00386,Express Gas & Go #386,gas_transport,Jacksonville,FL,32099,30.400100000000002,-81.64349999999999,0.012
+MERCH_00387,GreenBasket Supermarket #387,grocery,Jacksonville,FL,32099,30.3043,-81.63159999999999,0.005
+MERCH_00388,Express Gas & Go #388,gas_transport,Indianapolis,IN,46201,39.9135,-86.0779,0.012
+MERCH_00389,BlockTrade Pay #389,crypto_exchange,Seattle,WA,98101,47.6589,-122.35979999999999,0.12
+MERCH_00390,Bistro Roma #390,dining,Chicago,IL,60601,41.9087,-87.51440000000001,0.015
+MERCH_00391,Corner Mart #391,grocery,Jacksonville,FL,32099,30.3758,-81.67049999999999,0.005
+MERCH_00392,Pacific Coast Rail #392,travel,Philadelphia,PA,19101,40.0695,-75.2122,0.045
+MERCH_00393,PrimeCart Global #393,online_retail,Phoenix,AZ,85001,33.478,-112.0619,0.038
+MERCH_00394,Summit Fitness Studio #394,health_wellness,Philadelphia,PA,19101,40.0579,-75.1431,0.008
+MERCH_00395,JackpotHub Digital #395,gaming_gambling,San Francisco,CA,94101,37.6494,-122.44369999999999,0.095
+MERCH_00396,BitVault Direct #396,crypto_exchange,Denver,CO,80201,39.752399999999994,-104.98440000000001,0.12
+MERCH_00397,Blue Horizon Cruises #397,travel,New York,NY,10001,40.6392,-73.9909,0.045
+MERCH_00398,KryptoKiosk #398,crypto_exchange,San Diego,CA,92101,32.7709,-117.07480000000001,0.12
+MERCH_00399,Bluefin Sushi House #399,dining,Houston,TX,77001,29.708000000000002,-95.2689,0.015
+MERCH_00400,Express Gas & Go #400,gas_transport,Boston,MA,02101,42.491200000000006,-71.05199999999999,0.012

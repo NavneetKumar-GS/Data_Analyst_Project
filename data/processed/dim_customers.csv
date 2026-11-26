@@ -1,0 +1,1001 @@
+customer_id,full_name,first_name,last_name,gender,age,age_group,job_title,city,state,zip_code,home_lat,home_long,credit_score,risk_tier,credit_limit,account_opened_date
+CUST_00001,Joseph Johnson,Joseph,Johnson,F,36,30-44 (Middle Adult),Operations Analyst,San Diego,CA,92101,32.7157,-117.1611,633,High,20000.0,2021-07-29
+CUST_00002,Barbara Nguyen,Barbara,Nguyen,F,23,18-29 (Young Adult),Registered Nurse,New York,NY,10001,40.7128,-74.006,585,High,5000.0,2022-04-22
+CUST_00003,Nicholas Hill,Nicholas,Hill,M,56,45-59 (Mature Adult),Attorney,San Antonio,TX,78201,29.4241,-98.4936,642,High,10000.0,2022-03-28
+CUST_00004,James Carter,James,Carter,M,65,60+ (Senior),Electrician,Columbus,OH,43201,39.9612,-82.9988,693,Moderate,7500.0,2021-11-15
+CUST_00005,Margaret Carter,Margaret,Carter,F,27,18-29 (Young Adult),Research Scientist,Chicago,IL,60601,41.8781,-87.6298,719,Moderate,2500.0,2023-01-06
+CUST_00006,Jennifer Campbell,Jennifer,Campbell,F,55,45-59 (Mature Adult),Research Scientist,Houston,TX,77001,29.7604,-95.3698,624,High,2500.0,2024-02-05
+CUST_00007,Donna Turner,Donna,Turner,F,57,45-59 (Mature Adult),Registered Nurse,San Antonio,TX,78201,29.4241,-98.4936,686,Moderate,2500.0,2024-09-16
+CUST_00008,David Diaz,David,Diaz,M,27,18-29 (Young Adult),Financial Analyst,San Francisco,CA,94101,37.7749,-122.4194,721,Moderate,10000.0,2024-07-25
+CUST_00009,George Hernandez,George,Hernandez,F,43,30-44 (Middle Adult),Financial Analyst,San Antonio,TX,78201,29.4241,-98.4936,639,High,20000.0,2024-10-31
+CUST_00010,Nancy Wright,Nancy,Wright,M,31,30-44 (Middle Adult),Research Scientist,Indianapolis,IN,46201,39.7684,-86.1581,625,High,7500.0,2024-08-03
+CUST_00011,Anna Anderson,Anna,Anderson,F,74,60+ (Senior),Sales Representative,Los Angeles,CA,90001,34.0522,-118.2437,697,Moderate,30000.0,2021-03-07
+CUST_00012,William Wilson,William,Wilson,F,34,30-44 (Middle Adult),Research Scientist,Seattle,WA,98101,47.6062,-122.3321,632,High,20000.0,2023-07-29
+CUST_00013,Charles Taylor,Charles,Taylor,M,36,30-44 (Middle Adult),Attorney,Boston,MA,02101,42.3601,-71.0589,588,High,7500.0,2025-03-10
+CUST_00014,Stephanie White,Stephanie,White,M,29,18-29 (Young Adult),Chef,Denver,CO,80201,39.7392,-104.9903,626,High,2500.0,2025-03-28
+CUST_00015,Michael Parker,Michael,Parker,M,30,30-44 (Middle Adult),Human Resources Manager,Philadelphia,PA,19101,39.9526,-75.1652,630,High,15000.0,2021-05-11
+CUST_00016,Cynthia King,Cynthia,King,F,56,45-59 (Mature Adult),Project Manager,New York,NY,10001,40.7128,-74.006,725,Moderate,20000.0,2025-12-18
+CUST_00017,Jonathan Carter,Jonathan,Carter,F,70,60+ (Senior),Project Manager,Austin,TX,73301,30.2672,-97.7431,682,Moderate,7500.0,2023-06-10
+CUST_00018,Kimberly Allen,Kimberly,Allen,M,53,45-59 (Mature Adult),Architect,Houston,TX,77001,29.7604,-95.3698,683,Moderate,30000.0,2024-08-01
+CUST_00019,Nicholas Hill,Nicholas,Hill,M,30,30-44 (Middle Adult),Marketing Specialist,Jacksonville,FL,32099,30.3322,-81.6557,779,Low,15000.0,2025-05-14
+CUST_00020,Dorothy Young,Dorothy,Young,M,28,18-29 (Young Adult),Architect,Jacksonville,FL,32099,30.3322,-81.6557,628,High,5000.0,2021-04-29
+CUST_00021,Donald Torres,Donald,Torres,M,26,18-29 (Young Adult),Registered Nurse,Seattle,WA,98101,47.6062,-122.3321,683,Moderate,30000.0,2023-12-27
+CUST_00022,Jacob Scott,Jacob,Scott,M,37,30-44 (Middle Adult),Human Resources Manager,Denver,CO,80201,39.7392,-104.9903,654,Moderate,5000.0,2024-01-10
+CUST_00023,Betty Rivera,Betty,Rivera,F,46,45-59 (Mature Adult),Civil Engineer,Jacksonville,FL,32099,30.3322,-81.6557,706,Moderate,15000.0,2023-07-14
+CUST_00024,Carol Johnson,Carol,Johnson,M,58,45-59 (Mature Adult),Software Engineer,San Diego,CA,92101,32.7157,-117.1611,705,Moderate,2500.0,2024-12-20
+CUST_00025,Linda Anderson,Linda,Anderson,M,23,18-29 (Young Adult),Registered Nurse,Austin,TX,73301,30.2672,-97.7431,670,Moderate,15000.0,2022-05-03
+CUST_00026,Helen Rodriguez,Helen,Rodriguez,F,36,30-44 (Middle Adult),Human Resources Manager,Seattle,WA,98101,47.6062,-122.3321,737,Moderate,5000.0,2021-07-13
+CUST_00027,Richard Nelson,Richard,Nelson,F,43,30-44 (Middle Adult),Human Resources Manager,Columbus,OH,43201,39.9612,-82.9988,670,Moderate,10000.0,2025-11-05
+CUST_00028,Richard Brown,Richard,Brown,F,67,60+ (Senior),Project Manager,Austin,TX,73301,30.2672,-97.7431,606,High,5000.0,2022-01-28
+CUST_00029,Matthew Wright,Matthew,Wright,F,29,18-29 (Young Adult),Marketing Specialist,Columbus,OH,43201,39.9612,-82.9988,680,Moderate,7500.0,2023-08-06
+CUST_00030,Jeffrey Phillips,Jeffrey,Phillips,M,24,18-29 (Young Adult),Software Engineer,Boston,MA,02101,42.3601,-71.0589,793,Low,2500.0,2025-03-24
+CUST_00031,Donald Hernandez,Donald,Hernandez,F,52,45-59 (Mature Adult),High School Teacher,Seattle,WA,98101,47.6062,-122.3321,705,Moderate,30000.0,2023-04-02
+CUST_00032,James Harris,James,Harris,F,71,60+ (Senior),Architect,Indianapolis,IN,46201,39.7684,-86.1581,663,Moderate,10000.0,2024-11-27
+CUST_00033,Anna Nelson,Anna,Nelson,F,30,30-44 (Middle Adult),Architect,San Antonio,TX,78201,29.4241,-98.4936,625,High,5000.0,2021-04-30
+CUST_00034,Kenneth Brown,Kenneth,Brown,M,58,45-59 (Mature Adult),Pharmacist,Seattle,WA,98101,47.6062,-122.3321,650,Moderate,30000.0,2023-12-24
+CUST_00035,Christopher Brown,Christopher,Brown,M,75,60+ (Senior),Registered Nurse,Philadelphia,PA,19101,39.9526,-75.1652,663,Moderate,15000.0,2021-05-20
+CUST_00036,Jessica Torres,Jessica,Torres,M,58,45-59 (Mature Adult),Accountant,Atlanta,GA,30301,33.749,-84.388,647,High,15000.0,2021-06-17
+CUST_00037,Rebecca Nelson,Rebecca,Nelson,F,37,30-44 (Middle Adult),Electrician,San Antonio,TX,78201,29.4241,-98.4936,621,High,5000.0,2022-06-28
+CUST_00038,Joshua Robinson,Joshua,Robinson,F,69,60+ (Senior),Software Engineer,Chicago,IL,60601,41.8781,-87.6298,725,Moderate,10000.0,2024-06-26
+CUST_00039,Richard Jones,Richard,Jones,M,53,45-59 (Mature Adult),Operations Analyst,Dallas,TX,75201,32.7767,-96.797,714,Moderate,7500.0,2025-12-10
+CUST_00040,Andrew Hernandez,Andrew,Hernandez,F,74,60+ (Senior),Architect,Boston,MA,02101,42.3601,-71.0589,696,Moderate,15000.0,2025-07-11
+CUST_00041,Angela Smith,Angela,Smith,F,63,60+ (Senior),Operations Analyst,Houston,TX,77001,29.7604,-95.3698,743,Moderate,7500.0,2021-08-25
+CUST_00042,Karen Moore,Karen,Moore,F,59,45-59 (Mature Adult),Electrician,San Antonio,TX,78201,29.4241,-98.4936,627,High,5000.0,2024-11-08
+CUST_00043,Kimberly Allen,Kimberly,Allen,F,37,30-44 (Middle Adult),Registered Nurse,Los Angeles,CA,90001,34.0522,-118.2437,687,Moderate,20000.0,2023-05-18
+CUST_00044,Kevin Roberts,Kevin,Roberts,M,61,60+ (Senior),Marketing Specialist,Dallas,TX,75201,32.7767,-96.797,667,Moderate,20000.0,2023-06-24
+CUST_00045,Stephen Rivera,Stephen,Rivera,F,56,45-59 (Mature Adult),Project Manager,New York,NY,10001,40.7128,-74.006,670,Moderate,2500.0,2025-12-14
+CUST_00046,Robert Turner,Robert,Turner,F,58,45-59 (Mature Adult),Operations Analyst,Boston,MA,02101,42.3601,-71.0589,654,Moderate,10000.0,2021-09-19
+CUST_00047,Jennifer Martin,Jennifer,Martin,F,71,60+ (Senior),Graphic Designer,Los Angeles,CA,90001,34.0522,-118.2437,680,Moderate,5000.0,2024-10-28
+CUST_00048,Anna Parker,Anna,Parker,F,60,60+ (Senior),Sales Representative,Phoenix,AZ,85001,33.4484,-112.074,703,Moderate,30000.0,2021-11-29
+CUST_00049,Daniel Clark,Daniel,Clark,M,32,30-44 (Middle Adult),Human Resources Manager,Austin,TX,73301,30.2672,-97.7431,740,Moderate,30000.0,2024-10-03
+CUST_00050,Paul Hernandez,Paul,Hernandez,M,45,45-59 (Mature Adult),Chef,Los Angeles,CA,90001,34.0522,-118.2437,611,High,5000.0,2022-02-13
+CUST_00051,Ryan Thompson,Ryan,Thompson,F,73,60+ (Senior),Sales Representative,San Diego,CA,92101,32.7157,-117.1611,696,Moderate,2500.0,2024-09-13
+CUST_00052,William Roberts,William,Roberts,F,43,30-44 (Middle Adult),Research Scientist,Denver,CO,80201,39.7392,-104.9903,722,Moderate,20000.0,2025-09-24
+CUST_00053,Jonathan Perez,Jonathan,Perez,M,28,18-29 (Young Adult),Marketing Specialist,Dallas,TX,75201,32.7767,-96.797,745,Moderate,15000.0,2022-06-28
+CUST_00054,Brian Campbell,Brian,Campbell,F,48,45-59 (Mature Adult),Pharmacist,Atlanta,GA,30301,33.749,-84.388,696,Moderate,2500.0,2023-02-28
+CUST_00055,Matthew Taylor,Matthew,Taylor,M,66,60+ (Senior),Software Engineer,Columbus,OH,43201,39.9612,-82.9988,603,High,15000.0,2025-07-10
+CUST_00056,Betty White,Betty,White,F,25,18-29 (Young Adult),Electrician,Austin,TX,73301,30.2672,-97.7431,661,Moderate,20000.0,2025-10-03
+CUST_00057,Jessica Campbell,Jessica,Campbell,F,53,45-59 (Mature Adult),Human Resources Manager,San Jose,CA,95101,37.3382,-121.8863,659,Moderate,7500.0,2023-04-05
+CUST_00058,Matthew Clark,Matthew,Clark,F,64,60+ (Senior),Architect,Philadelphia,PA,19101,39.9526,-75.1652,620,High,10000.0,2024-01-28
+CUST_00059,James Martin,James,Martin,F,34,30-44 (Middle Adult),Electrician,Columbus,OH,43201,39.9612,-82.9988,648,High,10000.0,2023-06-24
+CUST_00060,Jacob Gomez,Jacob,Gomez,M,63,60+ (Senior),Architect,Chicago,IL,60601,41.8781,-87.6298,692,Moderate,15000.0,2024-09-21
+CUST_00061,Kevin Garcia,Kevin,Garcia,M,64,60+ (Senior),Sales Representative,San Jose,CA,95101,37.3382,-121.8863,689,Moderate,30000.0,2022-02-12
+CUST_00062,Jacob Flores,Jacob,Flores,M,50,45-59 (Mature Adult),High School Teacher,Columbus,OH,43201,39.9612,-82.9988,692,Moderate,20000.0,2024-11-27
+CUST_00063,Deborah Young,Deborah,Young,F,36,30-44 (Middle Adult),Software Engineer,Phoenix,AZ,85001,33.4484,-112.074,683,Moderate,30000.0,2025-10-29
+CUST_00064,Jason Anderson,Jason,Anderson,M,72,60+ (Senior),Civil Engineer,Denver,CO,80201,39.7392,-104.9903,656,Moderate,2500.0,2024-02-16
+CUST_00065,Ashley Diaz,Ashley,Diaz,M,50,45-59 (Mature Adult),Civil Engineer,Phoenix,AZ,85001,33.4484,-112.074,747,Moderate,20000.0,2023-12-24
+CUST_00066,Jeffrey Flores,Jeffrey,Flores,F,74,60+ (Senior),Civil Engineer,Boston,MA,02101,42.3601,-71.0589,675,Moderate,5000.0,2025-03-04
+CUST_00067,Jacob Lewis,Jacob,Lewis,F,69,60+ (Senior),Financial Analyst,San Diego,CA,92101,32.7157,-117.1611,610,High,30000.0,2025-05-12
+CUST_00068,Emily Lewis,Emily,Lewis,M,66,60+ (Senior),Sales Representative,San Jose,CA,95101,37.3382,-121.8863,671,Moderate,7500.0,2022-11-19
+CUST_00069,Kenneth Wright,Kenneth,Wright,M,29,18-29 (Young Adult),Sales Representative,Phoenix,AZ,85001,33.4484,-112.074,700,Moderate,10000.0,2024-11-22
+CUST_00070,Rebecca Clark,Rebecca,Clark,F,55,45-59 (Mature Adult),Human Resources Manager,Indianapolis,IN,46201,39.7684,-86.1581,708,Moderate,2500.0,2022-02-28
+CUST_00071,Rebecca Harris,Rebecca,Harris,M,75,60+ (Senior),Research Scientist,Miami,FL,33101,25.7617,-80.1918,719,Moderate,10000.0,2021-01-13
+CUST_00072,Deborah Diaz,Deborah,Diaz,F,55,45-59 (Mature Adult),Sales Representative,Boston,MA,02101,42.3601,-71.0589,665,Moderate,10000.0,2022-03-26
+CUST_00073,Paul Ramirez,Paul,Ramirez,F,22,18-29 (Young Adult),Electrician,San Francisco,CA,94101,37.7749,-122.4194,704,Moderate,20000.0,2024-10-22
+CUST_00074,Cynthia Rodriguez,Cynthia,Rodriguez,M,46,45-59 (Mature Adult),Software Engineer,Miami,FL,33101,25.7617,-80.1918,603,High,2500.0,2024-08-09
+CUST_00075,Jason Rodriguez,Jason,Rodriguez,F,32,30-44 (Middle Adult),Financial Analyst,Los Angeles,CA,90001,34.0522,-118.2437,691,Moderate,10000.0,2022-11-02
+CUST_00076,Edward Moore,Edward,Moore,F,37,30-44 (Middle Adult),Chef,Chicago,IL,60601,41.8781,-87.6298,723,Moderate,2500.0,2025-03-15
+CUST_00077,Helen Brown,Helen,Brown,F,35,30-44 (Middle Adult),Accountant,Chicago,IL,60601,41.8781,-87.6298,712,Moderate,30000.0,2021-03-05
+CUST_00078,John Flores,John,Flores,M,36,30-44 (Middle Adult),Chef,Phoenix,AZ,85001,33.4484,-112.074,670,Moderate,20000.0,2021-08-23
+CUST_00079,Margaret Robinson,Margaret,Robinson,F,70,60+ (Senior),Marketing Specialist,Jacksonville,FL,32099,30.3322,-81.6557,758,Low,15000.0,2024-05-28
+CUST_00080,Christopher Martin,Christopher,Martin,M,58,45-59 (Mature Adult),Architect,New York,NY,10001,40.7128,-74.006,662,Moderate,15000.0,2024-10-19
+CUST_00081,Edward Sanchez,Edward,Sanchez,M,25,18-29 (Young Adult),Sales Representative,Miami,FL,33101,25.7617,-80.1918,694,Moderate,2500.0,2024-11-28
+CUST_00082,Jessica Gomez,Jessica,Gomez,M,43,30-44 (Middle Adult),Human Resources Manager,Boston,MA,02101,42.3601,-71.0589,584,High,20000.0,2023-01-29
+CUST_00083,William Allen,William,Allen,F,21,18-29 (Young Adult),Chef,Columbus,OH,43201,39.9612,-82.9988,749,Moderate,2500.0,2023-06-07
+CUST_00084,Ryan Rivera,Ryan,Rivera,M,48,45-59 (Mature Adult),Pharmacist,Philadelphia,PA,19101,39.9526,-75.1652,663,Moderate,20000.0,2022-07-08
+CUST_00085,Jonathan Roberts,Jonathan,Roberts,F,50,45-59 (Mature Adult),Financial Analyst,Columbus,OH,43201,39.9612,-82.9988,683,Moderate,7500.0,2025-10-11
+CUST_00086,Emily Lewis,Emily,Lewis,M,69,60+ (Senior),Research Scientist,Indianapolis,IN,46201,39.7684,-86.1581,797,Low,7500.0,2021-02-28
+CUST_00087,Amy Diaz,Amy,Diaz,F,32,30-44 (Middle Adult),High School Teacher,Seattle,WA,98101,47.6062,-122.3321,678,Moderate,7500.0,2025-06-22
+CUST_00088,Emily Scott,Emily,Scott,M,54,45-59 (Mature Adult),Registered Nurse,San Antonio,TX,78201,29.4241,-98.4936,720,Moderate,5000.0,2025-01-14
+CUST_00089,Timothy Young,Timothy,Young,M,65,60+ (Senior),Chef,Seattle,WA,98101,47.6062,-122.3321,721,Moderate,10000.0,2025-06-12
+CUST_00090,Stephanie Hall,Stephanie,Hall,M,40,30-44 (Middle Adult),Graphic Designer,Miami,FL,33101,25.7617,-80.1918,685,Moderate,10000.0,2024-02-08
+CUST_00091,Angela Thompson,Angela,Thompson,F,68,60+ (Senior),Electrician,Boston,MA,02101,42.3601,-71.0589,639,High,7500.0,2024-12-10
+CUST_00092,Sandra Davis,Sandra,Davis,M,41,30-44 (Middle Adult),Attorney,Houston,TX,77001,29.7604,-95.3698,692,Moderate,30000.0,2024-11-14
+CUST_00093,Lisa Gonzalez,Lisa,Gonzalez,M,68,60+ (Senior),Financial Analyst,Seattle,WA,98101,47.6062,-122.3321,740,Moderate,20000.0,2024-04-22
+CUST_00094,Andrew Miller,Andrew,Miller,M,39,30-44 (Middle Adult),Graphic Designer,San Diego,CA,92101,32.7157,-117.1611,671,Moderate,5000.0,2022-09-12
+CUST_00095,Mary Rivera,Mary,Rivera,M,38,30-44 (Middle Adult),Accountant,Los Angeles,CA,90001,34.0522,-118.2437,672,Moderate,15000.0,2022-08-22
+CUST_00096,Gary Miller,Gary,Miller,M,57,45-59 (Mature Adult),Chef,San Jose,CA,95101,37.3382,-121.8863,655,Moderate,10000.0,2023-06-22
+CUST_00097,Carol Lopez,Carol,Lopez,M,37,30-44 (Middle Adult),Project Manager,Seattle,WA,98101,47.6062,-122.3321,664,Moderate,30000.0,2021-05-14
+CUST_00098,Michael Martinez,Michael,Martinez,M,72,60+ (Senior),Architect,Miami,FL,33101,25.7617,-80.1918,691,Moderate,2500.0,2022-05-24
+CUST_00099,Jessica Scott,Jessica,Scott,F,59,45-59 (Mature Adult),Sales Representative,Atlanta,GA,30301,33.749,-84.388,600,High,30000.0,2023-12-07
+CUST_00100,Joshua Parker,Joshua,Parker,F,40,30-44 (Middle Adult),Accountant,Miami,FL,33101,25.7617,-80.1918,755,Low,15000.0,2025-02-24
+CUST_00101,Richard Carter,Richard,Carter,M,61,60+ (Senior),Financial Analyst,San Antonio,TX,78201,29.4241,-98.4936,697,Moderate,20000.0,2021-06-16
+CUST_00102,Elizabeth Hernandez,Elizabeth,Hernandez,M,47,45-59 (Mature Adult),Chef,Indianapolis,IN,46201,39.7684,-86.1581,706,Moderate,7500.0,2021-03-08
+CUST_00103,Sandra Jackson,Sandra,Jackson,F,65,60+ (Senior),Registered Nurse,Indianapolis,IN,46201,39.7684,-86.1581,758,Low,20000.0,2022-04-24
+CUST_00104,Betty Ramirez,Betty,Ramirez,M,55,45-59 (Mature Adult),Operations Analyst,San Diego,CA,92101,32.7157,-117.1611,639,High,7500.0,2025-08-20
+CUST_00105,Charles Jones,Charles,Jones,M,31,30-44 (Middle Adult),Architect,San Jose,CA,95101,37.3382,-121.8863,638,High,10000.0,2021-09-12
+CUST_00106,Stephanie Moore,Stephanie,Moore,F,49,45-59 (Mature Adult),Accountant,Chicago,IL,60601,41.8781,-87.6298,688,Moderate,10000.0,2025-02-13
+CUST_00107,Dorothy Hill,Dorothy,Hill,F,22,18-29 (Young Adult),Sales Representative,Chicago,IL,60601,41.8781,-87.6298,723,Moderate,20000.0,2025-09-09
+CUST_00108,John Carter,John,Carter,F,57,45-59 (Mature Adult),Marketing Specialist,Los Angeles,CA,90001,34.0522,-118.2437,629,High,10000.0,2023-11-29
+CUST_00109,Jeffrey Moore,Jeffrey,Moore,M,58,45-59 (Mature Adult),Chef,Columbus,OH,43201,39.9612,-82.9988,654,Moderate,2500.0,2023-08-21
+CUST_00110,Susan Diaz,Susan,Diaz,M,42,30-44 (Middle Adult),Chef,Columbus,OH,43201,39.9612,-82.9988,717,Moderate,7500.0,2024-09-18
+CUST_00111,Stephanie Evans,Stephanie,Evans,M,50,45-59 (Mature Adult),Electrician,Chicago,IL,60601,41.8781,-87.6298,744,Moderate,7500.0,2022-10-25
+CUST_00112,Shirley Evans,Shirley,Evans,M,63,60+ (Senior),Civil Engineer,Boston,MA,02101,42.3601,-71.0589,737,Moderate,10000.0,2021-04-22
+CUST_00113,Matthew King,Matthew,King,F,60,60+ (Senior),Civil Engineer,Seattle,WA,98101,47.6062,-122.3321,698,Moderate,30000.0,2021-04-16
+CUST_00114,Andrew Lewis,Andrew,Lewis,F,28,18-29 (Young Adult),Sales Representative,New York,NY,10001,40.7128,-74.006,740,Moderate,20000.0,2021-11-21
+CUST_00115,Michelle Scott,Michelle,Scott,M,56,45-59 (Mature Adult),Registered Nurse,Columbus,OH,43201,39.9612,-82.9988,728,Moderate,5000.0,2025-09-20
+CUST_00116,Jessica Adams,Jessica,Adams,M,52,45-59 (Mature Adult),Pharmacist,San Jose,CA,95101,37.3382,-121.8863,651,Moderate,20000.0,2022-07-14
+CUST_00117,Rebecca Turner,Rebecca,Turner,F,51,45-59 (Mature Adult),Civil Engineer,San Diego,CA,92101,32.7157,-117.1611,596,High,15000.0,2021-10-24
+CUST_00118,Shirley Mitchell,Shirley,Mitchell,M,25,18-29 (Young Adult),Human Resources Manager,Dallas,TX,75201,32.7767,-96.797,755,Low,7500.0,2025-06-02
+CUST_00119,Nicholas Moore,Nicholas,Moore,M,39,30-44 (Middle Adult),Chef,San Jose,CA,95101,37.3382,-121.8863,626,High,30000.0,2021-11-01
+CUST_00120,Kevin Scott,Kevin,Scott,F,50,45-59 (Mature Adult),High School Teacher,Austin,TX,73301,30.2672,-97.7431,699,Moderate,20000.0,2022-05-05
+CUST_00121,Deborah Anderson,Deborah,Anderson,F,23,18-29 (Young Adult),Chef,Austin,TX,73301,30.2672,-97.7431,570,High,20000.0,2025-07-20
+CUST_00122,Karen Young,Karen,Young,M,29,18-29 (Young Adult),Electrician,Denver,CO,80201,39.7392,-104.9903,781,Low,30000.0,2021-07-25
+CUST_00123,Jeffrey Miller,Jeffrey,Miller,F,21,18-29 (Young Adult),Human Resources Manager,Phoenix,AZ,85001,33.4484,-112.074,699,Moderate,30000.0,2024-09-02
+CUST_00124,Kimberly Perez,Kimberly,Perez,F,62,60+ (Senior),Electrician,Chicago,IL,60601,41.8781,-87.6298,676,Moderate,30000.0,2024-10-13
+CUST_00125,Jonathan Harris,Jonathan,Harris,F,61,60+ (Senior),Attorney,Seattle,WA,98101,47.6062,-122.3321,744,Moderate,2500.0,2024-06-18
+CUST_00126,Andrew Anderson,Andrew,Anderson,M,48,45-59 (Mature Adult),Project Manager,Houston,TX,77001,29.7604,-95.3698,709,Moderate,10000.0,2021-12-07
+CUST_00127,Joshua Johnson,Joshua,Johnson,M,41,30-44 (Middle Adult),Architect,Los Angeles,CA,90001,34.0522,-118.2437,646,High,7500.0,2023-02-07
+CUST_00128,Timothy Torres,Timothy,Torres,M,31,30-44 (Middle Adult),Registered Nurse,Philadelphia,PA,19101,39.9526,-75.1652,696,Moderate,15000.0,2025-11-19
+CUST_00129,Edward Flores,Edward,Flores,M,52,45-59 (Mature Adult),Operations Analyst,Miami,FL,33101,25.7617,-80.1918,644,High,5000.0,2023-08-03
+CUST_00130,Mary Phillips,Mary,Phillips,F,39,30-44 (Middle Adult),Marketing Specialist,Boston,MA,02101,42.3601,-71.0589,638,High,2500.0,2023-06-24
+CUST_00131,Brian Nguyen,Brian,Nguyen,F,61,60+ (Senior),Financial Analyst,Columbus,OH,43201,39.9612,-82.9988,618,High,10000.0,2025-09-28
+CUST_00132,Kathleen Miller,Kathleen,Miller,M,45,45-59 (Mature Adult),Graphic Designer,Miami,FL,33101,25.7617,-80.1918,850,Low,15000.0,2022-08-29
+CUST_00133,Donna Johnson,Donna,Johnson,F,38,30-44 (Middle Adult),Accountant,New York,NY,10001,40.7128,-74.006,572,High,15000.0,2025-03-07
+CUST_00134,Andrew Roberts,Andrew,Roberts,M,59,45-59 (Mature Adult),Sales Representative,Jacksonville,FL,32099,30.3322,-81.6557,682,Moderate,20000.0,2022-01-25
+CUST_00135,Steven Baker,Steven,Baker,M,61,60+ (Senior),Accountant,Houston,TX,77001,29.7604,-95.3698,619,High,7500.0,2025-06-04
+CUST_00136,Thomas Garcia,Thomas,Garcia,F,41,30-44 (Middle Adult),Marketing Specialist,Columbus,OH,43201,39.9612,-82.9988,704,Moderate,5000.0,2021-09-28
+CUST_00137,Helen White,Helen,White,F,74,60+ (Senior),Financial Analyst,Philadelphia,PA,19101,39.9526,-75.1652,721,Moderate,30000.0,2023-09-14
+CUST_00138,Carol Phillips,Carol,Phillips,M,50,45-59 (Mature Adult),Operations Analyst,Chicago,IL,60601,41.8781,-87.6298,671,Moderate,30000.0,2022-04-08
+CUST_00139,Ronald Diaz,Ronald,Diaz,F,26,18-29 (Young Adult),Software Engineer,San Francisco,CA,94101,37.7749,-122.4194,714,Moderate,7500.0,2024-01-04
+CUST_00140,Kimberly Nguyen,Kimberly,Nguyen,F,73,60+ (Senior),Project Manager,Jacksonville,FL,32099,30.3322,-81.6557,714,Moderate,20000.0,2022-04-24
+CUST_00141,Jacob Johnson,Jacob,Johnson,F,60,60+ (Senior),Registered Nurse,San Diego,CA,92101,32.7157,-117.1611,604,High,20000.0,2025-08-15
+CUST_00142,Timothy Davis,Timothy,Davis,M,23,18-29 (Young Adult),Architect,Los Angeles,CA,90001,34.0522,-118.2437,697,Moderate,10000.0,2021-08-26
+CUST_00143,Richard Thomas,Richard,Thomas,M,45,45-59 (Mature Adult),Graphic Designer,Indianapolis,IN,46201,39.7684,-86.1581,659,Moderate,20000.0,2025-03-02
+CUST_00144,Karen Clark,Karen,Clark,M,74,60+ (Senior),Human Resources Manager,Seattle,WA,98101,47.6062,-122.3321,621,High,7500.0,2021-03-09
+CUST_00145,Melissa Wilson,Melissa,Wilson,F,49,45-59 (Mature Adult),Graphic Designer,San Diego,CA,92101,32.7157,-117.1611,608,High,2500.0,2024-11-05
+CUST_00146,Amanda Brown,Amanda,Brown,F,38,30-44 (Middle Adult),Project Manager,San Antonio,TX,78201,29.4241,-98.4936,760,Low,30000.0,2025-08-15
+CUST_00147,Ryan Garcia,Ryan,Garcia,M,62,60+ (Senior),Software Engineer,Atlanta,GA,30301,33.749,-84.388,605,High,2500.0,2025-05-31
+CUST_00148,Anthony Jones,Anthony,Jones,M,58,45-59 (Mature Adult),Sales Representative,San Antonio,TX,78201,29.4241,-98.4936,810,Low,7500.0,2025-05-05
+CUST_00149,Charles Gomez,Charles,Gomez,M,38,30-44 (Middle Adult),Operations Analyst,Phoenix,AZ,85001,33.4484,-112.074,687,Moderate,15000.0,2022-05-29
+CUST_00150,Patricia Rodriguez,Patricia,Rodriguez,M,43,30-44 (Middle Adult),Electrician,San Diego,CA,92101,32.7157,-117.1611,657,Moderate,2500.0,2021-12-23
+CUST_00151,Kimberly Brown,Kimberly,Brown,M,68,60+ (Senior),Pharmacist,Columbus,OH,43201,39.9612,-82.9988,730,Moderate,2500.0,2025-03-08
+CUST_00152,George Allen,George,Allen,M,49,45-59 (Mature Adult),Sales Representative,Denver,CO,80201,39.7392,-104.9903,701,Moderate,15000.0,2021-03-30
+CUST_00153,Eric Martin,Eric,Martin,F,62,60+ (Senior),Accountant,New York,NY,10001,40.7128,-74.006,618,High,10000.0,2025-10-02
+CUST_00154,Gary Rivera,Gary,Rivera,F,25,18-29 (Young Adult),Electrician,Chicago,IL,60601,41.8781,-87.6298,724,Moderate,15000.0,2021-10-31
+CUST_00155,William Rodriguez,William,Rodriguez,F,60,60+ (Senior),Attorney,Miami,FL,33101,25.7617,-80.1918,631,High,20000.0,2022-10-28
+CUST_00156,Donna Robinson,Donna,Robinson,F,27,18-29 (Young Adult),Attorney,Houston,TX,77001,29.7604,-95.3698,726,Moderate,20000.0,2025-11-08
+CUST_00157,Margaret Ramirez,Margaret,Ramirez,F,35,30-44 (Middle Adult),Electrician,Columbus,OH,43201,39.9612,-82.9988,615,High,30000.0,2023-07-18
+CUST_00158,Kenneth Ramirez,Kenneth,Ramirez,F,63,60+ (Senior),Graphic Designer,Dallas,TX,75201,32.7767,-96.797,728,Moderate,5000.0,2024-11-07
+CUST_00159,Jacob Jones,Jacob,Jones,M,74,60+ (Senior),Registered Nurse,Chicago,IL,60601,41.8781,-87.6298,678,Moderate,10000.0,2021-07-17
+CUST_00160,Thomas Scott,Thomas,Scott,M,58,45-59 (Mature Adult),Attorney,Boston,MA,02101,42.3601,-71.0589,632,High,7500.0,2024-10-04
+CUST_00161,Jessica Clark,Jessica,Clark,F,63,60+ (Senior),Accountant,Columbus,OH,43201,39.9612,-82.9988,671,Moderate,7500.0,2024-05-14
+CUST_00162,Nicholas Wilson,Nicholas,Wilson,M,63,60+ (Senior),Sales Representative,Seattle,WA,98101,47.6062,-122.3321,702,Moderate,30000.0,2021-08-10
+CUST_00163,Brian Diaz,Brian,Diaz,F,28,18-29 (Young Adult),Sales Representative,Dallas,TX,75201,32.7767,-96.797,756,Low,30000.0,2023-05-29
+CUST_00164,Anna Johnson,Anna,Johnson,F,22,18-29 (Young Adult),Financial Analyst,Philadelphia,PA,19101,39.9526,-75.1652,568,High,20000.0,2025-04-11
+CUST_00165,Michelle Perez,Michelle,Perez,F,21,18-29 (Young Adult),Operations Analyst,Philadelphia,PA,19101,39.9526,-75.1652,658,Moderate,15000.0,2024-09-08
+CUST_00166,Patricia Garcia,Patricia,Garcia,M,45,45-59 (Mature Adult),Civil Engineer,Columbus,OH,43201,39.9612,-82.9988,696,Moderate,7500.0,2021-11-19
+CUST_00167,Melissa Martin,Melissa,Martin,F,70,60+ (Senior),Registered Nurse,Miami,FL,33101,25.7617,-80.1918,718,Moderate,2500.0,2021-11-15
+CUST_00168,David Moore,David,Moore,F,63,60+ (Senior),Chef,Columbus,OH,43201,39.9612,-82.9988,738,Moderate,15000.0,2023-06-25
+CUST_00169,Rebecca Moore,Rebecca,Moore,M,69,60+ (Senior),Project Manager,Denver,CO,80201,39.7392,-104.9903,738,Moderate,7500.0,2023-05-31
+CUST_00170,Gary King,Gary,King,F,23,18-29 (Young Adult),Research Scientist,San Diego,CA,92101,32.7157,-117.1611,728,Moderate,15000.0,2021-04-23
+CUST_00171,James Wilson,James,Wilson,F,34,30-44 (Middle Adult),Financial Analyst,Phoenix,AZ,85001,33.4484,-112.074,723,Moderate,7500.0,2022-11-03
+CUST_00172,Sharon Lopez,Sharon,Lopez,M,45,45-59 (Mature Adult),Sales Representative,Boston,MA,02101,42.3601,-71.0589,720,Moderate,15000.0,2024-02-19
+CUST_00173,Amanda Jones,Amanda,Jones,F,68,60+ (Senior),Human Resources Manager,Los Angeles,CA,90001,34.0522,-118.2437,768,Low,2500.0,2023-07-31
+CUST_00174,Jason Torres,Jason,Torres,F,66,60+ (Senior),Architect,Columbus,OH,43201,39.9612,-82.9988,633,High,2500.0,2023-04-10
+CUST_00175,John Lee,John,Lee,M,72,60+ (Senior),Civil Engineer,Atlanta,GA,30301,33.749,-84.388,699,Moderate,30000.0,2024-11-13
+CUST_00176,Susan Thomas,Susan,Thomas,F,58,45-59 (Mature Adult),Pharmacist,San Francisco,CA,94101,37.7749,-122.4194,670,Moderate,2500.0,2023-03-22
+CUST_00177,Michelle Mitchell,Michelle,Mitchell,F,35,30-44 (Middle Adult),Marketing Specialist,Austin,TX,73301,30.2672,-97.7431,639,High,2500.0,2023-11-12
+CUST_00178,Matthew Roberts,Matthew,Roberts,F,43,30-44 (Middle Adult),Sales Representative,Phoenix,AZ,85001,33.4484,-112.074,634,High,2500.0,2021-10-27
+CUST_00179,Steven Gonzalez,Steven,Gonzalez,M,59,45-59 (Mature Adult),Registered Nurse,Phoenix,AZ,85001,33.4484,-112.074,641,High,5000.0,2025-05-02
+CUST_00180,Laura Baker,Laura,Baker,F,61,60+ (Senior),Operations Analyst,Austin,TX,73301,30.2672,-97.7431,640,High,10000.0,2021-05-20
+CUST_00181,Jacob Lewis,Jacob,Lewis,F,71,60+ (Senior),Accountant,Dallas,TX,75201,32.7767,-96.797,730,Moderate,7500.0,2023-11-06
+CUST_00182,Robert Brown,Robert,Brown,F,74,60+ (Senior),Registered Nurse,San Jose,CA,95101,37.3382,-121.8863,705,Moderate,20000.0,2025-11-05
+CUST_00183,Barbara Flores,Barbara,Flores,F,50,45-59 (Mature Adult),Attorney,Miami,FL,33101,25.7617,-80.1918,723,Moderate,30000.0,2025-02-22
+CUST_00184,Matthew Lee,Matthew,Lee,F,53,45-59 (Mature Adult),Accountant,Phoenix,AZ,85001,33.4484,-112.074,647,High,10000.0,2021-07-31
+CUST_00185,Carol Rivera,Carol,Rivera,M,53,45-59 (Mature Adult),Accountant,Philadelphia,PA,19101,39.9526,-75.1652,630,High,5000.0,2024-12-20
+CUST_00186,Eric Flores,Eric,Flores,M,44,30-44 (Middle Adult),Architect,Jacksonville,FL,32099,30.3322,-81.6557,701,Moderate,10000.0,2023-04-18
+CUST_00187,Carol Baker,Carol,Baker,M,71,60+ (Senior),Registered Nurse,Austin,TX,73301,30.2672,-97.7431,634,High,7500.0,2021-07-13
+CUST_00188,Steven Campbell,Steven,Campbell,M,42,30-44 (Middle Adult),Operations Analyst,Chicago,IL,60601,41.8781,-87.6298,662,Moderate,7500.0,2022-09-28
+CUST_00189,Ronald Rodriguez,Ronald,Rodriguez,M,40,30-44 (Middle Adult),Research Scientist,Boston,MA,02101,42.3601,-71.0589,668,Moderate,20000.0,2025-06-10
+CUST_00190,Angela Garcia,Angela,Garcia,F,53,45-59 (Mature Adult),Software Engineer,Jacksonville,FL,32099,30.3322,-81.6557,703,Moderate,7500.0,2022-09-25
+CUST_00191,Lisa Wilson,Lisa,Wilson,F,70,60+ (Senior),High School Teacher,Seattle,WA,98101,47.6062,-122.3321,704,Moderate,5000.0,2021-10-09
+CUST_00192,Richard Allen,Richard,Allen,M,63,60+ (Senior),Operations Analyst,Austin,TX,73301,30.2672,-97.7431,715,Moderate,15000.0,2023-02-11
+CUST_00193,Karen Hernandez,Karen,Hernandez,M,74,60+ (Senior),Marketing Specialist,Atlanta,GA,30301,33.749,-84.388,726,Moderate,20000.0,2023-06-16
+CUST_00194,Donald Lewis,Donald,Lewis,F,69,60+ (Senior),Sales Representative,Indianapolis,IN,46201,39.7684,-86.1581,693,Moderate,15000.0,2022-05-05
+CUST_00195,Michelle Phillips,Michelle,Phillips,F,74,60+ (Senior),Graphic Designer,San Antonio,TX,78201,29.4241,-98.4936,735,Moderate,20000.0,2024-03-14
+CUST_00196,Andrew Roberts,Andrew,Roberts,F,53,45-59 (Mature Adult),Human Resources Manager,Denver,CO,80201,39.7392,-104.9903,675,Moderate,5000.0,2025-07-31
+CUST_00197,Betty Phillips,Betty,Phillips,M,37,30-44 (Middle Adult),Chef,Los Angeles,CA,90001,34.0522,-118.2437,658,Moderate,30000.0,2023-01-31
+CUST_00198,Eric Diaz,Eric,Diaz,M,39,30-44 (Middle Adult),Marketing Specialist,Chicago,IL,60601,41.8781,-87.6298,672,Moderate,7500.0,2023-07-10
+CUST_00199,Shirley Martinez,Shirley,Martinez,F,26,18-29 (Young Adult),Civil Engineer,San Diego,CA,92101,32.7157,-117.1611,637,High,7500.0,2021-02-24
+CUST_00200,Melissa Thomas,Melissa,Thomas,F,26,18-29 (Young Adult),Sales Representative,Jacksonville,FL,32099,30.3322,-81.6557,706,Moderate,2500.0,2022-10-15
+CUST_00201,Richard Turner,Richard,Turner,F,71,60+ (Senior),Operations Analyst,Phoenix,AZ,85001,33.4484,-112.074,729,Moderate,2500.0,2022-08-11
+CUST_00202,Sarah Carter,Sarah,Carter,F,49,45-59 (Mature Adult),Software Engineer,Atlanta,GA,30301,33.749,-84.388,652,Moderate,2500.0,2021-02-08
+CUST_00203,Steven Wilson,Steven,Wilson,M,56,45-59 (Mature Adult),Pharmacist,Atlanta,GA,30301,33.749,-84.388,686,Moderate,10000.0,2021-08-16
+CUST_00204,Jessica Brown,Jessica,Brown,M,47,45-59 (Mature Adult),Civil Engineer,Atlanta,GA,30301,33.749,-84.388,644,High,2500.0,2021-08-16
+CUST_00205,Amy Hill,Amy,Hill,M,61,60+ (Senior),Sales Representative,Denver,CO,80201,39.7392,-104.9903,679,Moderate,20000.0,2021-10-22
+CUST_00206,Amanda Thomas,Amanda,Thomas,F,32,30-44 (Middle Adult),Pharmacist,Chicago,IL,60601,41.8781,-87.6298,683,Moderate,7500.0,2021-05-19
+CUST_00207,Angela Wright,Angela,Wright,M,45,45-59 (Mature Adult),Accountant,Seattle,WA,98101,47.6062,-122.3321,718,Moderate,20000.0,2023-03-04
+CUST_00208,John Thompson,John,Thompson,M,43,30-44 (Middle Adult),Project Manager,San Diego,CA,92101,32.7157,-117.1611,675,Moderate,30000.0,2024-04-06
+CUST_00209,Kevin Rodriguez,Kevin,Rodriguez,M,43,30-44 (Middle Adult),Electrician,Boston,MA,02101,42.3601,-71.0589,719,Moderate,30000.0,2024-08-09
+CUST_00210,Cynthia Hall,Cynthia,Hall,F,61,60+ (Senior),Operations Analyst,Philadelphia,PA,19101,39.9526,-75.1652,757,Low,2500.0,2025-01-06
+CUST_00211,Ryan Williams,Ryan,Williams,F,33,30-44 (Middle Adult),High School Teacher,Los Angeles,CA,90001,34.0522,-118.2437,735,Moderate,2500.0,2022-10-09
+CUST_00212,Helen Walker,Helen,Walker,F,23,18-29 (Young Adult),Architect,San Antonio,TX,78201,29.4241,-98.4936,656,Moderate,7500.0,2025-11-01
+CUST_00213,Michael Parker,Michael,Parker,F,38,30-44 (Middle Adult),Graphic Designer,Houston,TX,77001,29.7604,-95.3698,636,High,10000.0,2025-12-27
+CUST_00214,Deborah Perez,Deborah,Perez,M,52,45-59 (Mature Adult),Graphic Designer,Seattle,WA,98101,47.6062,-122.3321,712,Moderate,30000.0,2023-11-30
+CUST_00215,Paul Phillips,Paul,Phillips,M,67,60+ (Senior),Registered Nurse,Columbus,OH,43201,39.9612,-82.9988,712,Moderate,10000.0,2024-05-18
+CUST_00216,Donna Lee,Donna,Lee,M,26,18-29 (Young Adult),Architect,Austin,TX,73301,30.2672,-97.7431,679,Moderate,7500.0,2023-07-03
+CUST_00217,Jason Hernandez,Jason,Hernandez,F,43,30-44 (Middle Adult),Accountant,Indianapolis,IN,46201,39.7684,-86.1581,739,Moderate,20000.0,2025-11-17
+CUST_00218,Sharon Moore,Sharon,Moore,M,25,18-29 (Young Adult),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,644,High,15000.0,2025-06-29
+CUST_00219,Christopher Johnson,Christopher,Johnson,M,75,60+ (Senior),Civil Engineer,Atlanta,GA,30301,33.749,-84.388,759,Low,2500.0,2021-09-16
+CUST_00220,George White,George,White,F,57,45-59 (Mature Adult),Operations Analyst,Los Angeles,CA,90001,34.0522,-118.2437,716,Moderate,20000.0,2023-07-11
+CUST_00221,Melissa White,Melissa,White,F,69,60+ (Senior),Operations Analyst,Chicago,IL,60601,41.8781,-87.6298,622,High,15000.0,2023-01-22
+CUST_00222,Ashley Davis,Ashley,Davis,M,68,60+ (Senior),Chef,Philadelphia,PA,19101,39.9526,-75.1652,723,Moderate,15000.0,2023-03-04
+CUST_00223,Anna Davis,Anna,Davis,F,70,60+ (Senior),Civil Engineer,Dallas,TX,75201,32.7767,-96.797,655,Moderate,5000.0,2024-06-07
+CUST_00224,Gary Gonzalez,Gary,Gonzalez,M,29,18-29 (Young Adult),Civil Engineer,Chicago,IL,60601,41.8781,-87.6298,789,Low,5000.0,2024-12-31
+CUST_00225,Jeffrey Garcia,Jeffrey,Garcia,F,63,60+ (Senior),Registered Nurse,Jacksonville,FL,32099,30.3322,-81.6557,669,Moderate,15000.0,2024-01-16
+CUST_00226,Christopher Rivera,Christopher,Rivera,M,71,60+ (Senior),Pharmacist,Jacksonville,FL,32099,30.3322,-81.6557,721,Moderate,5000.0,2021-09-06
+CUST_00227,Betty Gomez,Betty,Gomez,M,36,30-44 (Middle Adult),Software Engineer,Seattle,WA,98101,47.6062,-122.3321,630,High,7500.0,2024-02-09
+CUST_00228,Stephen Rodriguez,Stephen,Rodriguez,M,25,18-29 (Young Adult),Research Scientist,San Jose,CA,95101,37.3382,-121.8863,655,Moderate,20000.0,2025-01-12
+CUST_00229,Kathleen King,Kathleen,King,F,70,60+ (Senior),Registered Nurse,Columbus,OH,43201,39.9612,-82.9988,646,High,5000.0,2022-10-12
+CUST_00230,Eric Thompson,Eric,Thompson,M,74,60+ (Senior),Marketing Specialist,Boston,MA,02101,42.3601,-71.0589,637,High,30000.0,2021-09-22
+CUST_00231,Sharon Allen,Sharon,Allen,M,74,60+ (Senior),Pharmacist,Houston,TX,77001,29.7604,-95.3698,703,Moderate,5000.0,2022-09-15
+CUST_00232,Mark Thompson,Mark,Thompson,F,75,60+ (Senior),Financial Analyst,Chicago,IL,60601,41.8781,-87.6298,718,Moderate,5000.0,2024-07-24
+CUST_00233,Stephen Moore,Stephen,Moore,M,61,60+ (Senior),Attorney,San Jose,CA,95101,37.3382,-121.8863,638,High,2500.0,2023-10-27
+CUST_00234,Karen Hernandez,Karen,Hernandez,F,74,60+ (Senior),Accountant,Miami,FL,33101,25.7617,-80.1918,628,High,30000.0,2025-11-05
+CUST_00235,Patricia Garcia,Patricia,Garcia,M,62,60+ (Senior),Financial Analyst,Miami,FL,33101,25.7617,-80.1918,686,Moderate,20000.0,2022-03-08
+CUST_00236,Patricia Young,Patricia,Young,F,62,60+ (Senior),Chef,San Jose,CA,95101,37.3382,-121.8863,628,High,5000.0,2025-07-07
+CUST_00237,Stephanie Martin,Stephanie,Martin,F,25,18-29 (Young Adult),Marketing Specialist,Los Angeles,CA,90001,34.0522,-118.2437,646,High,10000.0,2023-05-02
+CUST_00238,Charles Lee,Charles,Lee,F,67,60+ (Senior),Research Scientist,Jacksonville,FL,32099,30.3322,-81.6557,683,Moderate,5000.0,2025-04-07
+CUST_00239,Melissa Allen,Melissa,Allen,M,41,30-44 (Middle Adult),Civil Engineer,San Diego,CA,92101,32.7157,-117.1611,654,Moderate,2500.0,2022-07-02
+CUST_00240,Michael Jackson,Michael,Jackson,F,60,60+ (Senior),Sales Representative,Columbus,OH,43201,39.9612,-82.9988,689,Moderate,30000.0,2021-11-24
+CUST_00241,Dorothy Torres,Dorothy,Torres,F,33,30-44 (Middle Adult),Chef,Philadelphia,PA,19101,39.9526,-75.1652,637,High,15000.0,2023-08-15
+CUST_00242,John Garcia,John,Garcia,F,53,45-59 (Mature Adult),Sales Representative,Indianapolis,IN,46201,39.7684,-86.1581,680,Moderate,5000.0,2024-04-09
+CUST_00243,Amanda Brown,Amanda,Brown,M,39,30-44 (Middle Adult),Chef,Seattle,WA,98101,47.6062,-122.3321,704,Moderate,7500.0,2024-01-05
+CUST_00244,Sarah Taylor,Sarah,Taylor,F,69,60+ (Senior),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,681,Moderate,2500.0,2023-04-01
+CUST_00245,Michael Torres,Michael,Torres,M,44,30-44 (Middle Adult),Architect,Boston,MA,02101,42.3601,-71.0589,595,High,2500.0,2023-03-03
+CUST_00246,Emily Evans,Emily,Evans,M,29,18-29 (Young Adult),Research Scientist,Houston,TX,77001,29.7604,-95.3698,678,Moderate,7500.0,2025-06-16
+CUST_00247,Carol Scott,Carol,Scott,F,69,60+ (Senior),High School Teacher,Phoenix,AZ,85001,33.4484,-112.074,668,Moderate,15000.0,2023-11-09
+CUST_00248,Robert Rodriguez,Robert,Rodriguez,F,72,60+ (Senior),Pharmacist,Seattle,WA,98101,47.6062,-122.3321,688,Moderate,10000.0,2021-11-02
+CUST_00249,Shirley Rodriguez,Shirley,Rodriguez,F,60,60+ (Senior),Marketing Specialist,Austin,TX,73301,30.2672,-97.7431,677,Moderate,10000.0,2024-06-16
+CUST_00250,Carol Allen,Carol,Allen,F,66,60+ (Senior),Architect,Miami,FL,33101,25.7617,-80.1918,638,High,10000.0,2025-07-29
+CUST_00251,John White,John,White,F,64,60+ (Senior),Human Resources Manager,Houston,TX,77001,29.7604,-95.3698,703,Moderate,15000.0,2022-09-23
+CUST_00252,Patricia Hill,Patricia,Hill,F,37,30-44 (Middle Adult),Sales Representative,Miami,FL,33101,25.7617,-80.1918,603,High,20000.0,2021-04-16
+CUST_00253,Kathleen Hernandez,Kathleen,Hernandez,F,30,30-44 (Middle Adult),Accountant,San Diego,CA,92101,32.7157,-117.1611,688,Moderate,15000.0,2024-12-05
+CUST_00254,Kenneth Clark,Kenneth,Clark,M,47,45-59 (Mature Adult),Human Resources Manager,San Antonio,TX,78201,29.4241,-98.4936,686,Moderate,15000.0,2025-05-07
+CUST_00255,Jacob Parker,Jacob,Parker,M,66,60+ (Senior),Pharmacist,Phoenix,AZ,85001,33.4484,-112.074,647,High,5000.0,2024-02-23
+CUST_00256,Angela Harris,Angela,Harris,F,32,30-44 (Middle Adult),Attorney,Indianapolis,IN,46201,39.7684,-86.1581,746,Moderate,7500.0,2024-01-24
+CUST_00257,Amanda Baker,Amanda,Baker,F,60,60+ (Senior),High School Teacher,Seattle,WA,98101,47.6062,-122.3321,647,High,5000.0,2022-07-26
+CUST_00258,Joshua Roberts,Joshua,Roberts,F,66,60+ (Senior),Chef,San Antonio,TX,78201,29.4241,-98.4936,667,Moderate,7500.0,2023-09-10
+CUST_00259,Brian Scott,Brian,Scott,F,39,30-44 (Middle Adult),Attorney,Houston,TX,77001,29.7604,-95.3698,732,Moderate,10000.0,2023-03-20
+CUST_00260,Charles Jackson,Charles,Jackson,M,39,30-44 (Middle Adult),Graphic Designer,Chicago,IL,60601,41.8781,-87.6298,567,High,10000.0,2024-09-05
+CUST_00261,Steven Mitchell,Steven,Mitchell,F,34,30-44 (Middle Adult),Attorney,San Antonio,TX,78201,29.4241,-98.4936,671,Moderate,7500.0,2024-02-26
+CUST_00262,Donald Thomas,Donald,Thomas,M,63,60+ (Senior),Sales Representative,Denver,CO,80201,39.7392,-104.9903,654,Moderate,20000.0,2022-04-22
+CUST_00263,Michael Miller,Michael,Miller,F,42,30-44 (Middle Adult),Project Manager,Seattle,WA,98101,47.6062,-122.3321,764,Low,20000.0,2025-04-28
+CUST_00264,Christopher Clark,Christopher,Clark,F,51,45-59 (Mature Adult),Architect,San Antonio,TX,78201,29.4241,-98.4936,778,Low,7500.0,2022-08-08
+CUST_00265,Linda Roberts,Linda,Roberts,M,62,60+ (Senior),Sales Representative,Miami,FL,33101,25.7617,-80.1918,660,Moderate,15000.0,2025-02-21
+CUST_00266,Daniel Clark,Daniel,Clark,M,23,18-29 (Young Adult),Chef,San Francisco,CA,94101,37.7749,-122.4194,564,High,5000.0,2025-03-14
+CUST_00267,Donna Williams,Donna,Williams,M,40,30-44 (Middle Adult),Project Manager,Miami,FL,33101,25.7617,-80.1918,611,High,7500.0,2022-08-06
+CUST_00268,Angela Young,Angela,Young,M,75,60+ (Senior),Civil Engineer,Denver,CO,80201,39.7392,-104.9903,700,Moderate,7500.0,2022-01-30
+CUST_00269,Joseph Perez,Joseph,Perez,M,67,60+ (Senior),Financial Analyst,Indianapolis,IN,46201,39.7684,-86.1581,725,Moderate,20000.0,2022-01-17
+CUST_00270,Donna Torres,Donna,Torres,M,32,30-44 (Middle Adult),Research Scientist,Atlanta,GA,30301,33.749,-84.388,684,Moderate,30000.0,2023-05-26
+CUST_00271,Shirley Lee,Shirley,Lee,M,46,45-59 (Mature Adult),Marketing Specialist,Houston,TX,77001,29.7604,-95.3698,663,Moderate,5000.0,2023-09-05
+CUST_00272,Kimberly Harris,Kimberly,Harris,M,49,45-59 (Mature Adult),Electrician,Dallas,TX,75201,32.7767,-96.797,714,Moderate,7500.0,2024-04-07
+CUST_00273,Mary Taylor,Mary,Taylor,F,65,60+ (Senior),Accountant,San Diego,CA,92101,32.7157,-117.1611,651,Moderate,20000.0,2021-08-31
+CUST_00274,Nicholas Rivera,Nicholas,Rivera,F,65,60+ (Senior),Architect,Houston,TX,77001,29.7604,-95.3698,686,Moderate,7500.0,2024-06-12
+CUST_00275,Mark Anderson,Mark,Anderson,M,51,45-59 (Mature Adult),Civil Engineer,Phoenix,AZ,85001,33.4484,-112.074,625,High,20000.0,2024-05-25
+CUST_00276,Jacob Carter,Jacob,Carter,M,69,60+ (Senior),Registered Nurse,San Diego,CA,92101,32.7157,-117.1611,735,Moderate,15000.0,2023-07-04
+CUST_00277,Angela Rivera,Angela,Rivera,F,25,18-29 (Young Adult),Project Manager,Miami,FL,33101,25.7617,-80.1918,623,High,2500.0,2025-08-25
+CUST_00278,Jonathan Martinez,Jonathan,Martinez,M,41,30-44 (Middle Adult),Civil Engineer,Denver,CO,80201,39.7392,-104.9903,662,Moderate,2500.0,2024-10-25
+CUST_00279,Anthony Rivera,Anthony,Rivera,F,26,18-29 (Young Adult),Civil Engineer,Denver,CO,80201,39.7392,-104.9903,623,High,30000.0,2021-04-24
+CUST_00280,Ryan Torres,Ryan,Torres,M,56,45-59 (Mature Adult),Architect,Indianapolis,IN,46201,39.7684,-86.1581,697,Moderate,20000.0,2021-02-14
+CUST_00281,Ronald Taylor,Ronald,Taylor,M,68,60+ (Senior),Registered Nurse,San Antonio,TX,78201,29.4241,-98.4936,670,Moderate,2500.0,2023-05-18
+CUST_00282,Linda Jones,Linda,Jones,F,23,18-29 (Young Adult),Human Resources Manager,San Jose,CA,95101,37.3382,-121.8863,695,Moderate,5000.0,2025-04-24
+CUST_00283,Sarah Roberts,Sarah,Roberts,F,44,30-44 (Middle Adult),Civil Engineer,San Francisco,CA,94101,37.7749,-122.4194,626,High,30000.0,2023-02-13
+CUST_00284,Helen Rodriguez,Helen,Rodriguez,F,28,18-29 (Young Adult),Attorney,Philadelphia,PA,19101,39.9526,-75.1652,733,Moderate,10000.0,2023-12-20
+CUST_00285,Thomas Campbell,Thomas,Campbell,M,74,60+ (Senior),Software Engineer,New York,NY,10001,40.7128,-74.006,651,Moderate,7500.0,2023-08-07
+CUST_00286,Jonathan Harris,Jonathan,Harris,M,36,30-44 (Middle Adult),Graphic Designer,Indianapolis,IN,46201,39.7684,-86.1581,624,High,5000.0,2022-07-19
+CUST_00287,Matthew Campbell,Matthew,Campbell,M,23,18-29 (Young Adult),Software Engineer,Columbus,OH,43201,39.9612,-82.9988,741,Moderate,5000.0,2022-02-27
+CUST_00288,Laura Hill,Laura,Hill,M,36,30-44 (Middle Adult),Research Scientist,Los Angeles,CA,90001,34.0522,-118.2437,708,Moderate,10000.0,2022-04-25
+CUST_00289,Helen Wilson,Helen,Wilson,M,29,18-29 (Young Adult),Architect,Denver,CO,80201,39.7392,-104.9903,737,Moderate,5000.0,2025-07-29
+CUST_00290,Dorothy Thomas,Dorothy,Thomas,F,30,30-44 (Middle Adult),Sales Representative,Denver,CO,80201,39.7392,-104.9903,647,High,10000.0,2022-09-08
+CUST_00291,Emily Brown,Emily,Brown,M,61,60+ (Senior),Attorney,Columbus,OH,43201,39.9612,-82.9988,797,Low,10000.0,2021-04-07
+CUST_00292,Edward Gomez,Edward,Gomez,F,65,60+ (Senior),Human Resources Manager,Columbus,OH,43201,39.9612,-82.9988,659,Moderate,5000.0,2022-09-07
+CUST_00293,Edward Lopez,Edward,Lopez,F,36,30-44 (Middle Adult),Architect,San Diego,CA,92101,32.7157,-117.1611,714,Moderate,30000.0,2024-12-20
+CUST_00294,Linda Scott,Linda,Scott,F,47,45-59 (Mature Adult),Pharmacist,Boston,MA,02101,42.3601,-71.0589,724,Moderate,5000.0,2023-03-07
+CUST_00295,Ashley Taylor,Ashley,Taylor,M,42,30-44 (Middle Adult),Civil Engineer,Chicago,IL,60601,41.8781,-87.6298,747,Moderate,30000.0,2023-01-30
+CUST_00296,Matthew Brown,Matthew,Brown,F,45,45-59 (Mature Adult),Accountant,Atlanta,GA,30301,33.749,-84.388,724,Moderate,30000.0,2021-05-30
+CUST_00297,Matthew Phillips,Matthew,Phillips,M,51,45-59 (Mature Adult),Electrician,San Antonio,TX,78201,29.4241,-98.4936,688,Moderate,7500.0,2021-02-01
+CUST_00298,Jessica Mitchell,Jessica,Mitchell,F,36,30-44 (Middle Adult),High School Teacher,Atlanta,GA,30301,33.749,-84.388,712,Moderate,10000.0,2022-05-06
+CUST_00299,Stephen Lee,Stephen,Lee,F,45,45-59 (Mature Adult),Attorney,Indianapolis,IN,46201,39.7684,-86.1581,663,Moderate,20000.0,2023-01-06
+CUST_00300,Amy Robinson,Amy,Robinson,M,72,60+ (Senior),Electrician,Seattle,WA,98101,47.6062,-122.3321,724,Moderate,5000.0,2023-01-30
+CUST_00301,Kenneth Clark,Kenneth,Clark,M,57,45-59 (Mature Adult),Operations Analyst,San Diego,CA,92101,32.7157,-117.1611,617,High,2500.0,2022-06-19
+CUST_00302,Rebecca Jackson,Rebecca,Jackson,M,33,30-44 (Middle Adult),Sales Representative,Austin,TX,73301,30.2672,-97.7431,658,Moderate,10000.0,2024-03-12
+CUST_00303,Ashley Young,Ashley,Young,F,37,30-44 (Middle Adult),Chef,Seattle,WA,98101,47.6062,-122.3321,675,Moderate,10000.0,2021-12-11
+CUST_00304,Sarah Campbell,Sarah,Campbell,F,32,30-44 (Middle Adult),Accountant,Boston,MA,02101,42.3601,-71.0589,634,High,15000.0,2021-03-11
+CUST_00305,Elizabeth Evans,Elizabeth,Evans,M,69,60+ (Senior),Human Resources Manager,New York,NY,10001,40.7128,-74.006,667,Moderate,5000.0,2025-09-22
+CUST_00306,Karen Smith,Karen,Smith,M,53,45-59 (Mature Adult),Graphic Designer,Indianapolis,IN,46201,39.7684,-86.1581,666,Moderate,2500.0,2024-06-19
+CUST_00307,Kathleen Nelson,Kathleen,Nelson,F,22,18-29 (Young Adult),Attorney,New York,NY,10001,40.7128,-74.006,741,Moderate,15000.0,2023-04-23
+CUST_00308,Emily Wright,Emily,Wright,F,22,18-29 (Young Adult),Human Resources Manager,Denver,CO,80201,39.7392,-104.9903,685,Moderate,30000.0,2022-01-03
+CUST_00309,Susan Miller,Susan,Miller,M,36,30-44 (Middle Adult),Pharmacist,San Antonio,TX,78201,29.4241,-98.4936,626,High,7500.0,2025-07-28
+CUST_00310,David White,David,White,F,50,45-59 (Mature Adult),Sales Representative,Miami,FL,33101,25.7617,-80.1918,751,Low,20000.0,2022-04-08
+CUST_00311,Joshua Baker,Joshua,Baker,M,62,60+ (Senior),Registered Nurse,Los Angeles,CA,90001,34.0522,-118.2437,639,High,10000.0,2023-02-16
+CUST_00312,Mary Hall,Mary,Hall,M,26,18-29 (Young Adult),Human Resources Manager,Seattle,WA,98101,47.6062,-122.3321,720,Moderate,20000.0,2025-05-26
+CUST_00313,Kevin Torres,Kevin,Torres,M,54,45-59 (Mature Adult),Sales Representative,Los Angeles,CA,90001,34.0522,-118.2437,657,Moderate,5000.0,2025-11-13
+CUST_00314,Paul Williams,Paul,Williams,M,64,60+ (Senior),Attorney,Dallas,TX,75201,32.7767,-96.797,620,High,15000.0,2024-09-09
+CUST_00315,Robert Lopez,Robert,Lopez,F,22,18-29 (Young Adult),Operations Analyst,San Antonio,TX,78201,29.4241,-98.4936,668,Moderate,30000.0,2025-08-08
+CUST_00316,Elizabeth Martin,Elizabeth,Martin,M,57,45-59 (Mature Adult),Research Scientist,San Diego,CA,92101,32.7157,-117.1611,631,High,20000.0,2024-01-13
+CUST_00317,Kevin Harris,Kevin,Harris,M,71,60+ (Senior),Pharmacist,Chicago,IL,60601,41.8781,-87.6298,731,Moderate,20000.0,2022-12-10
+CUST_00318,Elizabeth Perez,Elizabeth,Perez,F,70,60+ (Senior),Software Engineer,Austin,TX,73301,30.2672,-97.7431,698,Moderate,20000.0,2022-07-14
+CUST_00319,Laura Young,Laura,Young,M,43,30-44 (Middle Adult),Research Scientist,Boston,MA,02101,42.3601,-71.0589,649,High,10000.0,2022-01-16
+CUST_00320,David Roberts,David,Roberts,F,72,60+ (Senior),Registered Nurse,San Diego,CA,92101,32.7157,-117.1611,614,High,2500.0,2022-07-03
+CUST_00321,Karen Harris,Karen,Harris,M,68,60+ (Senior),Electrician,San Francisco,CA,94101,37.7749,-122.4194,780,Low,7500.0,2021-08-07
+CUST_00322,Jeffrey White,Jeffrey,White,F,27,18-29 (Young Adult),Registered Nurse,Phoenix,AZ,85001,33.4484,-112.074,745,Moderate,5000.0,2023-06-02
+CUST_00323,Laura Scott,Laura,Scott,F,27,18-29 (Young Adult),Registered Nurse,New York,NY,10001,40.7128,-74.006,736,Moderate,7500.0,2024-02-10
+CUST_00324,Dorothy Parker,Dorothy,Parker,F,21,18-29 (Young Adult),Human Resources Manager,San Jose,CA,95101,37.3382,-121.8863,717,Moderate,10000.0,2025-05-15
+CUST_00325,David Campbell,David,Campbell,M,57,45-59 (Mature Adult),Marketing Specialist,Denver,CO,80201,39.7392,-104.9903,699,Moderate,20000.0,2023-02-19
+CUST_00326,Paul Young,Paul,Young,M,25,18-29 (Young Adult),Human Resources Manager,Philadelphia,PA,19101,39.9526,-75.1652,715,Moderate,7500.0,2023-05-13
+CUST_00327,Joshua Walker,Joshua,Walker,M,44,30-44 (Middle Adult),Sales Representative,Dallas,TX,75201,32.7767,-96.797,611,High,20000.0,2024-07-04
+CUST_00328,Ryan Miller,Ryan,Miller,M,40,30-44 (Middle Adult),Research Scientist,New York,NY,10001,40.7128,-74.006,682,Moderate,7500.0,2025-09-20
+CUST_00329,Edward Phillips,Edward,Phillips,F,49,45-59 (Mature Adult),Human Resources Manager,Austin,TX,73301,30.2672,-97.7431,766,Low,30000.0,2025-08-14
+CUST_00330,Sarah Martin,Sarah,Martin,F,59,45-59 (Mature Adult),Chef,San Antonio,TX,78201,29.4241,-98.4936,576,High,7500.0,2021-12-30
+CUST_00331,Ronald Lee,Ronald,Lee,F,68,60+ (Senior),Sales Representative,Seattle,WA,98101,47.6062,-122.3321,663,Moderate,7500.0,2023-02-10
+CUST_00332,George Davis,George,Davis,M,58,45-59 (Mature Adult),Marketing Specialist,Boston,MA,02101,42.3601,-71.0589,766,Low,20000.0,2025-04-22
+CUST_00333,Stephen Johnson,Stephen,Johnson,F,66,60+ (Senior),Civil Engineer,San Antonio,TX,78201,29.4241,-98.4936,689,Moderate,30000.0,2022-08-20
+CUST_00334,Timothy Baker,Timothy,Baker,F,29,18-29 (Young Adult),Sales Representative,San Jose,CA,95101,37.3382,-121.8863,663,Moderate,7500.0,2024-09-10
+CUST_00335,Karen Rivera,Karen,Rivera,F,71,60+ (Senior),Registered Nurse,San Francisco,CA,94101,37.7749,-122.4194,630,High,10000.0,2024-05-09
+CUST_00336,Nicholas Parker,Nicholas,Parker,F,55,45-59 (Mature Adult),Graphic Designer,Los Angeles,CA,90001,34.0522,-118.2437,687,Moderate,20000.0,2025-07-22
+CUST_00337,Jonathan Hill,Jonathan,Hill,M,27,18-29 (Young Adult),Graphic Designer,San Diego,CA,92101,32.7157,-117.1611,631,High,5000.0,2024-08-18
+CUST_00338,Stephanie Carter,Stephanie,Carter,F,71,60+ (Senior),Project Manager,Columbus,OH,43201,39.9612,-82.9988,638,High,2500.0,2021-07-21
+CUST_00339,Kimberly Anderson,Kimberly,Anderson,M,49,45-59 (Mature Adult),Research Scientist,Jacksonville,FL,32099,30.3322,-81.6557,647,High,10000.0,2025-05-01
+CUST_00340,Karen Thompson,Karen,Thompson,M,51,45-59 (Mature Adult),Architect,Houston,TX,77001,29.7604,-95.3698,611,High,10000.0,2021-06-25
+CUST_00341,Joseph Turner,Joseph,Turner,M,43,30-44 (Middle Adult),Electrician,San Jose,CA,95101,37.3382,-121.8863,695,Moderate,10000.0,2025-05-26
+CUST_00342,Jacob Miller,Jacob,Miller,F,67,60+ (Senior),Electrician,Indianapolis,IN,46201,39.7684,-86.1581,735,Moderate,2500.0,2022-09-07
+CUST_00343,Jennifer Phillips,Jennifer,Phillips,M,22,18-29 (Young Adult),Project Manager,Austin,TX,73301,30.2672,-97.7431,754,Low,20000.0,2025-06-27
+CUST_00344,Ashley King,Ashley,King,M,56,45-59 (Mature Adult),Electrician,Philadelphia,PA,19101,39.9526,-75.1652,803,Low,15000.0,2023-05-24
+CUST_00345,Cynthia Anderson,Cynthia,Anderson,F,61,60+ (Senior),Marketing Specialist,Philadelphia,PA,19101,39.9526,-75.1652,669,Moderate,20000.0,2024-09-08
+CUST_00346,Betty Lewis,Betty,Lewis,F,45,45-59 (Mature Adult),High School Teacher,New York,NY,10001,40.7128,-74.006,685,Moderate,5000.0,2022-07-25
+CUST_00347,William Torres,William,Torres,M,72,60+ (Senior),Marketing Specialist,Boston,MA,02101,42.3601,-71.0589,688,Moderate,7500.0,2022-10-30
+CUST_00348,Gary King,Gary,King,F,59,45-59 (Mature Adult),Research Scientist,San Francisco,CA,94101,37.7749,-122.4194,703,Moderate,15000.0,2021-08-22
+CUST_00349,Brian Thompson,Brian,Thompson,F,60,60+ (Senior),Architect,Philadelphia,PA,19101,39.9526,-75.1652,703,Moderate,15000.0,2024-04-23
+CUST_00350,Jessica Thomas,Jessica,Thomas,F,28,18-29 (Young Adult),Graphic Designer,Philadelphia,PA,19101,39.9526,-75.1652,694,Moderate,20000.0,2021-10-17
+CUST_00351,Shirley Harris,Shirley,Harris,F,59,45-59 (Mature Adult),Research Scientist,Phoenix,AZ,85001,33.4484,-112.074,618,High,10000.0,2022-01-16
+CUST_00352,Daniel Scott,Daniel,Scott,M,52,45-59 (Mature Adult),Operations Analyst,San Jose,CA,95101,37.3382,-121.8863,685,Moderate,5000.0,2022-10-07
+CUST_00353,Laura Flores,Laura,Flores,M,43,30-44 (Middle Adult),Chef,New York,NY,10001,40.7128,-74.006,731,Moderate,5000.0,2022-02-04
+CUST_00354,Nicholas Adams,Nicholas,Adams,F,47,45-59 (Mature Adult),Human Resources Manager,Seattle,WA,98101,47.6062,-122.3321,562,High,20000.0,2025-09-17
+CUST_00355,Jeffrey Young,Jeffrey,Young,M,26,18-29 (Young Adult),Software Engineer,Miami,FL,33101,25.7617,-80.1918,682,Moderate,30000.0,2025-04-08
+CUST_00356,Mark Wright,Mark,Wright,F,31,30-44 (Middle Adult),Chef,Indianapolis,IN,46201,39.7684,-86.1581,693,Moderate,15000.0,2023-11-13
+CUST_00357,Joseph Torres,Joseph,Torres,M,38,30-44 (Middle Adult),Graphic Designer,Boston,MA,02101,42.3601,-71.0589,684,Moderate,15000.0,2025-08-12
+CUST_00358,Jeffrey Wright,Jeffrey,Wright,M,48,45-59 (Mature Adult),Sales Representative,Houston,TX,77001,29.7604,-95.3698,596,High,7500.0,2025-11-27
+CUST_00359,Robert Lewis,Robert,Lewis,F,43,30-44 (Middle Adult),Civil Engineer,Chicago,IL,60601,41.8781,-87.6298,686,Moderate,30000.0,2021-08-29
+CUST_00360,Brian Parker,Brian,Parker,F,31,30-44 (Middle Adult),Operations Analyst,Atlanta,GA,30301,33.749,-84.388,644,High,30000.0,2022-02-28
+CUST_00361,Anthony Phillips,Anthony,Phillips,M,57,45-59 (Mature Adult),Attorney,Jacksonville,FL,32099,30.3322,-81.6557,637,High,7500.0,2024-05-07
+CUST_00362,Donna Jackson,Donna,Jackson,F,75,60+ (Senior),Project Manager,Denver,CO,80201,39.7392,-104.9903,669,Moderate,5000.0,2025-03-17
+CUST_00363,Timothy Brown,Timothy,Brown,F,62,60+ (Senior),Operations Analyst,Phoenix,AZ,85001,33.4484,-112.074,657,Moderate,5000.0,2021-10-27
+CUST_00364,Ronald Young,Ronald,Young,M,57,45-59 (Mature Adult),Human Resources Manager,Dallas,TX,75201,32.7767,-96.797,589,High,10000.0,2023-07-15
+CUST_00365,Elizabeth Green,Elizabeth,Green,M,46,45-59 (Mature Adult),Financial Analyst,Denver,CO,80201,39.7392,-104.9903,597,High,20000.0,2025-12-02
+CUST_00366,Dorothy Nguyen,Dorothy,Nguyen,M,70,60+ (Senior),Civil Engineer,Chicago,IL,60601,41.8781,-87.6298,770,Low,20000.0,2024-09-22
+CUST_00367,Amanda Diaz,Amanda,Diaz,M,71,60+ (Senior),Research Scientist,Boston,MA,02101,42.3601,-71.0589,706,Moderate,5000.0,2023-05-30
+CUST_00368,Dorothy Turner,Dorothy,Turner,F,42,30-44 (Middle Adult),Operations Analyst,Boston,MA,02101,42.3601,-71.0589,628,High,15000.0,2025-10-12
+CUST_00369,Gary Gomez,Gary,Gomez,F,64,60+ (Senior),Accountant,Los Angeles,CA,90001,34.0522,-118.2437,692,Moderate,2500.0,2024-07-06
+CUST_00370,Jessica Diaz,Jessica,Diaz,M,49,45-59 (Mature Adult),Software Engineer,Indianapolis,IN,46201,39.7684,-86.1581,626,High,10000.0,2022-02-19
+CUST_00371,Thomas Adams,Thomas,Adams,F,31,30-44 (Middle Adult),Registered Nurse,Dallas,TX,75201,32.7767,-96.797,680,Moderate,20000.0,2023-01-09
+CUST_00372,Nancy Brown,Nancy,Brown,F,61,60+ (Senior),Sales Representative,San Jose,CA,95101,37.3382,-121.8863,728,Moderate,10000.0,2024-09-04
+CUST_00373,Barbara Rivera,Barbara,Rivera,M,21,18-29 (Young Adult),Chef,San Antonio,TX,78201,29.4241,-98.4936,630,High,2500.0,2021-09-29
+CUST_00374,Jeffrey Smith,Jeffrey,Smith,M,65,60+ (Senior),Project Manager,Austin,TX,73301,30.2672,-97.7431,646,High,30000.0,2023-05-15
+CUST_00375,Thomas Walker,Thomas,Walker,M,35,30-44 (Middle Adult),Registered Nurse,San Francisco,CA,94101,37.7749,-122.4194,715,Moderate,20000.0,2025-07-09
+CUST_00376,Joshua Rodriguez,Joshua,Rodriguez,F,70,60+ (Senior),Operations Analyst,Phoenix,AZ,85001,33.4484,-112.074,706,Moderate,2500.0,2023-12-23
+CUST_00377,Mary Flores,Mary,Flores,M,49,45-59 (Mature Adult),High School Teacher,Jacksonville,FL,32099,30.3322,-81.6557,710,Moderate,20000.0,2025-03-13
+CUST_00378,Jeffrey Parker,Jeffrey,Parker,M,26,18-29 (Young Adult),Operations Analyst,Houston,TX,77001,29.7604,-95.3698,722,Moderate,30000.0,2021-09-10
+CUST_00379,Deborah Thompson,Deborah,Thompson,F,41,30-44 (Middle Adult),Sales Representative,Phoenix,AZ,85001,33.4484,-112.074,735,Moderate,7500.0,2024-08-13
+CUST_00380,Andrew Roberts,Andrew,Roberts,M,75,60+ (Senior),High School Teacher,San Jose,CA,95101,37.3382,-121.8863,712,Moderate,15000.0,2024-05-27
+CUST_00381,Shirley Gonzalez,Shirley,Gonzalez,F,39,30-44 (Middle Adult),Sales Representative,Los Angeles,CA,90001,34.0522,-118.2437,725,Moderate,10000.0,2023-03-02
+CUST_00382,Elizabeth King,Elizabeth,King,M,44,30-44 (Middle Adult),Operations Analyst,Austin,TX,73301,30.2672,-97.7431,718,Moderate,10000.0,2025-10-29
+CUST_00383,Rebecca White,Rebecca,White,M,69,60+ (Senior),Registered Nurse,Seattle,WA,98101,47.6062,-122.3321,716,Moderate,2500.0,2024-04-17
+CUST_00384,Jennifer Brown,Jennifer,Brown,F,53,45-59 (Mature Adult),Pharmacist,San Jose,CA,95101,37.3382,-121.8863,696,Moderate,30000.0,2023-05-01
+CUST_00385,Jason Hall,Jason,Hall,F,26,18-29 (Young Adult),Attorney,Boston,MA,02101,42.3601,-71.0589,673,Moderate,15000.0,2021-11-09
+CUST_00386,Shirley Wilson,Shirley,Wilson,M,55,45-59 (Mature Adult),Research Scientist,Austin,TX,73301,30.2672,-97.7431,722,Moderate,15000.0,2024-07-23
+CUST_00387,William Martin,William,Martin,F,67,60+ (Senior),Accountant,San Diego,CA,92101,32.7157,-117.1611,702,Moderate,5000.0,2021-06-26
+CUST_00388,Linda Martin,Linda,Martin,M,28,18-29 (Young Adult),Operations Analyst,New York,NY,10001,40.7128,-74.006,669,Moderate,20000.0,2021-01-24
+CUST_00389,Christopher Young,Christopher,Young,F,54,45-59 (Mature Adult),Financial Analyst,Denver,CO,80201,39.7392,-104.9903,741,Moderate,5000.0,2023-02-01
+CUST_00390,Paul Campbell,Paul,Campbell,M,70,60+ (Senior),Electrician,New York,NY,10001,40.7128,-74.006,742,Moderate,30000.0,2023-05-30
+CUST_00391,Paul King,Paul,King,M,37,30-44 (Middle Adult),Registered Nurse,Miami,FL,33101,25.7617,-80.1918,663,Moderate,10000.0,2023-07-22
+CUST_00392,Nancy White,Nancy,White,M,37,30-44 (Middle Adult),Project Manager,Houston,TX,77001,29.7604,-95.3698,679,Moderate,5000.0,2025-02-26
+CUST_00393,Shirley Smith,Shirley,Smith,M,75,60+ (Senior),Sales Representative,New York,NY,10001,40.7128,-74.006,606,High,2500.0,2023-08-25
+CUST_00394,Daniel Diaz,Daniel,Diaz,M,56,45-59 (Mature Adult),Sales Representative,Columbus,OH,43201,39.9612,-82.9988,765,Low,7500.0,2022-05-24
+CUST_00395,Rebecca Campbell,Rebecca,Campbell,F,38,30-44 (Middle Adult),Graphic Designer,Chicago,IL,60601,41.8781,-87.6298,672,Moderate,2500.0,2023-10-26
+CUST_00396,Mark Phillips,Mark,Phillips,M,46,45-59 (Mature Adult),Civil Engineer,Chicago,IL,60601,41.8781,-87.6298,665,Moderate,30000.0,2022-08-02
+CUST_00397,Michelle Lee,Michelle,Lee,M,56,45-59 (Mature Adult),Software Engineer,Indianapolis,IN,46201,39.7684,-86.1581,657,Moderate,7500.0,2022-02-15
+CUST_00398,Ashley Robinson,Ashley,Robinson,F,58,45-59 (Mature Adult),High School Teacher,Seattle,WA,98101,47.6062,-122.3321,765,Low,20000.0,2024-01-25
+CUST_00399,Ashley Martinez,Ashley,Martinez,M,47,45-59 (Mature Adult),Sales Representative,New York,NY,10001,40.7128,-74.006,629,High,15000.0,2022-12-11
+CUST_00400,Mary Perez,Mary,Perez,M,69,60+ (Senior),Architect,San Francisco,CA,94101,37.7749,-122.4194,622,High,2500.0,2022-02-25
+CUST_00401,Angela Thomas,Angela,Thomas,F,52,45-59 (Mature Adult),Operations Analyst,Los Angeles,CA,90001,34.0522,-118.2437,774,Low,20000.0,2022-07-28
+CUST_00402,Eric Clark,Eric,Clark,F,50,45-59 (Mature Adult),Project Manager,Chicago,IL,60601,41.8781,-87.6298,742,Moderate,15000.0,2021-10-01
+CUST_00403,Ronald Jones,Ronald,Jones,M,48,45-59 (Mature Adult),Sales Representative,Phoenix,AZ,85001,33.4484,-112.074,748,Moderate,7500.0,2022-06-19
+CUST_00404,Ronald Hall,Ronald,Hall,F,41,30-44 (Middle Adult),Financial Analyst,Indianapolis,IN,46201,39.7684,-86.1581,588,High,5000.0,2021-06-02
+CUST_00405,Betty Rodriguez,Betty,Rodriguez,M,30,30-44 (Middle Adult),Marketing Specialist,Houston,TX,77001,29.7604,-95.3698,670,Moderate,10000.0,2023-08-13
+CUST_00406,Amanda Roberts,Amanda,Roberts,M,49,45-59 (Mature Adult),Civil Engineer,San Jose,CA,95101,37.3382,-121.8863,703,Moderate,7500.0,2025-10-12
+CUST_00407,Jessica Garcia,Jessica,Garcia,M,72,60+ (Senior),Accountant,San Jose,CA,95101,37.3382,-121.8863,698,Moderate,5000.0,2025-09-08
+CUST_00408,Ashley Thompson,Ashley,Thompson,F,53,45-59 (Mature Adult),Architect,Los Angeles,CA,90001,34.0522,-118.2437,658,Moderate,7500.0,2025-08-07
+CUST_00409,Daniel Johnson,Daniel,Johnson,F,75,60+ (Senior),Attorney,Indianapolis,IN,46201,39.7684,-86.1581,680,Moderate,20000.0,2024-02-01
+CUST_00410,Sarah Davis,Sarah,Davis,M,24,18-29 (Young Adult),Operations Analyst,San Diego,CA,92101,32.7157,-117.1611,736,Moderate,5000.0,2025-08-14
+CUST_00411,Stephanie White,Stephanie,White,M,58,45-59 (Mature Adult),Financial Analyst,Miami,FL,33101,25.7617,-80.1918,698,Moderate,30000.0,2021-06-03
+CUST_00412,Jeffrey Phillips,Jeffrey,Phillips,M,26,18-29 (Young Adult),Project Manager,Austin,TX,73301,30.2672,-97.7431,682,Moderate,2500.0,2023-08-03
+CUST_00413,Michael Hernandez,Michael,Hernandez,F,73,60+ (Senior),Chef,San Francisco,CA,94101,37.7749,-122.4194,667,Moderate,2500.0,2023-02-23
+CUST_00414,Margaret Lopez,Margaret,Lopez,F,38,30-44 (Middle Adult),Operations Analyst,Indianapolis,IN,46201,39.7684,-86.1581,652,Moderate,2500.0,2024-06-11
+CUST_00415,Ashley Adams,Ashley,Adams,F,52,45-59 (Mature Adult),Attorney,Columbus,OH,43201,39.9612,-82.9988,722,Moderate,10000.0,2021-05-05
+CUST_00416,Rebecca Gonzalez,Rebecca,Gonzalez,M,61,60+ (Senior),Software Engineer,Boston,MA,02101,42.3601,-71.0589,706,Moderate,10000.0,2025-05-21
+CUST_00417,Amanda Walker,Amanda,Walker,F,43,30-44 (Middle Adult),Pharmacist,Miami,FL,33101,25.7617,-80.1918,679,Moderate,7500.0,2023-03-07
+CUST_00418,Mark Johnson,Mark,Johnson,F,24,18-29 (Young Adult),Pharmacist,Seattle,WA,98101,47.6062,-122.3321,691,Moderate,7500.0,2025-04-20
+CUST_00419,Sandra Hernandez,Sandra,Hernandez,M,36,30-44 (Middle Adult),Financial Analyst,San Diego,CA,92101,32.7157,-117.1611,701,Moderate,15000.0,2025-07-30
+CUST_00420,Mark Torres,Mark,Torres,F,43,30-44 (Middle Adult),Marketing Specialist,Philadelphia,PA,19101,39.9526,-75.1652,601,High,5000.0,2024-04-28
+CUST_00421,Kenneth Phillips,Kenneth,Phillips,F,58,45-59 (Mature Adult),Graphic Designer,New York,NY,10001,40.7128,-74.006,756,Low,15000.0,2024-02-29
+CUST_00422,Amy Wright,Amy,Wright,F,32,30-44 (Middle Adult),Accountant,Seattle,WA,98101,47.6062,-122.3321,775,Low,2500.0,2021-04-26
+CUST_00423,Sandra Hill,Sandra,Hill,M,22,18-29 (Young Adult),Chef,Denver,CO,80201,39.7392,-104.9903,709,Moderate,2500.0,2022-11-11
+CUST_00424,Thomas Perez,Thomas,Perez,M,72,60+ (Senior),Accountant,Austin,TX,73301,30.2672,-97.7431,663,Moderate,2500.0,2021-10-30
+CUST_00425,Charles Roberts,Charles,Roberts,M,75,60+ (Senior),Graphic Designer,Denver,CO,80201,39.7392,-104.9903,659,Moderate,2500.0,2023-02-05
+CUST_00426,Richard Perez,Richard,Perez,F,41,30-44 (Middle Adult),Marketing Specialist,Phoenix,AZ,85001,33.4484,-112.074,609,High,20000.0,2023-06-14
+CUST_00427,Gary Adams,Gary,Adams,F,32,30-44 (Middle Adult),Graphic Designer,Boston,MA,02101,42.3601,-71.0589,654,Moderate,5000.0,2024-09-25
+CUST_00428,Michelle Campbell,Michelle,Campbell,F,29,18-29 (Young Adult),Software Engineer,Philadelphia,PA,19101,39.9526,-75.1652,664,Moderate,20000.0,2024-03-19
+CUST_00429,Ronald Diaz,Ronald,Diaz,M,32,30-44 (Middle Adult),Electrician,Atlanta,GA,30301,33.749,-84.388,692,Moderate,30000.0,2024-06-06
+CUST_00430,Amy Martinez,Amy,Martinez,F,68,60+ (Senior),Sales Representative,Chicago,IL,60601,41.8781,-87.6298,743,Moderate,7500.0,2022-10-17
+CUST_00431,Nancy Green,Nancy,Green,M,73,60+ (Senior),Civil Engineer,Austin,TX,73301,30.2672,-97.7431,699,Moderate,2500.0,2022-06-28
+CUST_00432,Brian Taylor,Brian,Taylor,M,67,60+ (Senior),Accountant,New York,NY,10001,40.7128,-74.006,754,Low,10000.0,2023-06-17
+CUST_00433,Rebecca Hernandez,Rebecca,Hernandez,F,52,45-59 (Mature Adult),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,726,Moderate,15000.0,2023-02-08
+CUST_00434,Mark Hernandez,Mark,Hernandez,F,25,18-29 (Young Adult),Architect,Los Angeles,CA,90001,34.0522,-118.2437,714,Moderate,2500.0,2022-10-15
+CUST_00435,Kimberly Miller,Kimberly,Miller,M,42,30-44 (Middle Adult),Research Scientist,Philadelphia,PA,19101,39.9526,-75.1652,786,Low,5000.0,2025-02-08
+CUST_00436,Barbara Perez,Barbara,Perez,F,66,60+ (Senior),Human Resources Manager,New York,NY,10001,40.7128,-74.006,734,Moderate,20000.0,2021-12-04
+CUST_00437,Sharon Hernandez,Sharon,Hernandez,M,27,18-29 (Young Adult),High School Teacher,Austin,TX,73301,30.2672,-97.7431,654,Moderate,5000.0,2023-04-19
+CUST_00438,Helen Taylor,Helen,Taylor,F,40,30-44 (Middle Adult),Project Manager,San Diego,CA,92101,32.7157,-117.1611,604,High,2500.0,2023-03-16
+CUST_00439,Stephen Turner,Stephen,Turner,F,30,30-44 (Middle Adult),Graphic Designer,Los Angeles,CA,90001,34.0522,-118.2437,759,Low,2500.0,2023-05-26
+CUST_00440,Kathleen Gonzalez,Kathleen,Gonzalez,M,22,18-29 (Young Adult),Marketing Specialist,San Antonio,TX,78201,29.4241,-98.4936,729,Moderate,20000.0,2022-08-21
+CUST_00441,David Walker,David,Walker,M,40,30-44 (Middle Adult),Chef,San Francisco,CA,94101,37.7749,-122.4194,673,Moderate,10000.0,2024-09-15
+CUST_00442,Deborah Lopez,Deborah,Lopez,F,45,45-59 (Mature Adult),Marketing Specialist,Jacksonville,FL,32099,30.3322,-81.6557,751,Low,10000.0,2021-04-02
+CUST_00443,Kimberly Lewis,Kimberly,Lewis,F,37,30-44 (Middle Adult),Financial Analyst,San Diego,CA,92101,32.7157,-117.1611,725,Moderate,15000.0,2021-05-07
+CUST_00444,Richard Garcia,Richard,Garcia,F,72,60+ (Senior),Human Resources Manager,Boston,MA,02101,42.3601,-71.0589,743,Moderate,30000.0,2024-04-22
+CUST_00445,Sandra Scott,Sandra,Scott,M,74,60+ (Senior),Pharmacist,San Francisco,CA,94101,37.7749,-122.4194,635,High,10000.0,2024-01-02
+CUST_00446,Donald Walker,Donald,Walker,F,26,18-29 (Young Adult),Accountant,San Francisco,CA,94101,37.7749,-122.4194,572,High,15000.0,2024-03-15
+CUST_00447,Eric Phillips,Eric,Phillips,M,28,18-29 (Young Adult),Marketing Specialist,Indianapolis,IN,46201,39.7684,-86.1581,689,Moderate,5000.0,2022-03-10
+CUST_00448,Jason Garcia,Jason,Garcia,F,33,30-44 (Middle Adult),Financial Analyst,Phoenix,AZ,85001,33.4484,-112.074,656,Moderate,7500.0,2025-01-29
+CUST_00449,William Garcia,William,Garcia,F,56,45-59 (Mature Adult),Attorney,San Francisco,CA,94101,37.7749,-122.4194,671,Moderate,7500.0,2025-10-21
+CUST_00450,Mary Gomez,Mary,Gomez,F,28,18-29 (Young Adult),Operations Analyst,Columbus,OH,43201,39.9612,-82.9988,735,Moderate,5000.0,2024-03-06
+CUST_00451,Richard Miller,Richard,Miller,M,71,60+ (Senior),Attorney,San Jose,CA,95101,37.3382,-121.8863,638,High,7500.0,2025-12-03
+CUST_00452,Gary Torres,Gary,Torres,F,23,18-29 (Young Adult),Financial Analyst,Philadelphia,PA,19101,39.9526,-75.1652,706,Moderate,10000.0,2021-10-22
+CUST_00453,Stephanie Williams,Stephanie,Williams,F,42,30-44 (Middle Adult),Accountant,San Diego,CA,92101,32.7157,-117.1611,774,Low,20000.0,2023-09-01
+CUST_00454,John Perez,John,Perez,F,40,30-44 (Middle Adult),Chef,Dallas,TX,75201,32.7767,-96.797,629,High,30000.0,2024-11-26
+CUST_00455,Richard Parker,Richard,Parker,M,29,18-29 (Young Adult),Civil Engineer,San Jose,CA,95101,37.3382,-121.8863,645,High,30000.0,2025-08-19
+CUST_00456,Barbara Gonzalez,Barbara,Gonzalez,F,34,30-44 (Middle Adult),Chef,Columbus,OH,43201,39.9612,-82.9988,753,Low,30000.0,2023-11-24
+CUST_00457,Melissa Evans,Melissa,Evans,M,53,45-59 (Mature Adult),Registered Nurse,Philadelphia,PA,19101,39.9526,-75.1652,653,Moderate,7500.0,2024-12-24
+CUST_00458,Angela Torres,Angela,Torres,M,32,30-44 (Middle Adult),High School Teacher,San Antonio,TX,78201,29.4241,-98.4936,679,Moderate,30000.0,2021-04-29
+CUST_00459,Ashley Williams,Ashley,Williams,F,24,18-29 (Young Adult),High School Teacher,Jacksonville,FL,32099,30.3322,-81.6557,706,Moderate,7500.0,2023-01-25
+CUST_00460,Jessica Baker,Jessica,Baker,M,36,30-44 (Middle Adult),Chef,Jacksonville,FL,32099,30.3322,-81.6557,627,High,15000.0,2023-07-03
+CUST_00461,Daniel Parker,Daniel,Parker,F,58,45-59 (Mature Adult),Graphic Designer,Boston,MA,02101,42.3601,-71.0589,700,Moderate,7500.0,2021-12-01
+CUST_00462,Barbara Jackson,Barbara,Jackson,M,45,45-59 (Mature Adult),Marketing Specialist,Los Angeles,CA,90001,34.0522,-118.2437,647,High,30000.0,2024-03-17
+CUST_00463,Margaret Diaz,Margaret,Diaz,M,62,60+ (Senior),High School Teacher,San Diego,CA,92101,32.7157,-117.1611,672,Moderate,7500.0,2024-08-27
+CUST_00464,Mary Walker,Mary,Walker,M,62,60+ (Senior),Software Engineer,Philadelphia,PA,19101,39.9526,-75.1652,685,Moderate,5000.0,2022-06-01
+CUST_00465,Michelle Rivera,Michelle,Rivera,F,48,45-59 (Mature Adult),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,688,Moderate,10000.0,2022-06-01
+CUST_00466,Eric Evans,Eric,Evans,F,58,45-59 (Mature Adult),Software Engineer,Houston,TX,77001,29.7604,-95.3698,722,Moderate,15000.0,2024-09-18
+CUST_00467,Melissa Scott,Melissa,Scott,F,40,30-44 (Middle Adult),Chef,Houston,TX,77001,29.7604,-95.3698,751,Low,2500.0,2022-11-20
+CUST_00468,Emily Taylor,Emily,Taylor,F,33,30-44 (Middle Adult),Pharmacist,Phoenix,AZ,85001,33.4484,-112.074,675,Moderate,30000.0,2022-05-08
+CUST_00469,Linda Phillips,Linda,Phillips,F,63,60+ (Senior),Operations Analyst,Austin,TX,73301,30.2672,-97.7431,583,High,20000.0,2021-02-22
+CUST_00470,Kimberly Clark,Kimberly,Clark,F,45,45-59 (Mature Adult),High School Teacher,Los Angeles,CA,90001,34.0522,-118.2437,537,High,7500.0,2025-01-27
+CUST_00471,Mark Baker,Mark,Baker,F,63,60+ (Senior),Pharmacist,Jacksonville,FL,32099,30.3322,-81.6557,715,Moderate,7500.0,2025-09-28
+CUST_00472,Anna Lopez,Anna,Lopez,F,27,18-29 (Young Adult),Operations Analyst,Seattle,WA,98101,47.6062,-122.3321,744,Moderate,20000.0,2022-06-14
+CUST_00473,Anna Carter,Anna,Carter,M,64,60+ (Senior),Registered Nurse,Austin,TX,73301,30.2672,-97.7431,697,Moderate,5000.0,2022-12-29
+CUST_00474,Rebecca Gomez,Rebecca,Gomez,F,44,30-44 (Middle Adult),Architect,Dallas,TX,75201,32.7767,-96.797,780,Low,10000.0,2025-10-10
+CUST_00475,Jessica Walker,Jessica,Walker,M,61,60+ (Senior),Registered Nurse,Miami,FL,33101,25.7617,-80.1918,689,Moderate,10000.0,2025-12-27
+CUST_00476,Edward King,Edward,King,F,47,45-59 (Mature Adult),Operations Analyst,Los Angeles,CA,90001,34.0522,-118.2437,704,Moderate,5000.0,2022-02-15
+CUST_00477,Carol Clark,Carol,Clark,F,30,30-44 (Middle Adult),Marketing Specialist,Austin,TX,73301,30.2672,-97.7431,610,High,30000.0,2021-06-15
+CUST_00478,Daniel Lee,Daniel,Lee,M,21,18-29 (Young Adult),Financial Analyst,Indianapolis,IN,46201,39.7684,-86.1581,686,Moderate,5000.0,2025-04-08
+CUST_00479,Nancy Torres,Nancy,Torres,M,52,45-59 (Mature Adult),Operations Analyst,Chicago,IL,60601,41.8781,-87.6298,646,High,15000.0,2023-06-08
+CUST_00480,Kathleen Harris,Kathleen,Harris,M,23,18-29 (Young Adult),High School Teacher,Boston,MA,02101,42.3601,-71.0589,642,High,20000.0,2023-02-04
+CUST_00481,Mary Lee,Mary,Lee,M,22,18-29 (Young Adult),Sales Representative,New York,NY,10001,40.7128,-74.006,711,Moderate,5000.0,2024-11-21
+CUST_00482,Susan Harris,Susan,Harris,F,31,30-44 (Middle Adult),Accountant,Chicago,IL,60601,41.8781,-87.6298,650,Moderate,7500.0,2022-08-19
+CUST_00483,Ryan Campbell,Ryan,Campbell,F,48,45-59 (Mature Adult),Electrician,Phoenix,AZ,85001,33.4484,-112.074,680,Moderate,10000.0,2023-01-06
+CUST_00484,Stephanie Johnson,Stephanie,Johnson,M,35,30-44 (Middle Adult),High School Teacher,Phoenix,AZ,85001,33.4484,-112.074,650,Moderate,20000.0,2021-02-14
+CUST_00485,Nicholas Hernandez,Nicholas,Hernandez,M,44,30-44 (Middle Adult),Research Scientist,Los Angeles,CA,90001,34.0522,-118.2437,689,Moderate,20000.0,2022-06-08
+CUST_00486,Michael Nelson,Michael,Nelson,M,62,60+ (Senior),Accountant,New York,NY,10001,40.7128,-74.006,611,High,20000.0,2021-08-26
+CUST_00487,Rebecca Lewis,Rebecca,Lewis,F,28,18-29 (Young Adult),Financial Analyst,Boston,MA,02101,42.3601,-71.0589,724,Moderate,10000.0,2024-12-08
+CUST_00488,Mary Martin,Mary,Martin,F,63,60+ (Senior),Pharmacist,Houston,TX,77001,29.7604,-95.3698,743,Moderate,7500.0,2024-06-29
+CUST_00489,Sarah Clark,Sarah,Clark,M,53,45-59 (Mature Adult),Project Manager,Atlanta,GA,30301,33.749,-84.388,693,Moderate,7500.0,2021-08-22
+CUST_00490,Betty Roberts,Betty,Roberts,F,74,60+ (Senior),High School Teacher,Denver,CO,80201,39.7392,-104.9903,623,High,7500.0,2024-12-11
+CUST_00491,Timothy Jackson,Timothy,Jackson,M,23,18-29 (Young Adult),Chef,Boston,MA,02101,42.3601,-71.0589,721,Moderate,5000.0,2024-11-10
+CUST_00492,James Smith,James,Smith,M,28,18-29 (Young Adult),Chef,Miami,FL,33101,25.7617,-80.1918,662,Moderate,5000.0,2021-07-04
+CUST_00493,Shirley Jones,Shirley,Jones,M,37,30-44 (Middle Adult),Civil Engineer,San Diego,CA,92101,32.7157,-117.1611,658,Moderate,7500.0,2022-06-25
+CUST_00494,Daniel Parker,Daniel,Parker,M,75,60+ (Senior),Graphic Designer,San Jose,CA,95101,37.3382,-121.8863,685,Moderate,30000.0,2024-10-18
+CUST_00495,Kenneth Ramirez,Kenneth,Ramirez,M,27,18-29 (Young Adult),Software Engineer,Los Angeles,CA,90001,34.0522,-118.2437,664,Moderate,30000.0,2021-10-11
+CUST_00496,Amanda Lewis,Amanda,Lewis,F,67,60+ (Senior),Graphic Designer,Chicago,IL,60601,41.8781,-87.6298,654,Moderate,30000.0,2022-12-03
+CUST_00497,Lisa Davis,Lisa,Davis,F,46,45-59 (Mature Adult),Financial Analyst,Indianapolis,IN,46201,39.7684,-86.1581,659,Moderate,30000.0,2023-03-01
+CUST_00498,Rebecca Adams,Rebecca,Adams,M,28,18-29 (Young Adult),Accountant,Phoenix,AZ,85001,33.4484,-112.074,627,High,30000.0,2021-11-23
+CUST_00499,Susan Clark,Susan,Clark,F,72,60+ (Senior),Civil Engineer,Miami,FL,33101,25.7617,-80.1918,646,High,5000.0,2024-06-05
+CUST_00500,Patricia Parker,Patricia,Parker,M,51,45-59 (Mature Adult),Project Manager,Seattle,WA,98101,47.6062,-122.3321,712,Moderate,10000.0,2023-06-22
+CUST_00501,Jennifer Jones,Jennifer,Jones,F,62,60+ (Senior),Software Engineer,Austin,TX,73301,30.2672,-97.7431,643,High,20000.0,2025-11-14
+CUST_00502,Mark Nelson,Mark,Nelson,F,54,45-59 (Mature Adult),Project Manager,Denver,CO,80201,39.7392,-104.9903,603,High,10000.0,2024-09-17
+CUST_00503,Ashley Walker,Ashley,Walker,F,63,60+ (Senior),Operations Analyst,San Francisco,CA,94101,37.7749,-122.4194,541,High,30000.0,2025-08-20
+CUST_00504,Michael Smith,Michael,Smith,M,53,45-59 (Mature Adult),Chef,Seattle,WA,98101,47.6062,-122.3321,627,High,30000.0,2021-12-05
+CUST_00505,Elizabeth Carter,Elizabeth,Carter,F,41,30-44 (Middle Adult),Electrician,San Diego,CA,92101,32.7157,-117.1611,617,High,7500.0,2021-04-14
+CUST_00506,Edward Sanchez,Edward,Sanchez,M,26,18-29 (Young Adult),Civil Engineer,Indianapolis,IN,46201,39.7684,-86.1581,677,Moderate,30000.0,2024-03-19
+CUST_00507,Laura Garcia,Laura,Garcia,F,49,45-59 (Mature Adult),Project Manager,Austin,TX,73301,30.2672,-97.7431,667,Moderate,10000.0,2025-03-07
+CUST_00508,Timothy Williams,Timothy,Williams,M,73,60+ (Senior),Architect,Chicago,IL,60601,41.8781,-87.6298,661,Moderate,15000.0,2024-02-26
+CUST_00509,Anthony Adams,Anthony,Adams,F,42,30-44 (Middle Adult),Accountant,Jacksonville,FL,32099,30.3322,-81.6557,705,Moderate,30000.0,2022-04-02
+CUST_00510,Jacob Rivera,Jacob,Rivera,F,66,60+ (Senior),Project Manager,Indianapolis,IN,46201,39.7684,-86.1581,643,High,2500.0,2025-04-05
+CUST_00511,Mark Smith,Mark,Smith,F,43,30-44 (Middle Adult),Attorney,San Jose,CA,95101,37.3382,-121.8863,675,Moderate,15000.0,2023-02-05
+CUST_00512,Nancy Young,Nancy,Young,M,73,60+ (Senior),Project Manager,Columbus,OH,43201,39.9612,-82.9988,665,Moderate,7500.0,2024-06-05
+CUST_00513,Betty Gonzalez,Betty,Gonzalez,M,75,60+ (Senior),High School Teacher,San Francisco,CA,94101,37.7749,-122.4194,696,Moderate,10000.0,2025-08-16
+CUST_00514,Susan Carter,Susan,Carter,F,23,18-29 (Young Adult),Project Manager,Miami,FL,33101,25.7617,-80.1918,602,High,30000.0,2023-07-12
+CUST_00515,Ryan Nelson,Ryan,Nelson,M,52,45-59 (Mature Adult),Pharmacist,New York,NY,10001,40.7128,-74.006,630,High,20000.0,2021-04-10
+CUST_00516,Kathleen Allen,Kathleen,Allen,M,65,60+ (Senior),Marketing Specialist,Miami,FL,33101,25.7617,-80.1918,663,Moderate,20000.0,2025-07-28
+CUST_00517,Thomas Miller,Thomas,Miller,F,63,60+ (Senior),Electrician,Atlanta,GA,30301,33.749,-84.388,576,High,15000.0,2025-12-11
+CUST_00518,Ashley Moore,Ashley,Moore,F,42,30-44 (Middle Adult),Civil Engineer,San Jose,CA,95101,37.3382,-121.8863,772,Low,30000.0,2021-10-01
+CUST_00519,Sarah Clark,Sarah,Clark,F,74,60+ (Senior),Electrician,Boston,MA,02101,42.3601,-71.0589,745,Moderate,20000.0,2025-02-18
+CUST_00520,Betty Wilson,Betty,Wilson,F,64,60+ (Senior),Operations Analyst,Jacksonville,FL,32099,30.3322,-81.6557,652,Moderate,20000.0,2024-08-24
+CUST_00521,Daniel Allen,Daniel,Allen,F,66,60+ (Senior),Graphic Designer,Houston,TX,77001,29.7604,-95.3698,576,High,15000.0,2023-09-11
+CUST_00522,Rebecca Baker,Rebecca,Baker,F,75,60+ (Senior),Software Engineer,Columbus,OH,43201,39.9612,-82.9988,621,High,15000.0,2021-08-07
+CUST_00523,Patricia Harris,Patricia,Harris,M,24,18-29 (Young Adult),High School Teacher,Los Angeles,CA,90001,34.0522,-118.2437,712,Moderate,7500.0,2025-03-17
+CUST_00524,Steven Martinez,Steven,Martinez,M,65,60+ (Senior),High School Teacher,San Jose,CA,95101,37.3382,-121.8863,540,High,30000.0,2024-01-14
+CUST_00525,Robert Thompson,Robert,Thompson,F,27,18-29 (Young Adult),Attorney,Atlanta,GA,30301,33.749,-84.388,677,Moderate,30000.0,2022-04-05
+CUST_00526,Donald Allen,Donald,Allen,F,65,60+ (Senior),Research Scientist,Los Angeles,CA,90001,34.0522,-118.2437,616,High,10000.0,2023-05-04
+CUST_00527,Kenneth Scott,Kenneth,Scott,M,21,18-29 (Young Adult),High School Teacher,Dallas,TX,75201,32.7767,-96.797,700,Moderate,15000.0,2025-11-15
+CUST_00528,Mark Green,Mark,Green,F,69,60+ (Senior),Attorney,Miami,FL,33101,25.7617,-80.1918,581,High,20000.0,2024-05-20
+CUST_00529,Betty Roberts,Betty,Roberts,M,39,30-44 (Middle Adult),Marketing Specialist,Indianapolis,IN,46201,39.7684,-86.1581,692,Moderate,20000.0,2021-06-02
+CUST_00530,Shirley Davis,Shirley,Davis,F,23,18-29 (Young Adult),Financial Analyst,Columbus,OH,43201,39.9612,-82.9988,709,Moderate,15000.0,2022-06-26
+CUST_00531,Thomas Hernandez,Thomas,Hernandez,F,21,18-29 (Young Adult),Civil Engineer,Austin,TX,73301,30.2672,-97.7431,791,Low,20000.0,2021-11-14
+CUST_00532,Michael Roberts,Michael,Roberts,F,52,45-59 (Mature Adult),Attorney,Miami,FL,33101,25.7617,-80.1918,709,Moderate,7500.0,2021-05-30
+CUST_00533,Kenneth King,Kenneth,King,M,32,30-44 (Middle Adult),Registered Nurse,Denver,CO,80201,39.7392,-104.9903,714,Moderate,30000.0,2023-11-01
+CUST_00534,Stephanie Garcia,Stephanie,Garcia,F,35,30-44 (Middle Adult),Electrician,San Antonio,TX,78201,29.4241,-98.4936,733,Moderate,7500.0,2023-01-09
+CUST_00535,Donna Wilson,Donna,Wilson,F,56,45-59 (Mature Adult),Project Manager,New York,NY,10001,40.7128,-74.006,578,High,20000.0,2022-12-10
+CUST_00536,Ashley Williams,Ashley,Williams,F,45,45-59 (Mature Adult),Research Scientist,Houston,TX,77001,29.7604,-95.3698,716,Moderate,7500.0,2024-01-12
+CUST_00537,Andrew Johnson,Andrew,Johnson,F,53,45-59 (Mature Adult),Civil Engineer,Denver,CO,80201,39.7392,-104.9903,659,Moderate,10000.0,2021-03-31
+CUST_00538,Dorothy Allen,Dorothy,Allen,M,27,18-29 (Young Adult),Attorney,Philadelphia,PA,19101,39.9526,-75.1652,750,Low,15000.0,2021-01-16
+CUST_00539,William Wilson,William,Wilson,M,64,60+ (Senior),Project Manager,Columbus,OH,43201,39.9612,-82.9988,729,Moderate,5000.0,2024-01-07
+CUST_00540,Sharon Adams,Sharon,Adams,M,68,60+ (Senior),Software Engineer,Phoenix,AZ,85001,33.4484,-112.074,590,High,10000.0,2025-01-08
+CUST_00541,Kevin Williams,Kevin,Williams,M,25,18-29 (Young Adult),Marketing Specialist,Los Angeles,CA,90001,34.0522,-118.2437,619,High,30000.0,2022-05-31
+CUST_00542,Sandra Taylor,Sandra,Taylor,F,45,45-59 (Mature Adult),Research Scientist,Indianapolis,IN,46201,39.7684,-86.1581,657,Moderate,10000.0,2022-10-10
+CUST_00543,John Harris,John,Harris,M,55,45-59 (Mature Adult),Registered Nurse,New York,NY,10001,40.7128,-74.006,613,High,30000.0,2025-03-08
+CUST_00544,Elizabeth Thompson,Elizabeth,Thompson,M,39,30-44 (Middle Adult),Registered Nurse,San Jose,CA,95101,37.3382,-121.8863,640,High,7500.0,2025-04-17
+CUST_00545,Jeffrey Harris,Jeffrey,Harris,F,73,60+ (Senior),Chef,New York,NY,10001,40.7128,-74.006,696,Moderate,5000.0,2023-12-29
+CUST_00546,Helen Jackson,Helen,Jackson,M,40,30-44 (Middle Adult),Software Engineer,Jacksonville,FL,32099,30.3322,-81.6557,761,Low,15000.0,2025-11-27
+CUST_00547,Anna Martinez,Anna,Martinez,M,23,18-29 (Young Adult),Research Scientist,New York,NY,10001,40.7128,-74.006,720,Moderate,15000.0,2024-01-27
+CUST_00548,Brian Wilson,Brian,Wilson,F,62,60+ (Senior),Operations Analyst,Denver,CO,80201,39.7392,-104.9903,666,Moderate,5000.0,2022-01-12
+CUST_00549,Mark Flores,Mark,Flores,F,33,30-44 (Middle Adult),Marketing Specialist,Houston,TX,77001,29.7604,-95.3698,665,Moderate,20000.0,2025-06-26
+CUST_00550,Stephen Robinson,Stephen,Robinson,M,39,30-44 (Middle Adult),Financial Analyst,Chicago,IL,60601,41.8781,-87.6298,673,Moderate,2500.0,2022-02-09
+CUST_00551,Gary Perez,Gary,Perez,F,29,18-29 (Young Adult),Project Manager,San Diego,CA,92101,32.7157,-117.1611,710,Moderate,7500.0,2024-06-22
+CUST_00552,Gary Lewis,Gary,Lewis,F,60,60+ (Senior),Operations Analyst,San Jose,CA,95101,37.3382,-121.8863,694,Moderate,15000.0,2024-03-06
+CUST_00553,George Phillips,George,Phillips,F,48,45-59 (Mature Adult),Software Engineer,Philadelphia,PA,19101,39.9526,-75.1652,698,Moderate,7500.0,2022-05-20
+CUST_00554,Sharon Moore,Sharon,Moore,F,29,18-29 (Young Adult),Chef,Austin,TX,73301,30.2672,-97.7431,603,High,10000.0,2023-07-02
+CUST_00555,Amanda Roberts,Amanda,Roberts,F,52,45-59 (Mature Adult),Project Manager,Boston,MA,02101,42.3601,-71.0589,605,High,5000.0,2024-08-15
+CUST_00556,Sarah Wright,Sarah,Wright,M,37,30-44 (Middle Adult),Registered Nurse,Chicago,IL,60601,41.8781,-87.6298,620,High,2500.0,2025-10-06
+CUST_00557,Nicholas Green,Nicholas,Green,M,73,60+ (Senior),Research Scientist,Miami,FL,33101,25.7617,-80.1918,683,Moderate,30000.0,2024-04-23
+CUST_00558,Kimberly Wright,Kimberly,Wright,F,62,60+ (Senior),Graphic Designer,Phoenix,AZ,85001,33.4484,-112.074,693,Moderate,10000.0,2022-04-03
+CUST_00559,Donna Rodriguez,Donna,Rodriguez,F,53,45-59 (Mature Adult),Registered Nurse,Denver,CO,80201,39.7392,-104.9903,606,High,10000.0,2023-01-16
+CUST_00560,Nancy Carter,Nancy,Carter,M,49,45-59 (Mature Adult),Marketing Specialist,Philadelphia,PA,19101,39.9526,-75.1652,679,Moderate,15000.0,2024-03-04
+CUST_00561,Charles Mitchell,Charles,Mitchell,F,43,30-44 (Middle Adult),Sales Representative,Los Angeles,CA,90001,34.0522,-118.2437,684,Moderate,30000.0,2023-09-26
+CUST_00562,Sandra Williams,Sandra,Williams,M,54,45-59 (Mature Adult),Research Scientist,Jacksonville,FL,32099,30.3322,-81.6557,719,Moderate,10000.0,2023-07-21
+CUST_00563,Jennifer Williams,Jennifer,Williams,F,27,18-29 (Young Adult),Financial Analyst,Denver,CO,80201,39.7392,-104.9903,675,Moderate,30000.0,2025-02-28
+CUST_00564,Daniel Harris,Daniel,Harris,F,44,30-44 (Middle Adult),Registered Nurse,Miami,FL,33101,25.7617,-80.1918,742,Moderate,15000.0,2022-05-31
+CUST_00565,Edward Anderson,Edward,Anderson,F,43,30-44 (Middle Adult),Chef,Jacksonville,FL,32099,30.3322,-81.6557,684,Moderate,30000.0,2023-09-15
+CUST_00566,Sarah Lewis,Sarah,Lewis,M,35,30-44 (Middle Adult),Pharmacist,Chicago,IL,60601,41.8781,-87.6298,676,Moderate,20000.0,2022-07-30
+CUST_00567,Margaret Martinez,Margaret,Martinez,M,31,30-44 (Middle Adult),Project Manager,Jacksonville,FL,32099,30.3322,-81.6557,642,High,20000.0,2022-04-17
+CUST_00568,Joseph Walker,Joseph,Walker,F,51,45-59 (Mature Adult),Marketing Specialist,San Antonio,TX,78201,29.4241,-98.4936,703,Moderate,20000.0,2025-09-03
+CUST_00569,Timothy Johnson,Timothy,Johnson,M,23,18-29 (Young Adult),Marketing Specialist,Phoenix,AZ,85001,33.4484,-112.074,575,High,5000.0,2024-07-13
+CUST_00570,Charles Brown,Charles,Brown,M,37,30-44 (Middle Adult),Pharmacist,Philadelphia,PA,19101,39.9526,-75.1652,672,Moderate,10000.0,2024-05-12
+CUST_00571,John Campbell,John,Campbell,F,26,18-29 (Young Adult),Civil Engineer,San Antonio,TX,78201,29.4241,-98.4936,701,Moderate,15000.0,2023-08-24
+CUST_00572,Timothy Hill,Timothy,Hill,M,71,60+ (Senior),Marketing Specialist,Miami,FL,33101,25.7617,-80.1918,657,Moderate,15000.0,2024-09-12
+CUST_00573,Shirley Taylor,Shirley,Taylor,M,67,60+ (Senior),Civil Engineer,Austin,TX,73301,30.2672,-97.7431,724,Moderate,15000.0,2024-04-24
+CUST_00574,Thomas Miller,Thomas,Miller,M,33,30-44 (Middle Adult),Pharmacist,Denver,CO,80201,39.7392,-104.9903,700,Moderate,20000.0,2023-05-10
+CUST_00575,Karen Hill,Karen,Hill,M,32,30-44 (Middle Adult),Accountant,Seattle,WA,98101,47.6062,-122.3321,655,Moderate,30000.0,2023-12-25
+CUST_00576,Kathleen Nelson,Kathleen,Nelson,M,59,45-59 (Mature Adult),Software Engineer,Boston,MA,02101,42.3601,-71.0589,679,Moderate,30000.0,2024-10-21
+CUST_00577,Sharon King,Sharon,King,F,44,30-44 (Middle Adult),Pharmacist,Los Angeles,CA,90001,34.0522,-118.2437,733,Moderate,10000.0,2022-04-15
+CUST_00578,Edward Thompson,Edward,Thompson,M,48,45-59 (Mature Adult),Financial Analyst,Phoenix,AZ,85001,33.4484,-112.074,658,Moderate,10000.0,2025-04-18
+CUST_00579,Sandra Diaz,Sandra,Diaz,M,39,30-44 (Middle Adult),Attorney,Atlanta,GA,30301,33.749,-84.388,709,Moderate,10000.0,2022-06-12
+CUST_00580,James Torres,James,Torres,M,54,45-59 (Mature Adult),Research Scientist,New York,NY,10001,40.7128,-74.006,753,Low,20000.0,2022-02-25
+CUST_00581,Kenneth Clark,Kenneth,Clark,F,27,18-29 (Young Adult),Human Resources Manager,Phoenix,AZ,85001,33.4484,-112.074,678,Moderate,20000.0,2024-04-13
+CUST_00582,Jason Torres,Jason,Torres,F,60,60+ (Senior),Research Scientist,Dallas,TX,75201,32.7767,-96.797,778,Low,30000.0,2022-02-22
+CUST_00583,Timothy Scott,Timothy,Scott,F,32,30-44 (Middle Adult),Attorney,Jacksonville,FL,32099,30.3322,-81.6557,679,Moderate,15000.0,2023-09-18
+CUST_00584,Brian Roberts,Brian,Roberts,F,68,60+ (Senior),Project Manager,Phoenix,AZ,85001,33.4484,-112.074,723,Moderate,20000.0,2022-04-16
+CUST_00585,Laura Gomez,Laura,Gomez,M,27,18-29 (Young Adult),Pharmacist,San Antonio,TX,78201,29.4241,-98.4936,647,High,10000.0,2025-05-29
+CUST_00586,Michael Hernandez,Michael,Hernandez,F,61,60+ (Senior),Registered Nurse,New York,NY,10001,40.7128,-74.006,734,Moderate,30000.0,2021-10-25
+CUST_00587,Jacob Hill,Jacob,Hill,F,26,18-29 (Young Adult),Financial Analyst,Chicago,IL,60601,41.8781,-87.6298,692,Moderate,5000.0,2023-01-30
+CUST_00588,Deborah Sanchez,Deborah,Sanchez,F,66,60+ (Senior),Accountant,Atlanta,GA,30301,33.749,-84.388,687,Moderate,30000.0,2025-08-07
+CUST_00589,Daniel Green,Daniel,Green,F,49,45-59 (Mature Adult),High School Teacher,New York,NY,10001,40.7128,-74.006,735,Moderate,30000.0,2024-09-07
+CUST_00590,Matthew Williams,Matthew,Williams,M,60,60+ (Senior),Accountant,Philadelphia,PA,19101,39.9526,-75.1652,655,Moderate,7500.0,2022-05-05
+CUST_00591,James Hernandez,James,Hernandez,M,38,30-44 (Middle Adult),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,652,Moderate,20000.0,2023-03-21
+CUST_00592,Mary Mitchell,Mary,Mitchell,M,26,18-29 (Young Adult),Architect,Boston,MA,02101,42.3601,-71.0589,699,Moderate,20000.0,2025-08-27
+CUST_00593,Anna Nguyen,Anna,Nguyen,F,43,30-44 (Middle Adult),Sales Representative,Dallas,TX,75201,32.7767,-96.797,631,High,15000.0,2022-02-03
+CUST_00594,James Taylor,James,Taylor,M,47,45-59 (Mature Adult),Project Manager,Denver,CO,80201,39.7392,-104.9903,694,Moderate,15000.0,2021-05-29
+CUST_00595,Nicholas Jackson,Nicholas,Jackson,F,28,18-29 (Young Adult),Financial Analyst,Denver,CO,80201,39.7392,-104.9903,690,Moderate,15000.0,2025-07-24
+CUST_00596,Jeffrey Harris,Jeffrey,Harris,F,70,60+ (Senior),Electrician,San Diego,CA,92101,32.7157,-117.1611,643,High,30000.0,2023-07-29
+CUST_00597,Ryan Nguyen,Ryan,Nguyen,M,51,45-59 (Mature Adult),Financial Analyst,Houston,TX,77001,29.7604,-95.3698,573,High,2500.0,2023-02-23
+CUST_00598,Sandra Phillips,Sandra,Phillips,F,47,45-59 (Mature Adult),Pharmacist,Jacksonville,FL,32099,30.3322,-81.6557,561,High,15000.0,2021-01-20
+CUST_00599,Kimberly Thomas,Kimberly,Thomas,F,26,18-29 (Young Adult),Electrician,San Francisco,CA,94101,37.7749,-122.4194,732,Moderate,2500.0,2024-02-10
+CUST_00600,Amanda Wilson,Amanda,Wilson,F,32,30-44 (Middle Adult),Chef,San Antonio,TX,78201,29.4241,-98.4936,656,Moderate,20000.0,2022-02-13
+CUST_00601,Donald Mitchell,Donald,Mitchell,M,37,30-44 (Middle Adult),Sales Representative,San Antonio,TX,78201,29.4241,-98.4936,680,Moderate,5000.0,2025-09-06
+CUST_00602,Karen Roberts,Karen,Roberts,M,28,18-29 (Young Adult),Chef,Chicago,IL,60601,41.8781,-87.6298,749,Moderate,15000.0,2021-01-14
+CUST_00603,Helen Williams,Helen,Williams,F,44,30-44 (Middle Adult),Electrician,Atlanta,GA,30301,33.749,-84.388,760,Low,10000.0,2025-12-10
+CUST_00604,Gary Lopez,Gary,Lopez,F,46,45-59 (Mature Adult),Operations Analyst,San Diego,CA,92101,32.7157,-117.1611,619,High,2500.0,2023-12-13
+CUST_00605,Jason Walker,Jason,Walker,M,53,45-59 (Mature Adult),Research Scientist,Jacksonville,FL,32099,30.3322,-81.6557,689,Moderate,30000.0,2024-11-06
+CUST_00606,Jessica Hall,Jessica,Hall,F,41,30-44 (Middle Adult),Software Engineer,New York,NY,10001,40.7128,-74.006,625,High,20000.0,2022-03-08
+CUST_00607,Edward Nguyen,Edward,Nguyen,M,41,30-44 (Middle Adult),Financial Analyst,Jacksonville,FL,32099,30.3322,-81.6557,677,Moderate,5000.0,2024-01-29
+CUST_00608,Carol White,Carol,White,M,52,45-59 (Mature Adult),High School Teacher,Columbus,OH,43201,39.9612,-82.9988,719,Moderate,10000.0,2024-12-06
+CUST_00609,Melissa White,Melissa,White,F,38,30-44 (Middle Adult),Marketing Specialist,Indianapolis,IN,46201,39.7684,-86.1581,755,Low,15000.0,2021-09-26
+CUST_00610,Richard Campbell,Richard,Campbell,F,72,60+ (Senior),Attorney,San Diego,CA,92101,32.7157,-117.1611,670,Moderate,10000.0,2025-10-20
+CUST_00611,Edward Gonzalez,Edward,Gonzalez,M,72,60+ (Senior),Chef,Phoenix,AZ,85001,33.4484,-112.074,706,Moderate,30000.0,2021-01-20
+CUST_00612,Eric Wright,Eric,Wright,F,71,60+ (Senior),Architect,Seattle,WA,98101,47.6062,-122.3321,733,Moderate,7500.0,2024-02-26
+CUST_00613,Michael Sanchez,Michael,Sanchez,M,65,60+ (Senior),Accountant,Philadelphia,PA,19101,39.9526,-75.1652,677,Moderate,5000.0,2025-07-25
+CUST_00614,Richard Lewis,Richard,Lewis,F,37,30-44 (Middle Adult),Graphic Designer,Jacksonville,FL,32099,30.3322,-81.6557,776,Low,15000.0,2024-02-16
+CUST_00615,Steven Thompson,Steven,Thompson,M,47,45-59 (Mature Adult),Graphic Designer,Houston,TX,77001,29.7604,-95.3698,712,Moderate,30000.0,2024-10-23
+CUST_00616,Jonathan Lopez,Jonathan,Lopez,F,43,30-44 (Middle Adult),Pharmacist,Austin,TX,73301,30.2672,-97.7431,672,Moderate,10000.0,2025-05-06
+CUST_00617,Laura Garcia,Laura,Garcia,F,60,60+ (Senior),Civil Engineer,San Jose,CA,95101,37.3382,-121.8863,728,Moderate,20000.0,2021-10-24
+CUST_00618,Carol Clark,Carol,Clark,F,75,60+ (Senior),Registered Nurse,Chicago,IL,60601,41.8781,-87.6298,627,High,5000.0,2022-12-05
+CUST_00619,Sandra Lee,Sandra,Lee,F,62,60+ (Senior),Financial Analyst,San Jose,CA,95101,37.3382,-121.8863,597,High,15000.0,2024-08-13
+CUST_00620,George Mitchell,George,Mitchell,F,47,45-59 (Mature Adult),Marketing Specialist,Philadelphia,PA,19101,39.9526,-75.1652,744,Moderate,30000.0,2021-02-17
+CUST_00621,Thomas Campbell,Thomas,Campbell,M,63,60+ (Senior),Registered Nurse,Dallas,TX,75201,32.7767,-96.797,662,Moderate,5000.0,2021-12-08
+CUST_00622,Jacob Scott,Jacob,Scott,M,22,18-29 (Young Adult),Pharmacist,San Francisco,CA,94101,37.7749,-122.4194,694,Moderate,30000.0,2021-06-20
+CUST_00623,Susan Taylor,Susan,Taylor,M,26,18-29 (Young Adult),Architect,San Francisco,CA,94101,37.7749,-122.4194,676,Moderate,5000.0,2022-05-22
+CUST_00624,Thomas Rodriguez,Thomas,Rodriguez,M,22,18-29 (Young Adult),Graphic Designer,Los Angeles,CA,90001,34.0522,-118.2437,626,High,30000.0,2022-10-29
+CUST_00625,Jacob Robinson,Jacob,Robinson,F,56,45-59 (Mature Adult),Operations Analyst,Indianapolis,IN,46201,39.7684,-86.1581,710,Moderate,20000.0,2024-01-10
+CUST_00626,Sharon King,Sharon,King,F,43,30-44 (Middle Adult),Attorney,Seattle,WA,98101,47.6062,-122.3321,740,Moderate,5000.0,2025-07-07
+CUST_00627,Barbara Lewis,Barbara,Lewis,F,44,30-44 (Middle Adult),Financial Analyst,Columbus,OH,43201,39.9612,-82.9988,741,Moderate,5000.0,2022-09-14
+CUST_00628,Sarah Thompson,Sarah,Thompson,F,51,45-59 (Mature Adult),Software Engineer,Boston,MA,02101,42.3601,-71.0589,684,Moderate,20000.0,2023-10-05
+CUST_00629,Kathleen Martin,Kathleen,Martin,M,70,60+ (Senior),Architect,Columbus,OH,43201,39.9612,-82.9988,698,Moderate,15000.0,2022-04-19
+CUST_00630,Matthew Clark,Matthew,Clark,F,46,45-59 (Mature Adult),Marketing Specialist,San Diego,CA,92101,32.7157,-117.1611,620,High,20000.0,2025-02-18
+CUST_00631,Deborah Turner,Deborah,Turner,F,35,30-44 (Middle Adult),Registered Nurse,Dallas,TX,75201,32.7767,-96.797,686,Moderate,10000.0,2024-07-04
+CUST_00632,Paul Jackson,Paul,Jackson,F,47,45-59 (Mature Adult),Registered Nurse,San Antonio,TX,78201,29.4241,-98.4936,765,Low,5000.0,2021-10-07
+CUST_00633,Donna Davis,Donna,Davis,F,60,60+ (Senior),Financial Analyst,Indianapolis,IN,46201,39.7684,-86.1581,636,High,20000.0,2024-06-29
+CUST_00634,Karen Brown,Karen,Brown,M,32,30-44 (Middle Adult),Architect,Houston,TX,77001,29.7604,-95.3698,682,Moderate,7500.0,2021-09-14
+CUST_00635,Jeffrey Campbell,Jeffrey,Campbell,M,35,30-44 (Middle Adult),Operations Analyst,Chicago,IL,60601,41.8781,-87.6298,691,Moderate,2500.0,2023-10-08
+CUST_00636,Amy White,Amy,White,F,65,60+ (Senior),Electrician,Los Angeles,CA,90001,34.0522,-118.2437,731,Moderate,2500.0,2025-09-24
+CUST_00637,Charles Brown,Charles,Brown,F,70,60+ (Senior),Registered Nurse,San Francisco,CA,94101,37.7749,-122.4194,724,Moderate,15000.0,2023-08-21
+CUST_00638,Steven Evans,Steven,Evans,F,74,60+ (Senior),Project Manager,New York,NY,10001,40.7128,-74.006,777,Low,30000.0,2025-01-03
+CUST_00639,Ashley Harris,Ashley,Harris,F,36,30-44 (Middle Adult),High School Teacher,Los Angeles,CA,90001,34.0522,-118.2437,688,Moderate,10000.0,2025-02-14
+CUST_00640,Anthony Walker,Anthony,Walker,F,64,60+ (Senior),Electrician,San Jose,CA,95101,37.3382,-121.8863,620,High,5000.0,2024-07-12
+CUST_00641,Jennifer Mitchell,Jennifer,Mitchell,M,37,30-44 (Middle Adult),Architect,Seattle,WA,98101,47.6062,-122.3321,756,Low,5000.0,2023-01-09
+CUST_00642,Margaret Davis,Margaret,Davis,M,61,60+ (Senior),Electrician,Columbus,OH,43201,39.9612,-82.9988,615,High,2500.0,2021-12-09
+CUST_00643,Emily Nguyen,Emily,Nguyen,M,46,45-59 (Mature Adult),Software Engineer,San Diego,CA,92101,32.7157,-117.1611,692,Moderate,2500.0,2024-04-05
+CUST_00644,Karen White,Karen,White,M,36,30-44 (Middle Adult),Chef,Philadelphia,PA,19101,39.9526,-75.1652,624,High,2500.0,2024-11-05
+CUST_00645,Carol Carter,Carol,Carter,M,24,18-29 (Young Adult),Operations Analyst,Jacksonville,FL,32099,30.3322,-81.6557,687,Moderate,20000.0,2024-01-04
+CUST_00646,Sandra Lee,Sandra,Lee,F,72,60+ (Senior),High School Teacher,Indianapolis,IN,46201,39.7684,-86.1581,655,Moderate,2500.0,2024-11-12
+CUST_00647,Edward Thompson,Edward,Thompson,M,37,30-44 (Middle Adult),Chef,Los Angeles,CA,90001,34.0522,-118.2437,622,High,20000.0,2023-06-16
+CUST_00648,Gary Gonzalez,Gary,Gonzalez,M,55,45-59 (Mature Adult),Electrician,Jacksonville,FL,32099,30.3322,-81.6557,657,Moderate,20000.0,2023-08-18
+CUST_00649,Emily Parker,Emily,Parker,M,25,18-29 (Young Adult),Operations Analyst,Denver,CO,80201,39.7392,-104.9903,706,Moderate,10000.0,2022-08-29
+CUST_00650,Ryan Smith,Ryan,Smith,F,67,60+ (Senior),Software Engineer,Philadelphia,PA,19101,39.9526,-75.1652,623,High,15000.0,2025-10-21
+CUST_00651,George Roberts,George,Roberts,M,41,30-44 (Middle Adult),Attorney,Chicago,IL,60601,41.8781,-87.6298,708,Moderate,30000.0,2023-03-05
+CUST_00652,Stephen Martinez,Stephen,Martinez,F,41,30-44 (Middle Adult),Electrician,Columbus,OH,43201,39.9612,-82.9988,750,Low,2500.0,2021-07-17
+CUST_00653,Eric Nelson,Eric,Nelson,M,23,18-29 (Young Adult),Marketing Specialist,Phoenix,AZ,85001,33.4484,-112.074,697,Moderate,30000.0,2021-03-06
+CUST_00654,Richard Williams,Richard,Williams,F,63,60+ (Senior),Pharmacist,Seattle,WA,98101,47.6062,-122.3321,735,Moderate,15000.0,2024-12-07
+CUST_00655,Steven Brown,Steven,Brown,F,35,30-44 (Middle Adult),Registered Nurse,Atlanta,GA,30301,33.749,-84.388,616,High,2500.0,2022-03-04
+CUST_00656,David Robinson,David,Robinson,M,44,30-44 (Middle Adult),Human Resources Manager,Boston,MA,02101,42.3601,-71.0589,585,High,30000.0,2023-01-26
+CUST_00657,Linda Evans,Linda,Evans,F,54,45-59 (Mature Adult),Registered Nurse,Los Angeles,CA,90001,34.0522,-118.2437,711,Moderate,30000.0,2022-09-15
+CUST_00658,Eric Miller,Eric,Miller,M,67,60+ (Senior),Attorney,San Diego,CA,92101,32.7157,-117.1611,696,Moderate,10000.0,2022-01-24
+CUST_00659,Matthew King,Matthew,King,M,57,45-59 (Mature Adult),Attorney,Philadelphia,PA,19101,39.9526,-75.1652,660,Moderate,20000.0,2024-02-18
+CUST_00660,Amanda Baker,Amanda,Baker,F,65,60+ (Senior),Project Manager,Columbus,OH,43201,39.9612,-82.9988,692,Moderate,5000.0,2025-06-11
+CUST_00661,Lisa Scott,Lisa,Scott,F,53,45-59 (Mature Adult),Marketing Specialist,Austin,TX,73301,30.2672,-97.7431,636,High,15000.0,2024-05-13
+CUST_00662,Kenneth Scott,Kenneth,Scott,F,75,60+ (Senior),Human Resources Manager,Jacksonville,FL,32099,30.3322,-81.6557,696,Moderate,30000.0,2024-07-20
+CUST_00663,Sharon Evans,Sharon,Evans,F,59,45-59 (Mature Adult),Attorney,San Diego,CA,92101,32.7157,-117.1611,691,Moderate,5000.0,2023-02-08
+CUST_00664,Steven White,Steven,White,F,49,45-59 (Mature Adult),Software Engineer,San Francisco,CA,94101,37.7749,-122.4194,566,High,20000.0,2021-03-12
+CUST_00665,Andrew Hill,Andrew,Hill,M,54,45-59 (Mature Adult),Architect,Phoenix,AZ,85001,33.4484,-112.074,715,Moderate,2500.0,2022-09-08
+CUST_00666,Kenneth Johnson,Kenneth,Johnson,F,56,45-59 (Mature Adult),Attorney,Denver,CO,80201,39.7392,-104.9903,677,Moderate,15000.0,2024-03-16
+CUST_00667,Karen Miller,Karen,Miller,M,50,45-59 (Mature Adult),Operations Analyst,Jacksonville,FL,32099,30.3322,-81.6557,636,High,5000.0,2022-06-27
+CUST_00668,Sandra Taylor,Sandra,Taylor,F,26,18-29 (Young Adult),Research Scientist,Miami,FL,33101,25.7617,-80.1918,729,Moderate,15000.0,2022-03-22
+CUST_00669,Elizabeth Campbell,Elizabeth,Campbell,F,71,60+ (Senior),Marketing Specialist,Seattle,WA,98101,47.6062,-122.3321,743,Moderate,10000.0,2025-08-19
+CUST_00670,Richard Hill,Richard,Hill,F,23,18-29 (Young Adult),Research Scientist,Miami,FL,33101,25.7617,-80.1918,634,High,2500.0,2025-05-17
+CUST_00671,Linda Roberts,Linda,Roberts,F,43,30-44 (Middle Adult),Human Resources Manager,Columbus,OH,43201,39.9612,-82.9988,705,Moderate,30000.0,2021-09-04
+CUST_00672,Mary Green,Mary,Green,F,24,18-29 (Young Adult),Pharmacist,San Jose,CA,95101,37.3382,-121.8863,654,Moderate,2500.0,2022-10-16
+CUST_00673,Helen Torres,Helen,Torres,M,41,30-44 (Middle Adult),Sales Representative,Denver,CO,80201,39.7392,-104.9903,600,High,5000.0,2021-04-14
+CUST_00674,Laura Carter,Laura,Carter,M,35,30-44 (Middle Adult),Architect,Columbus,OH,43201,39.9612,-82.9988,527,High,30000.0,2023-03-19
+CUST_00675,Charles Rodriguez,Charles,Rodriguez,F,26,18-29 (Young Adult),Accountant,Seattle,WA,98101,47.6062,-122.3321,676,Moderate,15000.0,2023-03-29
+CUST_00676,Sharon Roberts,Sharon,Roberts,M,69,60+ (Senior),Chef,Phoenix,AZ,85001,33.4484,-112.074,730,Moderate,15000.0,2022-02-10
+CUST_00677,Gary Sanchez,Gary,Sanchez,M,56,45-59 (Mature Adult),Pharmacist,Atlanta,GA,30301,33.749,-84.388,758,Low,5000.0,2022-05-12
+CUST_00678,Dorothy Baker,Dorothy,Baker,M,28,18-29 (Young Adult),Human Resources Manager,Columbus,OH,43201,39.9612,-82.9988,718,Moderate,7500.0,2022-12-15
+CUST_00679,Matthew Lee,Matthew,Lee,F,59,45-59 (Mature Adult),Architect,New York,NY,10001,40.7128,-74.006,567,High,5000.0,2022-12-18
+CUST_00680,Jeffrey Flores,Jeffrey,Flores,M,49,45-59 (Mature Adult),Sales Representative,Los Angeles,CA,90001,34.0522,-118.2437,579,High,5000.0,2024-11-04
+CUST_00681,Melissa Martinez,Melissa,Martinez,M,28,18-29 (Young Adult),Sales Representative,Los Angeles,CA,90001,34.0522,-118.2437,743,Moderate,15000.0,2021-10-30
+CUST_00682,Mary Perez,Mary,Perez,M,40,30-44 (Middle Adult),Chef,Indianapolis,IN,46201,39.7684,-86.1581,612,High,2500.0,2022-11-11
+CUST_00683,Anthony Mitchell,Anthony,Mitchell,M,34,30-44 (Middle Adult),Pharmacist,Boston,MA,02101,42.3601,-71.0589,613,High,30000.0,2022-06-14
+CUST_00684,Charles Hall,Charles,Hall,M,45,45-59 (Mature Adult),Pharmacist,Miami,FL,33101,25.7617,-80.1918,659,Moderate,2500.0,2022-06-08
+CUST_00685,Nancy Brown,Nancy,Brown,F,33,30-44 (Middle Adult),Financial Analyst,Atlanta,GA,30301,33.749,-84.388,676,Moderate,2500.0,2023-08-11
+CUST_00686,Deborah Nelson,Deborah,Nelson,F,63,60+ (Senior),Project Manager,Jacksonville,FL,32099,30.3322,-81.6557,675,Moderate,2500.0,2022-08-23
+CUST_00687,Deborah Anderson,Deborah,Anderson,F,53,45-59 (Mature Adult),Electrician,Houston,TX,77001,29.7604,-95.3698,662,Moderate,10000.0,2025-11-11
+CUST_00688,Betty Allen,Betty,Allen,F,56,45-59 (Mature Adult),Accountant,New York,NY,10001,40.7128,-74.006,668,Moderate,5000.0,2023-12-21
+CUST_00689,Michelle Perez,Michelle,Perez,F,46,45-59 (Mature Adult),Software Engineer,Philadelphia,PA,19101,39.9526,-75.1652,638,High,7500.0,2024-11-02
+CUST_00690,Donald Allen,Donald,Allen,F,72,60+ (Senior),Financial Analyst,Los Angeles,CA,90001,34.0522,-118.2437,736,Moderate,10000.0,2025-12-29
+CUST_00691,Patricia Scott,Patricia,Scott,F,35,30-44 (Middle Adult),Electrician,Phoenix,AZ,85001,33.4484,-112.074,733,Moderate,10000.0,2024-09-07
+CUST_00692,Eric Baker,Eric,Baker,M,47,45-59 (Mature Adult),Operations Analyst,San Diego,CA,92101,32.7157,-117.1611,741,Moderate,10000.0,2022-10-02
+CUST_00693,Kevin Lewis,Kevin,Lewis,M,34,30-44 (Middle Adult),Attorney,Phoenix,AZ,85001,33.4484,-112.074,688,Moderate,20000.0,2025-06-27
+CUST_00694,Angela Rodriguez,Angela,Rodriguez,F,70,60+ (Senior),Marketing Specialist,Phoenix,AZ,85001,33.4484,-112.074,706,Moderate,7500.0,2021-05-19
+CUST_00695,Anna Wright,Anna,Wright,M,32,30-44 (Middle Adult),Operations Analyst,Austin,TX,73301,30.2672,-97.7431,690,Moderate,20000.0,2021-03-02
+CUST_00696,Timothy Clark,Timothy,Clark,F,49,45-59 (Mature Adult),Operations Analyst,Dallas,TX,75201,32.7767,-96.797,577,High,30000.0,2022-01-20
+CUST_00697,Susan Rodriguez,Susan,Rodriguez,M,22,18-29 (Young Adult),Financial Analyst,Atlanta,GA,30301,33.749,-84.388,629,High,15000.0,2024-03-07
+CUST_00698,Sandra Baker,Sandra,Baker,M,43,30-44 (Middle Adult),Chef,Chicago,IL,60601,41.8781,-87.6298,636,High,5000.0,2023-10-26
+CUST_00699,Jacob Rivera,Jacob,Rivera,F,32,30-44 (Middle Adult),Chef,San Francisco,CA,94101,37.7749,-122.4194,698,Moderate,10000.0,2021-10-09
+CUST_00700,Timothy Carter,Timothy,Carter,M,38,30-44 (Middle Adult),Sales Representative,Columbus,OH,43201,39.9612,-82.9988,711,Moderate,20000.0,2024-10-06
+CUST_00701,Betty Carter,Betty,Carter,M,25,18-29 (Young Adult),Civil Engineer,Philadelphia,PA,19101,39.9526,-75.1652,636,High,30000.0,2024-06-17
+CUST_00702,Ryan Thomas,Ryan,Thomas,F,46,45-59 (Mature Adult),Research Scientist,Los Angeles,CA,90001,34.0522,-118.2437,683,Moderate,20000.0,2022-10-03
+CUST_00703,Ronald Flores,Ronald,Flores,M,54,45-59 (Mature Adult),Civil Engineer,Houston,TX,77001,29.7604,-95.3698,754,Low,10000.0,2025-08-21
+CUST_00704,Ashley King,Ashley,King,F,68,60+ (Senior),Attorney,Los Angeles,CA,90001,34.0522,-118.2437,609,High,10000.0,2023-11-24
+CUST_00705,Michael Gonzalez,Michael,Gonzalez,F,49,45-59 (Mature Adult),Architect,San Francisco,CA,94101,37.7749,-122.4194,673,Moderate,30000.0,2025-08-22
+CUST_00706,Donna Flores,Donna,Flores,M,65,60+ (Senior),Operations Analyst,Denver,CO,80201,39.7392,-104.9903,709,Moderate,10000.0,2025-08-27
+CUST_00707,Laura Garcia,Laura,Garcia,M,32,30-44 (Middle Adult),Attorney,Miami,FL,33101,25.7617,-80.1918,633,High,5000.0,2023-03-17
+CUST_00708,Daniel Robinson,Daniel,Robinson,M,50,45-59 (Mature Adult),Financial Analyst,Chicago,IL,60601,41.8781,-87.6298,708,Moderate,7500.0,2024-11-17
+CUST_00709,Christopher Rivera,Christopher,Rivera,M,26,18-29 (Young Adult),Civil Engineer,Houston,TX,77001,29.7604,-95.3698,747,Moderate,20000.0,2023-01-14
+CUST_00710,Shirley Flores,Shirley,Flores,M,45,45-59 (Mature Adult),Research Scientist,Boston,MA,02101,42.3601,-71.0589,720,Moderate,2500.0,2025-04-23
+CUST_00711,Nancy Perez,Nancy,Perez,M,31,30-44 (Middle Adult),Marketing Specialist,Phoenix,AZ,85001,33.4484,-112.074,721,Moderate,30000.0,2024-12-29
+CUST_00712,Laura Jackson,Laura,Jackson,M,28,18-29 (Young Adult),High School Teacher,Phoenix,AZ,85001,33.4484,-112.074,694,Moderate,2500.0,2024-06-29
+CUST_00713,Steven Smith,Steven,Smith,F,52,45-59 (Mature Adult),Attorney,Seattle,WA,98101,47.6062,-122.3321,635,High,30000.0,2021-01-12
+CUST_00714,Margaret Nguyen,Margaret,Nguyen,F,50,45-59 (Mature Adult),Civil Engineer,Columbus,OH,43201,39.9612,-82.9988,643,High,2500.0,2024-05-16
+CUST_00715,James Thomas,James,Thomas,F,60,60+ (Senior),High School Teacher,Boston,MA,02101,42.3601,-71.0589,723,Moderate,2500.0,2022-01-14
+CUST_00716,Robert Martinez,Robert,Martinez,M,63,60+ (Senior),Architect,Miami,FL,33101,25.7617,-80.1918,738,Moderate,7500.0,2021-06-29
+CUST_00717,Michael Miller,Michael,Miller,F,32,30-44 (Middle Adult),Architect,Philadelphia,PA,19101,39.9526,-75.1652,656,Moderate,15000.0,2024-09-15
+CUST_00718,Anna Lopez,Anna,Lopez,F,68,60+ (Senior),Graphic Designer,Miami,FL,33101,25.7617,-80.1918,617,High,2500.0,2021-07-10
+CUST_00719,Joshua Lee,Joshua,Lee,F,45,45-59 (Mature Adult),Human Resources Manager,Chicago,IL,60601,41.8781,-87.6298,732,Moderate,30000.0,2024-02-02
+CUST_00720,Jessica Hall,Jessica,Hall,F,42,30-44 (Middle Adult),Human Resources Manager,Denver,CO,80201,39.7392,-104.9903,702,Moderate,15000.0,2022-03-06
+CUST_00721,Anthony Flores,Anthony,Flores,M,27,18-29 (Young Adult),Pharmacist,Miami,FL,33101,25.7617,-80.1918,669,Moderate,2500.0,2023-09-18
+CUST_00722,Andrew Ramirez,Andrew,Ramirez,F,37,30-44 (Middle Adult),Graphic Designer,Denver,CO,80201,39.7392,-104.9903,613,High,5000.0,2024-06-12
+CUST_00723,Amy King,Amy,King,F,52,45-59 (Mature Adult),Sales Representative,Philadelphia,PA,19101,39.9526,-75.1652,683,Moderate,20000.0,2022-08-18
+CUST_00724,Patricia Robinson,Patricia,Robinson,M,68,60+ (Senior),Human Resources Manager,San Antonio,TX,78201,29.4241,-98.4936,680,Moderate,10000.0,2021-04-04
+CUST_00725,Kevin Thompson,Kevin,Thompson,M,21,18-29 (Young Adult),Architect,San Antonio,TX,78201,29.4241,-98.4936,718,Moderate,7500.0,2025-06-07
+CUST_00726,Stephen Lee,Stephen,Lee,M,28,18-29 (Young Adult),Electrician,Austin,TX,73301,30.2672,-97.7431,697,Moderate,10000.0,2025-01-23
+CUST_00727,Patricia Turner,Patricia,Turner,M,33,30-44 (Middle Adult),Electrician,Austin,TX,73301,30.2672,-97.7431,757,Low,20000.0,2023-09-09
+CUST_00728,Sarah Walker,Sarah,Walker,M,61,60+ (Senior),Attorney,Indianapolis,IN,46201,39.7684,-86.1581,635,High,7500.0,2023-08-06
+CUST_00729,Timothy Mitchell,Timothy,Mitchell,M,74,60+ (Senior),Architect,Denver,CO,80201,39.7392,-104.9903,652,Moderate,15000.0,2025-01-24
+CUST_00730,John Wilson,John,Wilson,F,72,60+ (Senior),Registered Nurse,Jacksonville,FL,32099,30.3322,-81.6557,623,High,5000.0,2022-07-29
+CUST_00731,Patricia Perez,Patricia,Perez,F,61,60+ (Senior),Marketing Specialist,Boston,MA,02101,42.3601,-71.0589,628,High,15000.0,2024-05-25
+CUST_00732,Michelle Rivera,Michelle,Rivera,F,66,60+ (Senior),Financial Analyst,Los Angeles,CA,90001,34.0522,-118.2437,723,Moderate,10000.0,2021-06-27
+CUST_00733,Amy Thomas,Amy,Thomas,F,49,45-59 (Mature Adult),High School Teacher,San Jose,CA,95101,37.3382,-121.8863,702,Moderate,15000.0,2022-09-12
+CUST_00734,Robert Roberts,Robert,Roberts,M,26,18-29 (Young Adult),Pharmacist,Indianapolis,IN,46201,39.7684,-86.1581,723,Moderate,2500.0,2025-06-25
+CUST_00735,Kathleen Allen,Kathleen,Allen,M,33,30-44 (Middle Adult),Chef,Austin,TX,73301,30.2672,-97.7431,595,High,20000.0,2025-11-25
+CUST_00736,Charles Roberts,Charles,Roberts,M,73,60+ (Senior),Operations Analyst,Denver,CO,80201,39.7392,-104.9903,667,Moderate,5000.0,2025-01-23
+CUST_00737,Robert Robinson,Robert,Robinson,F,66,60+ (Senior),Project Manager,Denver,CO,80201,39.7392,-104.9903,749,Moderate,2500.0,2022-09-29
+CUST_00738,Barbara Perez,Barbara,Perez,F,23,18-29 (Young Adult),Pharmacist,Houston,TX,77001,29.7604,-95.3698,649,High,30000.0,2024-09-11
+CUST_00739,Michelle Johnson,Michelle,Johnson,F,61,60+ (Senior),Electrician,San Antonio,TX,78201,29.4241,-98.4936,666,Moderate,5000.0,2022-01-30
+CUST_00740,Jeffrey Nelson,Jeffrey,Nelson,M,38,30-44 (Middle Adult),Marketing Specialist,Phoenix,AZ,85001,33.4484,-112.074,740,Moderate,7500.0,2021-08-23
+CUST_00741,Mary Flores,Mary,Flores,M,34,30-44 (Middle Adult),Graphic Designer,Boston,MA,02101,42.3601,-71.0589,664,Moderate,15000.0,2022-10-15
+CUST_00742,Andrew Torres,Andrew,Torres,M,31,30-44 (Middle Adult),Architect,Chicago,IL,60601,41.8781,-87.6298,799,Low,15000.0,2022-11-25
+CUST_00743,Helen Lewis,Helen,Lewis,M,29,18-29 (Young Adult),Chef,New York,NY,10001,40.7128,-74.006,693,Moderate,20000.0,2021-04-14
+CUST_00744,Jason Sanchez,Jason,Sanchez,M,66,60+ (Senior),Civil Engineer,Atlanta,GA,30301,33.749,-84.388,690,Moderate,15000.0,2022-12-30
+CUST_00745,Michelle Perez,Michelle,Perez,M,66,60+ (Senior),Registered Nurse,Boston,MA,02101,42.3601,-71.0589,654,Moderate,30000.0,2025-04-15
+CUST_00746,Cynthia Miller,Cynthia,Miller,F,40,30-44 (Middle Adult),Chef,Indianapolis,IN,46201,39.7684,-86.1581,686,Moderate,5000.0,2022-04-04
+CUST_00747,Charles Parker,Charles,Parker,F,44,30-44 (Middle Adult),Marketing Specialist,San Francisco,CA,94101,37.7749,-122.4194,632,High,20000.0,2024-09-24
+CUST_00748,Dorothy Robinson,Dorothy,Robinson,F,22,18-29 (Young Adult),Chef,Chicago,IL,60601,41.8781,-87.6298,767,Low,2500.0,2022-12-21
+CUST_00749,Kathleen Robinson,Kathleen,Robinson,M,39,30-44 (Middle Adult),Operations Analyst,Jacksonville,FL,32099,30.3322,-81.6557,614,High,15000.0,2021-07-30
+CUST_00750,Susan Lee,Susan,Lee,M,71,60+ (Senior),Attorney,San Jose,CA,95101,37.3382,-121.8863,724,Moderate,10000.0,2023-04-01
+CUST_00751,Timothy Thomas,Timothy,Thomas,M,56,45-59 (Mature Adult),Chef,Philadelphia,PA,19101,39.9526,-75.1652,631,High,10000.0,2021-05-16
+CUST_00752,Sharon Gomez,Sharon,Gomez,F,57,45-59 (Mature Adult),Attorney,Austin,TX,73301,30.2672,-97.7431,757,Low,20000.0,2022-04-29
+CUST_00753,Daniel Nelson,Daniel,Nelson,M,68,60+ (Senior),Chef,Miami,FL,33101,25.7617,-80.1918,643,High,2500.0,2024-04-27
+CUST_00754,Richard Evans,Richard,Evans,F,32,30-44 (Middle Adult),Research Scientist,San Jose,CA,95101,37.3382,-121.8863,655,Moderate,2500.0,2024-05-10
+CUST_00755,Susan Baker,Susan,Baker,F,41,30-44 (Middle Adult),Accountant,Seattle,WA,98101,47.6062,-122.3321,723,Moderate,2500.0,2022-03-22
+CUST_00756,James Carter,James,Carter,M,63,60+ (Senior),Civil Engineer,Phoenix,AZ,85001,33.4484,-112.074,585,High,15000.0,2022-08-20
+CUST_00757,Deborah Flores,Deborah,Flores,F,33,30-44 (Middle Adult),Electrician,San Antonio,TX,78201,29.4241,-98.4936,701,Moderate,7500.0,2024-03-13
+CUST_00758,Sharon Rivera,Sharon,Rivera,F,26,18-29 (Young Adult),Software Engineer,Miami,FL,33101,25.7617,-80.1918,607,High,15000.0,2023-11-12
+CUST_00759,Stephanie Diaz,Stephanie,Diaz,M,75,60+ (Senior),Accountant,San Jose,CA,95101,37.3382,-121.8863,682,Moderate,7500.0,2024-01-30
+CUST_00760,Anna Evans,Anna,Evans,F,28,18-29 (Young Adult),Software Engineer,San Jose,CA,95101,37.3382,-121.8863,680,Moderate,5000.0,2023-06-04
+CUST_00761,Ronald Green,Ronald,Green,F,66,60+ (Senior),Research Scientist,San Francisco,CA,94101,37.7749,-122.4194,609,High,10000.0,2023-06-11
+CUST_00762,Jacob Rodriguez,Jacob,Rodriguez,M,56,45-59 (Mature Adult),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,659,Moderate,30000.0,2023-05-05
+CUST_00763,Karen Jackson,Karen,Jackson,M,29,18-29 (Young Adult),Registered Nurse,New York,NY,10001,40.7128,-74.006,744,Moderate,20000.0,2021-02-02
+CUST_00764,Sharon Rodriguez,Sharon,Rodriguez,M,29,18-29 (Young Adult),Civil Engineer,Columbus,OH,43201,39.9612,-82.9988,762,Low,30000.0,2024-11-25
+CUST_00765,Jason Flores,Jason,Flores,M,50,45-59 (Mature Adult),Human Resources Manager,Denver,CO,80201,39.7392,-104.9903,635,High,15000.0,2025-08-07
+CUST_00766,Lisa Ramirez,Lisa,Ramirez,M,57,45-59 (Mature Adult),Sales Representative,Seattle,WA,98101,47.6062,-122.3321,694,Moderate,20000.0,2023-10-25
+CUST_00767,Paul Clark,Paul,Clark,F,23,18-29 (Young Adult),Chef,Los Angeles,CA,90001,34.0522,-118.2437,723,Moderate,20000.0,2023-01-25
+CUST_00768,David Martinez,David,Martinez,F,50,45-59 (Mature Adult),Registered Nurse,Denver,CO,80201,39.7392,-104.9903,717,Moderate,15000.0,2025-12-28
+CUST_00769,Barbara Thomas,Barbara,Thomas,F,61,60+ (Senior),Attorney,Chicago,IL,60601,41.8781,-87.6298,674,Moderate,30000.0,2024-04-02
+CUST_00770,Carol Wright,Carol,Wright,M,51,45-59 (Mature Adult),Pharmacist,Indianapolis,IN,46201,39.7684,-86.1581,695,Moderate,10000.0,2024-03-21
+CUST_00771,Kevin Clark,Kevin,Clark,F,72,60+ (Senior),Architect,San Jose,CA,95101,37.3382,-121.8863,657,Moderate,5000.0,2021-03-14
+CUST_00772,Joshua Campbell,Joshua,Campbell,F,24,18-29 (Young Adult),Marketing Specialist,Seattle,WA,98101,47.6062,-122.3321,617,High,15000.0,2021-04-16
+CUST_00773,Donna Phillips,Donna,Phillips,M,39,30-44 (Middle Adult),Registered Nurse,Seattle,WA,98101,47.6062,-122.3321,757,Low,5000.0,2023-11-02
+CUST_00774,Steven Rodriguez,Steven,Rodriguez,F,38,30-44 (Middle Adult),Software Engineer,Dallas,TX,75201,32.7767,-96.797,721,Moderate,20000.0,2021-08-17
+CUST_00775,Daniel Nguyen,Daniel,Nguyen,M,63,60+ (Senior),Graphic Designer,Indianapolis,IN,46201,39.7684,-86.1581,675,Moderate,30000.0,2021-12-26
+CUST_00776,Gary Lopez,Gary,Lopez,M,42,30-44 (Middle Adult),Operations Analyst,Chicago,IL,60601,41.8781,-87.6298,757,Low,15000.0,2025-08-10
+CUST_00777,Karen Turner,Karen,Turner,F,69,60+ (Senior),Research Scientist,Columbus,OH,43201,39.9612,-82.9988,614,High,5000.0,2024-09-15
+CUST_00778,Anthony Torres,Anthony,Torres,F,24,18-29 (Young Adult),Project Manager,Dallas,TX,75201,32.7767,-96.797,706,Moderate,2500.0,2021-12-10
+CUST_00779,Cynthia Sanchez,Cynthia,Sanchez,F,40,30-44 (Middle Adult),Attorney,Seattle,WA,98101,47.6062,-122.3321,660,Moderate,5000.0,2023-02-17
+CUST_00780,Kimberly Martinez,Kimberly,Martinez,F,21,18-29 (Young Adult),Civil Engineer,San Jose,CA,95101,37.3382,-121.8863,635,High,10000.0,2024-10-21
+CUST_00781,Kenneth King,Kenneth,King,M,27,18-29 (Young Adult),Graphic Designer,Boston,MA,02101,42.3601,-71.0589,624,High,30000.0,2023-06-04
+CUST_00782,Paul Perez,Paul,Perez,F,38,30-44 (Middle Adult),Financial Analyst,Houston,TX,77001,29.7604,-95.3698,634,High,20000.0,2024-04-11
+CUST_00783,Ronald Robinson,Ronald,Robinson,M,67,60+ (Senior),High School Teacher,Miami,FL,33101,25.7617,-80.1918,611,High,15000.0,2022-11-23
+CUST_00784,Kenneth Scott,Kenneth,Scott,M,64,60+ (Senior),Registered Nurse,New York,NY,10001,40.7128,-74.006,538,High,2500.0,2023-04-23
+CUST_00785,Richard King,Richard,King,M,64,60+ (Senior),Graphic Designer,Indianapolis,IN,46201,39.7684,-86.1581,673,Moderate,5000.0,2025-01-25
+CUST_00786,Patricia Flores,Patricia,Flores,M,24,18-29 (Young Adult),High School Teacher,Atlanta,GA,30301,33.749,-84.388,712,Moderate,15000.0,2024-07-30
+CUST_00787,Jessica Rivera,Jessica,Rivera,M,26,18-29 (Young Adult),Operations Analyst,Atlanta,GA,30301,33.749,-84.388,686,Moderate,10000.0,2024-09-06
+CUST_00788,Lisa Davis,Lisa,Davis,M,37,30-44 (Middle Adult),Civil Engineer,San Jose,CA,95101,37.3382,-121.8863,608,High,20000.0,2021-06-05
+CUST_00789,Ryan Moore,Ryan,Moore,F,65,60+ (Senior),Financial Analyst,Austin,TX,73301,30.2672,-97.7431,757,Low,5000.0,2025-05-18
+CUST_00790,Edward Harris,Edward,Harris,F,24,18-29 (Young Adult),Financial Analyst,Dallas,TX,75201,32.7767,-96.797,719,Moderate,5000.0,2023-06-22
+CUST_00791,William Young,William,Young,M,60,60+ (Senior),Marketing Specialist,San Francisco,CA,94101,37.7749,-122.4194,728,Moderate,20000.0,2023-10-05
+CUST_00792,Sharon Wilson,Sharon,Wilson,M,49,45-59 (Mature Adult),Project Manager,Dallas,TX,75201,32.7767,-96.797,719,Moderate,2500.0,2021-05-30
+CUST_00793,Elizabeth Torres,Elizabeth,Torres,F,70,60+ (Senior),Software Engineer,Indianapolis,IN,46201,39.7684,-86.1581,679,Moderate,10000.0,2021-11-01
+CUST_00794,Robert Nelson,Robert,Nelson,F,38,30-44 (Middle Adult),Electrician,Phoenix,AZ,85001,33.4484,-112.074,678,Moderate,10000.0,2024-03-22
+CUST_00795,James Allen,James,Allen,F,51,45-59 (Mature Adult),Research Scientist,Columbus,OH,43201,39.9612,-82.9988,697,Moderate,30000.0,2025-01-30
+CUST_00796,Helen Anderson,Helen,Anderson,M,45,45-59 (Mature Adult),Project Manager,Seattle,WA,98101,47.6062,-122.3321,594,High,15000.0,2024-01-02
+CUST_00797,Amanda Perez,Amanda,Perez,F,46,45-59 (Mature Adult),Registered Nurse,Los Angeles,CA,90001,34.0522,-118.2437,708,Moderate,7500.0,2023-12-31
+CUST_00798,Ryan Carter,Ryan,Carter,F,62,60+ (Senior),Marketing Specialist,San Antonio,TX,78201,29.4241,-98.4936,644,High,15000.0,2021-03-22
+CUST_00799,Deborah Nelson,Deborah,Nelson,M,40,30-44 (Middle Adult),Project Manager,San Francisco,CA,94101,37.7749,-122.4194,667,Moderate,20000.0,2024-11-11
+CUST_00800,Jeffrey Mitchell,Jeffrey,Mitchell,M,29,18-29 (Young Adult),High School Teacher,Los Angeles,CA,90001,34.0522,-118.2437,696,Moderate,2500.0,2025-01-14
+CUST_00801,Donald Young,Donald,Young,F,25,18-29 (Young Adult),Architect,Boston,MA,02101,42.3601,-71.0589,769,Low,10000.0,2023-12-30
+CUST_00802,John Williams,John,Williams,F,24,18-29 (Young Adult),Accountant,Austin,TX,73301,30.2672,-97.7431,660,Moderate,10000.0,2021-08-31
+CUST_00803,Margaret Phillips,Margaret,Phillips,F,64,60+ (Senior),Operations Analyst,Boston,MA,02101,42.3601,-71.0589,682,Moderate,20000.0,2024-04-01
+CUST_00804,Charles Young,Charles,Young,M,51,45-59 (Mature Adult),Accountant,Atlanta,GA,30301,33.749,-84.388,699,Moderate,5000.0,2024-12-07
+CUST_00805,Thomas Smith,Thomas,Smith,M,61,60+ (Senior),Architect,Los Angeles,CA,90001,34.0522,-118.2437,736,Moderate,30000.0,2025-06-14
+CUST_00806,William Evans,William,Evans,M,28,18-29 (Young Adult),Sales Representative,Seattle,WA,98101,47.6062,-122.3321,719,Moderate,2500.0,2025-07-06
+CUST_00807,Betty Ramirez,Betty,Ramirez,F,72,60+ (Senior),Electrician,San Francisco,CA,94101,37.7749,-122.4194,656,Moderate,2500.0,2024-11-02
+CUST_00808,Margaret Carter,Margaret,Carter,M,58,45-59 (Mature Adult),Electrician,Philadelphia,PA,19101,39.9526,-75.1652,668,Moderate,2500.0,2021-09-05
+CUST_00809,Emily Martinez,Emily,Martinez,F,31,30-44 (Middle Adult),Attorney,Jacksonville,FL,32099,30.3322,-81.6557,683,Moderate,5000.0,2023-06-18
+CUST_00810,Sarah Miller,Sarah,Miller,F,70,60+ (Senior),Software Engineer,Philadelphia,PA,19101,39.9526,-75.1652,746,Moderate,10000.0,2021-06-15
+CUST_00811,James Smith,James,Smith,M,26,18-29 (Young Adult),Architect,Miami,FL,33101,25.7617,-80.1918,710,Moderate,10000.0,2024-11-21
+CUST_00812,Thomas Wilson,Thomas,Wilson,M,61,60+ (Senior),Pharmacist,Dallas,TX,75201,32.7767,-96.797,599,High,10000.0,2023-04-24
+CUST_00813,Donald Lopez,Donald,Lopez,M,59,45-59 (Mature Adult),Chef,Philadelphia,PA,19101,39.9526,-75.1652,619,High,15000.0,2021-06-30
+CUST_00814,Brian Clark,Brian,Clark,M,56,45-59 (Mature Adult),High School Teacher,San Diego,CA,92101,32.7157,-117.1611,617,High,2500.0,2023-12-22
+CUST_00815,Richard Flores,Richard,Flores,F,69,60+ (Senior),Pharmacist,Boston,MA,02101,42.3601,-71.0589,689,Moderate,5000.0,2023-08-09
+CUST_00816,Emily Brown,Emily,Brown,M,28,18-29 (Young Adult),Chef,Phoenix,AZ,85001,33.4484,-112.074,607,High,10000.0,2021-12-28
+CUST_00817,Christopher Nelson,Christopher,Nelson,M,24,18-29 (Young Adult),Architect,Jacksonville,FL,32099,30.3322,-81.6557,679,Moderate,5000.0,2023-06-10
+CUST_00818,Ryan Williams,Ryan,Williams,M,68,60+ (Senior),Attorney,Los Angeles,CA,90001,34.0522,-118.2437,749,Moderate,5000.0,2021-11-20
+CUST_00819,Patricia Young,Patricia,Young,M,25,18-29 (Young Adult),Civil Engineer,San Diego,CA,92101,32.7157,-117.1611,665,Moderate,15000.0,2024-04-02
+CUST_00820,Dorothy Anderson,Dorothy,Anderson,M,41,30-44 (Middle Adult),Project Manager,San Diego,CA,92101,32.7157,-117.1611,710,Moderate,5000.0,2025-02-19
+CUST_00821,Timothy Parker,Timothy,Parker,M,45,45-59 (Mature Adult),Registered Nurse,San Diego,CA,92101,32.7157,-117.1611,575,High,10000.0,2024-04-13
+CUST_00822,Charles Wilson,Charles,Wilson,F,32,30-44 (Middle Adult),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,690,Moderate,5000.0,2023-07-27
+CUST_00823,Matthew Green,Matthew,Green,F,38,30-44 (Middle Adult),Electrician,San Antonio,TX,78201,29.4241,-98.4936,674,Moderate,5000.0,2021-03-07
+CUST_00824,Sarah Davis,Sarah,Davis,F,50,45-59 (Mature Adult),Marketing Specialist,Columbus,OH,43201,39.9612,-82.9988,664,Moderate,30000.0,2022-12-05
+CUST_00825,Mark Jackson,Mark,Jackson,M,71,60+ (Senior),Marketing Specialist,Atlanta,GA,30301,33.749,-84.388,693,Moderate,15000.0,2024-02-07
+CUST_00826,Eric Young,Eric,Young,M,58,45-59 (Mature Adult),Civil Engineer,Seattle,WA,98101,47.6062,-122.3321,663,Moderate,7500.0,2021-01-30
+CUST_00827,Jason Mitchell,Jason,Mitchell,M,36,30-44 (Middle Adult),Human Resources Manager,Austin,TX,73301,30.2672,-97.7431,732,Moderate,15000.0,2022-04-01
+CUST_00828,Karen Torres,Karen,Torres,M,47,45-59 (Mature Adult),Accountant,Los Angeles,CA,90001,34.0522,-118.2437,638,High,10000.0,2025-02-11
+CUST_00829,Nicholas Williams,Nicholas,Williams,F,54,45-59 (Mature Adult),Chef,San Francisco,CA,94101,37.7749,-122.4194,673,Moderate,30000.0,2025-06-23
+CUST_00830,Amy Thomas,Amy,Thomas,M,56,45-59 (Mature Adult),Human Resources Manager,New York,NY,10001,40.7128,-74.006,659,Moderate,5000.0,2021-09-29
+CUST_00831,Amanda Jackson,Amanda,Jackson,M,62,60+ (Senior),Software Engineer,Chicago,IL,60601,41.8781,-87.6298,654,Moderate,10000.0,2024-10-02
+CUST_00832,Patricia Robinson,Patricia,Robinson,F,70,60+ (Senior),Research Scientist,Phoenix,AZ,85001,33.4484,-112.074,753,Low,5000.0,2025-06-06
+CUST_00833,Melissa Green,Melissa,Green,F,66,60+ (Senior),Registered Nurse,New York,NY,10001,40.7128,-74.006,674,Moderate,10000.0,2024-11-15
+CUST_00834,Jason Carter,Jason,Carter,F,65,60+ (Senior),Attorney,Atlanta,GA,30301,33.749,-84.388,691,Moderate,15000.0,2025-06-16
+CUST_00835,Anthony Gomez,Anthony,Gomez,M,60,60+ (Senior),Accountant,Austin,TX,73301,30.2672,-97.7431,669,Moderate,15000.0,2024-10-13
+CUST_00836,Deborah White,Deborah,White,F,60,60+ (Senior),Graphic Designer,Los Angeles,CA,90001,34.0522,-118.2437,692,Moderate,7500.0,2021-12-25
+CUST_00837,Anna Rivera,Anna,Rivera,M,56,45-59 (Mature Adult),Operations Analyst,San Antonio,TX,78201,29.4241,-98.4936,610,High,7500.0,2022-05-04
+CUST_00838,Anthony Carter,Anthony,Carter,M,41,30-44 (Middle Adult),Financial Analyst,Jacksonville,FL,32099,30.3322,-81.6557,662,Moderate,15000.0,2024-10-25
+CUST_00839,Jason Moore,Jason,Moore,M,25,18-29 (Young Adult),Graphic Designer,Jacksonville,FL,32099,30.3322,-81.6557,586,High,10000.0,2023-09-23
+CUST_00840,Jacob Rivera,Jacob,Rivera,F,49,45-59 (Mature Adult),Graphic Designer,Atlanta,GA,30301,33.749,-84.388,679,Moderate,30000.0,2024-10-10
+CUST_00841,William Gonzalez,William,Gonzalez,F,26,18-29 (Young Adult),Research Scientist,Chicago,IL,60601,41.8781,-87.6298,699,Moderate,5000.0,2022-08-14
+CUST_00842,Nancy Moore,Nancy,Moore,M,65,60+ (Senior),Chef,Phoenix,AZ,85001,33.4484,-112.074,675,Moderate,5000.0,2025-11-27
+CUST_00843,Anthony King,Anthony,King,M,39,30-44 (Middle Adult),Attorney,Columbus,OH,43201,39.9612,-82.9988,649,High,5000.0,2023-08-29
+CUST_00844,John Jackson,John,Jackson,M,25,18-29 (Young Adult),Sales Representative,New York,NY,10001,40.7128,-74.006,724,Moderate,30000.0,2023-12-01
+CUST_00845,Kevin Clark,Kevin,Clark,F,62,60+ (Senior),Chef,Austin,TX,73301,30.2672,-97.7431,649,High,15000.0,2024-09-25
+CUST_00846,Jeffrey Robinson,Jeffrey,Robinson,F,57,45-59 (Mature Adult),Architect,Phoenix,AZ,85001,33.4484,-112.074,589,High,5000.0,2025-06-05
+CUST_00847,Kimberly Anderson,Kimberly,Anderson,F,44,30-44 (Middle Adult),Accountant,San Jose,CA,95101,37.3382,-121.8863,653,Moderate,5000.0,2022-12-25
+CUST_00848,Christopher Rivera,Christopher,Rivera,F,32,30-44 (Middle Adult),Operations Analyst,Philadelphia,PA,19101,39.9526,-75.1652,802,Low,5000.0,2022-05-03
+CUST_00849,Joseph Williams,Joseph,Williams,F,57,45-59 (Mature Adult),Civil Engineer,Phoenix,AZ,85001,33.4484,-112.074,706,Moderate,7500.0,2023-01-28
+CUST_00850,Robert Nelson,Robert,Nelson,F,43,30-44 (Middle Adult),Graphic Designer,Phoenix,AZ,85001,33.4484,-112.074,739,Moderate,10000.0,2024-01-11
+CUST_00851,Christopher Wright,Christopher,Wright,F,28,18-29 (Young Adult),Research Scientist,New York,NY,10001,40.7128,-74.006,714,Moderate,10000.0,2025-04-23
+CUST_00852,Kenneth Martinez,Kenneth,Martinez,M,68,60+ (Senior),Pharmacist,Boston,MA,02101,42.3601,-71.0589,724,Moderate,7500.0,2024-08-18
+CUST_00853,Donna Walker,Donna,Walker,F,69,60+ (Senior),Operations Analyst,Miami,FL,33101,25.7617,-80.1918,665,Moderate,30000.0,2024-03-03
+CUST_00854,Carol Hall,Carol,Hall,M,67,60+ (Senior),Accountant,Seattle,WA,98101,47.6062,-122.3321,568,High,5000.0,2024-10-20
+CUST_00855,Stephen Davis,Stephen,Davis,F,22,18-29 (Young Adult),Sales Representative,San Francisco,CA,94101,37.7749,-122.4194,694,Moderate,10000.0,2023-01-02
+CUST_00856,Matthew Nguyen,Matthew,Nguyen,M,71,60+ (Senior),High School Teacher,Dallas,TX,75201,32.7767,-96.797,689,Moderate,2500.0,2021-06-21
+CUST_00857,Jonathan Diaz,Jonathan,Diaz,F,64,60+ (Senior),Pharmacist,Chicago,IL,60601,41.8781,-87.6298,612,High,10000.0,2022-02-03
+CUST_00858,Shirley Brown,Shirley,Brown,F,46,45-59 (Mature Adult),Human Resources Manager,Phoenix,AZ,85001,33.4484,-112.074,684,Moderate,7500.0,2023-03-02
+CUST_00859,Melissa Smith,Melissa,Smith,F,43,30-44 (Middle Adult),Architect,Jacksonville,FL,32099,30.3322,-81.6557,648,High,10000.0,2025-11-26
+CUST_00860,Jeffrey Mitchell,Jeffrey,Mitchell,F,72,60+ (Senior),Architect,Indianapolis,IN,46201,39.7684,-86.1581,667,Moderate,5000.0,2025-07-09
+CUST_00861,Jason Campbell,Jason,Campbell,F,29,18-29 (Young Adult),Registered Nurse,Miami,FL,33101,25.7617,-80.1918,631,High,5000.0,2022-03-02
+CUST_00862,Angela Perez,Angela,Perez,M,58,45-59 (Mature Adult),Registered Nurse,San Francisco,CA,94101,37.7749,-122.4194,821,Low,2500.0,2023-04-19
+CUST_00863,Paul Clark,Paul,Clark,M,56,45-59 (Mature Adult),Operations Analyst,Indianapolis,IN,46201,39.7684,-86.1581,700,Moderate,5000.0,2022-01-16
+CUST_00864,Gary Williams,Gary,Williams,F,74,60+ (Senior),Architect,Miami,FL,33101,25.7617,-80.1918,644,High,10000.0,2024-02-20
+CUST_00865,Cynthia Anderson,Cynthia,Anderson,M,71,60+ (Senior),Operations Analyst,New York,NY,10001,40.7128,-74.006,771,Low,7500.0,2022-09-07
+CUST_00866,Jacob Davis,Jacob,Davis,F,47,45-59 (Mature Adult),Chef,Philadelphia,PA,19101,39.9526,-75.1652,654,Moderate,20000.0,2024-08-13
+CUST_00867,Ashley Johnson,Ashley,Johnson,M,69,60+ (Senior),Chef,Dallas,TX,75201,32.7767,-96.797,678,Moderate,2500.0,2024-05-11
+CUST_00868,Sharon Parker,Sharon,Parker,F,61,60+ (Senior),Project Manager,Seattle,WA,98101,47.6062,-122.3321,614,High,7500.0,2023-11-16
+CUST_00869,John Diaz,John,Diaz,F,31,30-44 (Middle Adult),Accountant,Miami,FL,33101,25.7617,-80.1918,605,High,5000.0,2022-10-17
+CUST_00870,Amanda Hernandez,Amanda,Hernandez,M,38,30-44 (Middle Adult),Human Resources Manager,Jacksonville,FL,32099,30.3322,-81.6557,699,Moderate,20000.0,2022-12-31
+CUST_00871,Michael Jackson,Michael,Jackson,F,54,45-59 (Mature Adult),Pharmacist,Chicago,IL,60601,41.8781,-87.6298,621,High,5000.0,2025-04-19
+CUST_00872,Nancy Wright,Nancy,Wright,F,41,30-44 (Middle Adult),Financial Analyst,San Jose,CA,95101,37.3382,-121.8863,619,High,20000.0,2024-11-30
+CUST_00873,George Miller,George,Miller,F,73,60+ (Senior),Software Engineer,Phoenix,AZ,85001,33.4484,-112.074,663,Moderate,5000.0,2023-11-28
+CUST_00874,Timothy Perez,Timothy,Perez,M,27,18-29 (Young Adult),Operations Analyst,San Antonio,TX,78201,29.4241,-98.4936,765,Low,15000.0,2022-03-29
+CUST_00875,Matthew Gomez,Matthew,Gomez,M,47,45-59 (Mature Adult),Registered Nurse,Indianapolis,IN,46201,39.7684,-86.1581,686,Moderate,2500.0,2025-08-04
+CUST_00876,Brian Martin,Brian,Martin,F,29,18-29 (Young Adult),Pharmacist,Indianapolis,IN,46201,39.7684,-86.1581,687,Moderate,30000.0,2022-12-02
+CUST_00877,Daniel Rivera,Daniel,Rivera,F,22,18-29 (Young Adult),Sales Representative,Houston,TX,77001,29.7604,-95.3698,654,Moderate,5000.0,2025-10-21
+CUST_00878,Michelle Rodriguez,Michelle,Rodriguez,M,29,18-29 (Young Adult),Human Resources Manager,Chicago,IL,60601,41.8781,-87.6298,608,High,20000.0,2025-04-12
+CUST_00879,Joseph Jones,Joseph,Jones,M,70,60+ (Senior),Human Resources Manager,Seattle,WA,98101,47.6062,-122.3321,749,Moderate,2500.0,2022-02-07
+CUST_00880,Shirley Nguyen,Shirley,Nguyen,M,51,45-59 (Mature Adult),Financial Analyst,Houston,TX,77001,29.7604,-95.3698,736,Moderate,2500.0,2021-05-16
+CUST_00881,Joshua Nelson,Joshua,Nelson,M,69,60+ (Senior),Project Manager,Houston,TX,77001,29.7604,-95.3698,652,Moderate,15000.0,2022-02-25
+CUST_00882,Brian Johnson,Brian,Johnson,M,30,30-44 (Middle Adult),Graphic Designer,Dallas,TX,75201,32.7767,-96.797,663,Moderate,7500.0,2021-11-25
+CUST_00883,Nicholas Roberts,Nicholas,Roberts,M,53,45-59 (Mature Adult),Registered Nurse,Miami,FL,33101,25.7617,-80.1918,673,Moderate,2500.0,2025-08-06
+CUST_00884,Margaret Rivera,Margaret,Rivera,M,39,30-44 (Middle Adult),Attorney,Philadelphia,PA,19101,39.9526,-75.1652,676,Moderate,2500.0,2025-01-25
+CUST_00885,Richard Wilson,Richard,Wilson,F,44,30-44 (Middle Adult),Marketing Specialist,Miami,FL,33101,25.7617,-80.1918,710,Moderate,10000.0,2024-10-11
+CUST_00886,Amanda Harris,Amanda,Harris,F,34,30-44 (Middle Adult),Sales Representative,Denver,CO,80201,39.7392,-104.9903,672,Moderate,10000.0,2021-08-20
+CUST_00887,Kenneth Davis,Kenneth,Davis,F,28,18-29 (Young Adult),Operations Analyst,Denver,CO,80201,39.7392,-104.9903,653,Moderate,10000.0,2025-04-11
+CUST_00888,Jennifer Garcia,Jennifer,Garcia,F,52,45-59 (Mature Adult),Research Scientist,Houston,TX,77001,29.7604,-95.3698,712,Moderate,7500.0,2023-07-25
+CUST_00889,Michelle Baker,Michelle,Baker,F,35,30-44 (Middle Adult),Human Resources Manager,Boston,MA,02101,42.3601,-71.0589,591,High,7500.0,2025-10-18
+CUST_00890,Jacob Baker,Jacob,Baker,F,32,30-44 (Middle Adult),Chef,New York,NY,10001,40.7128,-74.006,723,Moderate,20000.0,2021-08-04
+CUST_00891,Ronald Lewis,Ronald,Lewis,M,28,18-29 (Young Adult),Research Scientist,Phoenix,AZ,85001,33.4484,-112.074,660,Moderate,10000.0,2024-11-24
+CUST_00892,Nancy Jones,Nancy,Jones,F,33,30-44 (Middle Adult),High School Teacher,Austin,TX,73301,30.2672,-97.7431,668,Moderate,15000.0,2025-09-25
+CUST_00893,Stephanie Davis,Stephanie,Davis,M,74,60+ (Senior),Chef,Columbus,OH,43201,39.9612,-82.9988,665,Moderate,7500.0,2025-04-16
+CUST_00894,Paul Carter,Paul,Carter,F,43,30-44 (Middle Adult),Research Scientist,Seattle,WA,98101,47.6062,-122.3321,616,High,10000.0,2023-11-14
+CUST_00895,Emily Martinez,Emily,Martinez,F,27,18-29 (Young Adult),Financial Analyst,Houston,TX,77001,29.7604,-95.3698,694,Moderate,10000.0,2023-10-16
+CUST_00896,Patricia Miller,Patricia,Miller,M,74,60+ (Senior),Chef,Chicago,IL,60601,41.8781,-87.6298,799,Low,20000.0,2021-02-24
+CUST_00897,Daniel Harris,Daniel,Harris,F,30,30-44 (Middle Adult),Project Manager,San Jose,CA,95101,37.3382,-121.8863,648,High,30000.0,2021-06-06
+CUST_00898,Amy Gomez,Amy,Gomez,F,33,30-44 (Middle Adult),Chef,San Jose,CA,95101,37.3382,-121.8863,629,High,10000.0,2023-10-31
+CUST_00899,Kimberly Wright,Kimberly,Wright,F,72,60+ (Senior),Attorney,Boston,MA,02101,42.3601,-71.0589,732,Moderate,2500.0,2025-04-14
+CUST_00900,Jessica Harris,Jessica,Harris,F,41,30-44 (Middle Adult),Civil Engineer,San Francisco,CA,94101,37.7749,-122.4194,690,Moderate,10000.0,2021-03-15
+CUST_00901,Robert Lopez,Robert,Lopez,F,66,60+ (Senior),Chef,Philadelphia,PA,19101,39.9526,-75.1652,661,Moderate,10000.0,2021-10-03
+CUST_00902,Joseph Torres,Joseph,Torres,F,63,60+ (Senior),Attorney,Boston,MA,02101,42.3601,-71.0589,726,Moderate,15000.0,2023-08-21
+CUST_00903,Jacob Scott,Jacob,Scott,M,53,45-59 (Mature Adult),Research Scientist,Los Angeles,CA,90001,34.0522,-118.2437,639,High,7500.0,2023-10-11
+CUST_00904,Amanda Roberts,Amanda,Roberts,F,41,30-44 (Middle Adult),Software Engineer,Los Angeles,CA,90001,34.0522,-118.2437,654,Moderate,15000.0,2021-04-03
+CUST_00905,Thomas Turner,Thomas,Turner,F,43,30-44 (Middle Adult),Software Engineer,Miami,FL,33101,25.7617,-80.1918,645,High,30000.0,2025-12-31
+CUST_00906,Jason Thompson,Jason,Thompson,F,47,45-59 (Mature Adult),Accountant,Jacksonville,FL,32099,30.3322,-81.6557,645,High,20000.0,2022-05-16
+CUST_00907,Ashley Thomas,Ashley,Thomas,F,58,45-59 (Mature Adult),Registered Nurse,Chicago,IL,60601,41.8781,-87.6298,703,Moderate,30000.0,2022-09-17
+CUST_00908,Jonathan Lee,Jonathan,Lee,M,50,45-59 (Mature Adult),Pharmacist,Columbus,OH,43201,39.9612,-82.9988,700,Moderate,10000.0,2022-07-01
+CUST_00909,John Hall,John,Hall,F,58,45-59 (Mature Adult),Electrician,New York,NY,10001,40.7128,-74.006,630,High,10000.0,2024-03-14
+CUST_00910,Gary Miller,Gary,Miller,M,42,30-44 (Middle Adult),Pharmacist,Seattle,WA,98101,47.6062,-122.3321,721,Moderate,30000.0,2025-04-16
+CUST_00911,Carol Hernandez,Carol,Hernandez,F,44,30-44 (Middle Adult),High School Teacher,Columbus,OH,43201,39.9612,-82.9988,730,Moderate,10000.0,2024-07-25
+CUST_00912,Jonathan Wilson,Jonathan,Wilson,F,37,30-44 (Middle Adult),Architect,Los Angeles,CA,90001,34.0522,-118.2437,608,High,15000.0,2023-04-04
+CUST_00913,Mark Flores,Mark,Flores,M,66,60+ (Senior),Project Manager,Miami,FL,33101,25.7617,-80.1918,671,Moderate,15000.0,2022-11-21
+CUST_00914,Angela Walker,Angela,Walker,F,34,30-44 (Middle Adult),Registered Nurse,Jacksonville,FL,32099,30.3322,-81.6557,744,Moderate,20000.0,2025-08-15
+CUST_00915,Joshua Allen,Joshua,Allen,F,48,45-59 (Mature Adult),Electrician,Boston,MA,02101,42.3601,-71.0589,623,High,5000.0,2023-04-29
+CUST_00916,Ryan Nelson,Ryan,Nelson,M,22,18-29 (Young Adult),Marketing Specialist,Denver,CO,80201,39.7392,-104.9903,720,Moderate,15000.0,2023-10-20
+CUST_00917,Margaret Nelson,Margaret,Nelson,F,38,30-44 (Middle Adult),Human Resources Manager,Boston,MA,02101,42.3601,-71.0589,638,High,15000.0,2025-01-28
+CUST_00918,George Robinson,George,Robinson,M,36,30-44 (Middle Adult),Architect,Phoenix,AZ,85001,33.4484,-112.074,637,High,30000.0,2023-06-11
+CUST_00919,Timothy Lee,Timothy,Lee,M,61,60+ (Senior),Human Resources Manager,San Antonio,TX,78201,29.4241,-98.4936,673,Moderate,7500.0,2025-08-14
+CUST_00920,Donald Sanchez,Donald,Sanchez,M,28,18-29 (Young Adult),High School Teacher,Phoenix,AZ,85001,33.4484,-112.074,709,Moderate,2500.0,2022-05-18
+CUST_00921,Michelle Robinson,Michelle,Robinson,F,56,45-59 (Mature Adult),Human Resources Manager,Columbus,OH,43201,39.9612,-82.9988,692,Moderate,20000.0,2021-03-17
+CUST_00922,Patricia Taylor,Patricia,Taylor,F,63,60+ (Senior),Marketing Specialist,Boston,MA,02101,42.3601,-71.0589,718,Moderate,20000.0,2025-10-12
+CUST_00923,Jennifer Campbell,Jennifer,Campbell,F,71,60+ (Senior),Accountant,New York,NY,10001,40.7128,-74.006,664,Moderate,30000.0,2021-06-21
+CUST_00924,William Clark,William,Clark,F,63,60+ (Senior),Research Scientist,Chicago,IL,60601,41.8781,-87.6298,719,Moderate,30000.0,2025-01-23
+CUST_00925,Sarah Thomas,Sarah,Thomas,M,57,45-59 (Mature Adult),Project Manager,Denver,CO,80201,39.7392,-104.9903,738,Moderate,15000.0,2024-09-22
+CUST_00926,Angela Taylor,Angela,Taylor,F,26,18-29 (Young Adult),Project Manager,San Diego,CA,92101,32.7157,-117.1611,572,High,30000.0,2025-07-11
+CUST_00927,Kenneth Perez,Kenneth,Perez,F,72,60+ (Senior),Human Resources Manager,San Diego,CA,92101,32.7157,-117.1611,707,Moderate,5000.0,2021-10-23
+CUST_00928,Emily Lewis,Emily,Lewis,F,37,30-44 (Middle Adult),Accountant,Miami,FL,33101,25.7617,-80.1918,702,Moderate,10000.0,2023-12-29
+CUST_00929,Melissa Hall,Melissa,Hall,M,41,30-44 (Middle Adult),Human Resources Manager,Boston,MA,02101,42.3601,-71.0589,681,Moderate,10000.0,2024-10-30
+CUST_00930,Charles White,Charles,White,F,66,60+ (Senior),Architect,Jacksonville,FL,32099,30.3322,-81.6557,720,Moderate,2500.0,2024-08-14
+CUST_00931,Robert Turner,Robert,Turner,M,65,60+ (Senior),Financial Analyst,San Diego,CA,92101,32.7157,-117.1611,634,High,15000.0,2023-02-27
+CUST_00932,George Phillips,George,Phillips,M,55,45-59 (Mature Adult),Civil Engineer,San Diego,CA,92101,32.7157,-117.1611,797,Low,10000.0,2021-01-17
+CUST_00933,Ronald Taylor,Ronald,Taylor,F,26,18-29 (Young Adult),Architect,San Diego,CA,92101,32.7157,-117.1611,766,Low,5000.0,2025-10-27
+CUST_00934,Kenneth Phillips,Kenneth,Phillips,F,71,60+ (Senior),Financial Analyst,Los Angeles,CA,90001,34.0522,-118.2437,609,High,30000.0,2021-06-14
+CUST_00935,Gary Walker,Gary,Walker,F,74,60+ (Senior),Human Resources Manager,Austin,TX,73301,30.2672,-97.7431,715,Moderate,30000.0,2021-07-25
+CUST_00936,Nicholas Jones,Nicholas,Jones,F,47,45-59 (Mature Adult),Attorney,Atlanta,GA,30301,33.749,-84.388,611,High,20000.0,2022-11-01
+CUST_00937,Ryan Hall,Ryan,Hall,M,69,60+ (Senior),Marketing Specialist,Los Angeles,CA,90001,34.0522,-118.2437,687,Moderate,20000.0,2023-06-28
+CUST_00938,Stephanie Gonzalez,Stephanie,Gonzalez,F,41,30-44 (Middle Adult),Registered Nurse,Miami,FL,33101,25.7617,-80.1918,654,Moderate,2500.0,2021-11-20
+CUST_00939,Ashley King,Ashley,King,M,75,60+ (Senior),Human Resources Manager,Atlanta,GA,30301,33.749,-84.388,583,High,30000.0,2022-10-17
+CUST_00940,Sarah Taylor,Sarah,Taylor,M,64,60+ (Senior),Electrician,Miami,FL,33101,25.7617,-80.1918,711,Moderate,30000.0,2022-08-01
+CUST_00941,Betty Garcia,Betty,Garcia,F,44,30-44 (Middle Adult),Research Scientist,Philadelphia,PA,19101,39.9526,-75.1652,707,Moderate,10000.0,2025-09-06
+CUST_00942,John Scott,John,Scott,M,26,18-29 (Young Adult),High School Teacher,Indianapolis,IN,46201,39.7684,-86.1581,656,Moderate,7500.0,2024-12-07
+CUST_00943,Nancy Brown,Nancy,Brown,F,60,60+ (Senior),Financial Analyst,Columbus,OH,43201,39.9612,-82.9988,709,Moderate,5000.0,2021-07-02
+CUST_00944,Jessica Smith,Jessica,Smith,F,70,60+ (Senior),Chef,Indianapolis,IN,46201,39.7684,-86.1581,672,Moderate,2500.0,2022-04-05
+CUST_00945,Anthony Gonzalez,Anthony,Gonzalez,F,39,30-44 (Middle Adult),Research Scientist,Seattle,WA,98101,47.6062,-122.3321,722,Moderate,5000.0,2023-06-03
+CUST_00946,Andrew Campbell,Andrew,Campbell,M,47,45-59 (Mature Adult),Human Resources Manager,Philadelphia,PA,19101,39.9526,-75.1652,627,High,30000.0,2021-10-26
+CUST_00947,Patricia Jackson,Patricia,Jackson,F,36,30-44 (Middle Adult),Civil Engineer,Atlanta,GA,30301,33.749,-84.388,617,High,5000.0,2023-01-28
+CUST_00948,David Smith,David,Smith,F,29,18-29 (Young Adult),Research Scientist,Austin,TX,73301,30.2672,-97.7431,644,High,20000.0,2022-03-11
+CUST_00949,Deborah Rivera,Deborah,Rivera,F,68,60+ (Senior),Financial Analyst,Atlanta,GA,30301,33.749,-84.388,665,Moderate,2500.0,2021-07-15
+CUST_00950,Donald Walker,Donald,Walker,F,59,45-59 (Mature Adult),Accountant,Atlanta,GA,30301,33.749,-84.388,674,Moderate,2500.0,2022-06-04
+CUST_00951,Nicholas Flores,Nicholas,Flores,F,40,30-44 (Middle Adult),Graphic Designer,San Francisco,CA,94101,37.7749,-122.4194,710,Moderate,5000.0,2024-02-20
+CUST_00952,Nancy Allen,Nancy,Allen,F,42,30-44 (Middle Adult),Operations Analyst,Indianapolis,IN,46201,39.7684,-86.1581,688,Moderate,2500.0,2022-10-12
+CUST_00953,Angela Ramirez,Angela,Ramirez,M,37,30-44 (Middle Adult),Electrician,Houston,TX,77001,29.7604,-95.3698,545,High,2500.0,2021-09-19
+CUST_00954,Emily Mitchell,Emily,Mitchell,F,48,45-59 (Mature Adult),Financial Analyst,San Jose,CA,95101,37.3382,-121.8863,681,Moderate,15000.0,2025-08-26
+CUST_00955,Kimberly King,Kimberly,King,F,48,45-59 (Mature Adult),Electrician,Philadelphia,PA,19101,39.9526,-75.1652,682,Moderate,20000.0,2023-10-04
+CUST_00956,Jeffrey Brown,Jeffrey,Brown,M,30,30-44 (Middle Adult),Sales Representative,Los Angeles,CA,90001,34.0522,-118.2437,651,Moderate,5000.0,2021-03-15
+CUST_00957,Jacob Taylor,Jacob,Taylor,M,66,60+ (Senior),Human Resources Manager,Indianapolis,IN,46201,39.7684,-86.1581,725,Moderate,2500.0,2023-10-11
+CUST_00958,Anna Young,Anna,Young,F,52,45-59 (Mature Adult),Operations Analyst,Houston,TX,77001,29.7604,-95.3698,692,Moderate,2500.0,2022-12-17
+CUST_00959,Barbara Wilson,Barbara,Wilson,F,32,30-44 (Middle Adult),Pharmacist,Philadelphia,PA,19101,39.9526,-75.1652,612,High,30000.0,2022-07-13
+CUST_00960,Margaret Nguyen,Margaret,Nguyen,M,54,45-59 (Mature Adult),Marketing Specialist,Miami,FL,33101,25.7617,-80.1918,651,Moderate,10000.0,2021-06-07
+CUST_00961,Ashley Roberts,Ashley,Roberts,F,64,60+ (Senior),Electrician,Houston,TX,77001,29.7604,-95.3698,648,High,2500.0,2022-08-06
+CUST_00962,Ronald White,Ronald,White,M,74,60+ (Senior),Operations Analyst,Austin,TX,73301,30.2672,-97.7431,611,High,2500.0,2021-06-16
+CUST_00963,Ryan Turner,Ryan,Turner,F,50,45-59 (Mature Adult),Software Engineer,Dallas,TX,75201,32.7767,-96.797,612,High,7500.0,2021-03-31
+CUST_00964,Dorothy Campbell,Dorothy,Campbell,M,34,30-44 (Middle Adult),Architect,Los Angeles,CA,90001,34.0522,-118.2437,578,High,7500.0,2025-06-23
+CUST_00965,Linda Mitchell,Linda,Mitchell,M,56,45-59 (Mature Adult),Research Scientist,Atlanta,GA,30301,33.749,-84.388,679,Moderate,2500.0,2023-03-28
+CUST_00966,Stephanie Garcia,Stephanie,Garcia,M,75,60+ (Senior),Marketing Specialist,San Antonio,TX,78201,29.4241,-98.4936,717,Moderate,10000.0,2025-05-16
+CUST_00967,Stephanie Jackson,Stephanie,Jackson,M,28,18-29 (Young Adult),Chef,San Jose,CA,95101,37.3382,-121.8863,670,Moderate,30000.0,2023-06-05
+CUST_00968,Thomas Thompson,Thomas,Thompson,M,74,60+ (Senior),Pharmacist,Jacksonville,FL,32099,30.3322,-81.6557,568,High,5000.0,2023-09-30
+CUST_00969,Laura Harris,Laura,Harris,F,38,30-44 (Middle Adult),Human Resources Manager,Miami,FL,33101,25.7617,-80.1918,638,High,2500.0,2025-03-30
+CUST_00970,Lisa Ramirez,Lisa,Ramirez,F,26,18-29 (Young Adult),Pharmacist,Los Angeles,CA,90001,34.0522,-118.2437,702,Moderate,7500.0,2023-08-08
+CUST_00971,Mark Adams,Mark,Adams,M,52,45-59 (Mature Adult),Pharmacist,Denver,CO,80201,39.7392,-104.9903,660,Moderate,2500.0,2022-08-19
+CUST_00972,Kathleen Martin,Kathleen,Martin,M,29,18-29 (Young Adult),Sales Representative,San Jose,CA,95101,37.3382,-121.8863,684,Moderate,15000.0,2023-05-26
+CUST_00973,Donna Torres,Donna,Torres,M,56,45-59 (Mature Adult),Accountant,Chicago,IL,60601,41.8781,-87.6298,629,High,15000.0,2021-08-09
+CUST_00974,Cynthia Nelson,Cynthia,Nelson,F,43,30-44 (Middle Adult),Registered Nurse,Dallas,TX,75201,32.7767,-96.797,677,Moderate,30000.0,2023-10-29
+CUST_00975,John Davis,John,Davis,F,32,30-44 (Middle Adult),Research Scientist,Philadelphia,PA,19101,39.9526,-75.1652,613,High,2500.0,2021-06-20
+CUST_00976,Kenneth Nguyen,Kenneth,Nguyen,F,69,60+ (Senior),Financial Analyst,Indianapolis,IN,46201,39.7684,-86.1581,719,Moderate,7500.0,2025-11-20
+CUST_00977,Lisa Wilson,Lisa,Wilson,M,26,18-29 (Young Adult),Financial Analyst,Atlanta,GA,30301,33.749,-84.388,729,Moderate,30000.0,2024-10-11
+CUST_00978,James Sanchez,James,Sanchez,M,21,18-29 (Young Adult),Chef,Philadelphia,PA,19101,39.9526,-75.1652,718,Moderate,10000.0,2024-11-17
+CUST_00979,Stephanie Parker,Stephanie,Parker,F,40,30-44 (Middle Adult),Graphic Designer,Atlanta,GA,30301,33.749,-84.388,753,Low,20000.0,2024-10-11
+CUST_00980,Joshua Garcia,Joshua,Garcia,M,29,18-29 (Young Adult),High School Teacher,New York,NY,10001,40.7128,-74.006,663,Moderate,2500.0,2025-07-30
+CUST_00981,John Hall,John,Hall,M,75,60+ (Senior),High School Teacher,New York,NY,10001,40.7128,-74.006,703,Moderate,10000.0,2024-08-21
+CUST_00982,Jonathan Gonzalez,Jonathan,Gonzalez,M,40,30-44 (Middle Adult),Operations Analyst,Indianapolis,IN,46201,39.7684,-86.1581,709,Moderate,10000.0,2023-05-15
+CUST_00983,John Davis,John,Davis,M,30,30-44 (Middle Adult),Chef,Indianapolis,IN,46201,39.7684,-86.1581,722,Moderate,10000.0,2021-02-10
+CUST_00984,Betty Jackson,Betty,Jackson,F,24,18-29 (Young Adult),Software Engineer,Austin,TX,73301,30.2672,-97.7431,629,High,2500.0,2024-07-15
+CUST_00985,Sharon Clark,Sharon,Clark,F,68,60+ (Senior),Attorney,Miami,FL,33101,25.7617,-80.1918,622,High,7500.0,2021-03-17
+CUST_00986,Gary Anderson,Gary,Anderson,M,54,45-59 (Mature Adult),Human Resources Manager,New York,NY,10001,40.7128,-74.006,685,Moderate,15000.0,2022-10-09
+CUST_00987,Stephen Jones,Stephen,Jones,F,62,60+ (Senior),Chef,Columbus,OH,43201,39.9612,-82.9988,628,High,2500.0,2023-10-11
+CUST_00988,Laura Hall,Laura,Hall,F,22,18-29 (Young Adult),Architect,Philadelphia,PA,19101,39.9526,-75.1652,630,High,20000.0,2022-01-29
+CUST_00989,Jacob Thompson,Jacob,Thompson,F,35,30-44 (Middle Adult),Sales Representative,Denver,CO,80201,39.7392,-104.9903,644,High,15000.0,2024-11-03
+CUST_00990,Cynthia Rodriguez,Cynthia,Rodriguez,F,67,60+ (Senior),Human Resources Manager,San Francisco,CA,94101,37.7749,-122.4194,738,Moderate,30000.0,2024-10-10
+CUST_00991,George Gomez,George,Gomez,F,72,60+ (Senior),High School Teacher,Philadelphia,PA,19101,39.9526,-75.1652,680,Moderate,7500.0,2024-11-15
+CUST_00992,Thomas Lopez,Thomas,Lopez,M,31,30-44 (Middle Adult),Chef,Atlanta,GA,30301,33.749,-84.388,606,High,2500.0,2025-06-14
+CUST_00993,Rebecca Young,Rebecca,Young,F,36,30-44 (Middle Adult),Attorney,San Antonio,TX,78201,29.4241,-98.4936,655,Moderate,2500.0,2021-02-07
+CUST_00994,Christopher Lopez,Christopher,Lopez,M,72,60+ (Senior),Electrician,Chicago,IL,60601,41.8781,-87.6298,710,Moderate,10000.0,2021-08-22
+CUST_00995,Sandra Davis,Sandra,Davis,M,52,45-59 (Mature Adult),Electrician,Dallas,TX,75201,32.7767,-96.797,690,Moderate,30000.0,2022-12-29
+CUST_00996,Anna Moore,Anna,Moore,M,75,60+ (Senior),Project Manager,Denver,CO,80201,39.7392,-104.9903,595,High,20000.0,2021-04-14
+CUST_00997,Jeffrey Phillips,Jeffrey,Phillips,F,74,60+ (Senior),Project Manager,Houston,TX,77001,29.7604,-95.3698,604,High,30000.0,2024-06-04
+CUST_00998,Susan Evans,Susan,Evans,M,53,45-59 (Mature Adult),Marketing Specialist,Houston,TX,77001,29.7604,-95.3698,617,High,20000.0,2021-08-30
+CUST_00999,Anthony White,Anthony,White,M,67,60+ (Senior),Civil Engineer,San Jose,CA,95101,37.3382,-121.8863,579,High,30000.0,2023-11-03
+CUST_01000,Karen Adams,Karen,Adams,F,42,30-44 (Middle Adult),Project Manager,Phoenix,AZ,85001,33.4484,-112.074,681,Moderate,30000.0,2022-02-18

@@ -1,0 +1,144 @@
+{
+  "summary": {
+    "total_transactions": 14725,
+    "total_spend_dollars": 3874599.66,
+    "total_fraud_cases": 313,
+    "total_flagged_cases": 447,
+    "fraud_rate_pct": 2.13,
+    "flagged_rate_pct": 3.04
+  },
+  "classification_metrics": {
+    "true_positives": 313,
+    "false_positives": 134,
+    "false_negatives": 0,
+    "true_negatives": 14278,
+    "precision_pct": 70.02,
+    "recall_pct": 100.0,
+    "specificity_pct": 99.07,
+    "f1_score_pct": 82.37,
+    "accuracy_pct": 99.09
+  },
+  "financial_impact": {
+    "total_fraud_dollars": 519719.0,
+    "prevented_fraud_dollars": 519719.0,
+    "missed_fraud_dollars": 0,
+    "fraud_prevention_rate_pct": 100.0,
+    "false_positive_dollars": 90080.46
+  },
+  "rules_breakdown": [
+    {
+      "rule_id": "rule_velocity_burst",
+      "rule_name": "Rule 1: Velocity Burst (>=3 in 15m)",
+      "total_triggered": 163,
+      "true_positives": 163,
+      "false_positives": 0,
+      "precision_pct": 100.0,
+      "recall_pct": 52.08,
+      "fraud_dollars_caught": 54215.04
+    },
+    {
+      "rule_id": "rule_probe_drain",
+      "rule_name": "Rule 2: Micro-Probe & Drain (<$5 followed by >$600)",
+      "total_triggered": 74,
+      "true_positives": 71,
+      "false_positives": 3,
+      "precision_pct": 95.95,
+      "recall_pct": 22.68,
+      "fraud_dollars_caught": 65413.58
+    },
+    {
+      "rule_id": "rule_midnight_high_risk",
+      "rule_name": "Rule 3: Midnight High-Risk MCC Spike",
+      "total_triggered": 219,
+      "true_positives": 88,
+      "false_positives": 131,
+      "precision_pct": 40.18,
+      "recall_pct": 28.12,
+      "fraud_dollars_caught": 110739.97
+    },
+    {
+      "rule_id": "rule_credit_outlier",
+      "rule_name": "Rule 4: Credit Limit & Outlier Breach (>75% limit)",
+      "total_triggered": 31,
+      "true_positives": 31,
+      "false_positives": 0,
+      "precision_pct": 100.0,
+      "recall_pct": 9.9,
+      "fraud_dollars_caught": 361937.5
+    }
+  ],
+  "category_exposure": [
+    {
+      "category": "gaming_gambling",
+      "fraud_count": 69,
+      "total_transactions": 1550,
+      "fraud_rate_pct": 4.45,
+      "fraud_dollars": 105447.05,
+      "total_dollars": 430995.6
+    },
+    {
+      "category": "electronics",
+      "fraud_count": 66,
+      "total_transactions": 1726,
+      "fraud_rate_pct": 3.82,
+      "fraud_dollars": 81231.85,
+      "total_dollars": 895088.32
+    },
+    {
+      "category": "crypto_exchange",
+      "fraud_count": 32,
+      "total_transactions": 1502,
+      "fraud_rate_pct": 2.13,
+      "fraud_dollars": 73202.17,
+      "total_dollars": 1184630.2
+    },
+    {
+      "category": "health_wellness",
+      "fraud_count": 22,
+      "total_transactions": 1125,
+      "fraud_rate_pct": 1.96,
+      "fraud_dollars": 65972.17,
+      "total_dollars": 162166.46
+    },
+    {
+      "category": "gas_transport",
+      "fraud_count": 30,
+      "total_transactions": 1939,
+      "fraud_rate_pct": 1.55,
+      "fraud_dollars": 65395.65,
+      "total_dollars": 145092.02
+    },
+    {
+      "category": "travel",
+      "fraud_count": 24,
+      "total_transactions": 1226,
+      "fraud_rate_pct": 1.96,
+      "fraud_dollars": 63709.13,
+      "total_dollars": 528402.51
+    },
+    {
+      "category": "grocery",
+      "fraud_count": 42,
+      "total_transactions": 2104,
+      "fraud_rate_pct": 2.0,
+      "fraud_dollars": 42767.53,
+      "total_dollars": 185120.01
+    },
+    {
+      "category": "online_retail",
+      "fraud_count": 25,
+      "total_transactions": 1897,
+      "fraud_rate_pct": 1.32,
+      "fraud_dollars": 11958.41,
+      "total_dollars": 242815.38
+    },
+    {
+      "category": "dining",
+      "fraud_count": 3,
+      "total_transactions": 1656,
+      "fraud_rate_pct": 0.18,
+      "fraud_dollars": 10035.04,
+      "total_dollars": 100289.16
+    }
+  ]
+}
